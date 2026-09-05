@@ -213,7 +213,15 @@ It was the closest her orbit ever got to mine, either before or after.
 
 I did continue to visit her after that, and we had many more beautiful
 moments together, but the boundary was always there, and I never
-pushed it.
+pushed it. 
+
+We remained friends to this day. In fact, we just had an hours long phone conversation as I was working on this chapter, and trying to put some order into my memories. I had initially shared an early draft with her by email and she replied with an audio recording attached, explaining to me that she finds it tiresome to write and prefers to talk. The next Saturday, during my weekend bike ride to Palo Alto, I saw that she was online on WhatsApp and called her, even though it was late evening in Romania. To my surprise, even though we hadn’t talked for several years, we picked up right where we left off and ended up talking for hours, reminiscing about our shared memories.
+
+At one point Claudia got out of her apartment and went for a walk in the night, continuing to talk. As I was trying to make sense of her rejection, she stopped me, saying: 
+
+“George, that was just how I was at the time, but look at what we have instead: show me another woman who would go out in the middle of the night and hang out with you on the phone for hours.”
+
+She was right, I realized then something that may seem obvious: aside from the outside, objective reality, there are as many internal worlds as there are people. Every time we have a conversation with someone, we get a peek into their world. What an amazing, wondrous thing, to be able to get a glimpse into another human’s psyche! Now, granted, this requires a meaningful conversation with a certain depth, not your everyday mundane interactions. Still, what wealth of unexplored terrain lies within each person, and how much we could enrich our own life by actually taking the time to wander in someone else’s universe.
 
 
 [^1]: This particular memory had slipped my mind, but when I shared an early draft of this chapter with Claudia, she reminded me about it. 
