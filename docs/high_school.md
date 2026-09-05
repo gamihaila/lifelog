@@ -18,3 +18,43 @@ The last year of high school came soon enough, and with it the looming universit
 Finally, the admission exams days came. For the Mathematics-Informatics major the exam was the same as for pure Mathematics, a three-day affair, each one with a three-hour exam, for Algebra, Analysis, and Trigonometry. I was ready! However, just a few days before the exam I caught a cold, so I walked into the first exam with a fever and brain fog. That didn’t matter, as soon as I opened the sealed envelope with the problems I forgot all about the fever and I proceeded to write down the solutions in the manner I had prepared for all the past months. Same for the second day. By the third day, the fever had subsided significantly, and so had the brain fog, so it was a breeze going through the exam, which consisted of problems of the exact same kind as the ones I had been drilling all this time, no surprises. 
 
 Once the exam was over, I went home and waited for the results. It took about a week for the grading to be complete. Every day, anxious students, parents and relatives would go to the poster board outside the University to check if the results were ready, even though we were told to wait at least a week. I didn’t go, I figured I’d find out when the results became available, no point going too early. However, one day one of my aunts went there and fought her way close to the freshly posted results, in a sea of anxious people. When she got close enough to read, she started reading from the bottom of the list (the list was in descending order by score), read the entire list, and after finishing the entire list she started crying. The nice people close to her thought to console her: “Don’t cry, lady, it’s OK, your kid can try again and will eventually get in, don’t lose hope!”. To which my dear aunt managed to answer, sobbing profusely: “No, it’s not that, he’s in the first position on the list!” Turns out I had passed the exam with a perfect score, which placed me at the top of the list, despite the fever.
+
+That summer, after the admission results came, I was basking in the glory of my new status, as a college-bound kid. My childhood best friend Marian had also been admitted at the Polytechnics Institute, and we were both oozing confidence. I remember we went together to the beach, with my dad, the three of us sharing a hotel room. One late afternoon, at the beach we spotted two girls our age that were walking together. Marian, being the braver one, pointed to them and suggested we go talk to them. We briefly agreed which one each of us to go after, and then he went first and started talking to “his girl”. The other girl stayed behind a few steps, and I approached her, affecting a genuine curiosity:
+
+“I wonder where do they know each other from, what do you think? Which high school do you go to?” 
+
+“Oh, we’re from Bucharest, from a small high school at the outskirts of town”, she said, friendly enough.
+
+As the ice was officially broken, I started bragging to her how we just passed the university admission exam and which majors we were pursuing. 
+
+“Oh, we’re just going into the twelfth grade”, she said sheepishly.
+
+“Do you girls want to go with us to Luna Park and try the roller-coasts there?”, Marian offered.
+
+“Sure, that sounds like fun!”, they both agreed in unison.
+
+So, after dinner we went to their hotel to pick them up. They were waiting in the lobby for us at the agreed time. We were brimming with confidence.
+
+We spent the whole evening together at the amusement park, going in all the rides, eating cotton candy, holding each other tight during the scary roller coaster ride, and just having a good time together. I was anxiously waiting to see “my girl” again the next days, but they didn’t show up anymore, perhaps their parents didn’t let them hang out with strangers, who knows. Even though nothing came out of this encounter, I still have fond memories of my first “conquest” since middle school. 
+
+A few weeks after, I had my first trip out of the country. My dad had been invited by the University of Sofia for some summer program, and me and my mom accompanied him. We went there by train, in a sleeper car. I remember that we crossed the border at night, and we spent quite a bit of time there for the customs control. The border looked and sounded positively terrifying: strange commands were called from the loudspeakers, in Bulgarian, and armed soldiers were watching the train. At one point, a Bulgarian customs officer came into our compartment to inspect our papers and ask about what we were bringing over the border. 
+
+“Nothing to declare”, my father said, in perfect Bulgarian. 
+
+“What’s this?”, the officer said, pointing at the Sony Walkman my mom bought for me from a colleague at work with relatives abroad.
+
+“It’s my son’s cassette player”, my dad answered.
+
+“Can I try it?”, the officer asked, clearly impressed.
+
+“Sure!”, my father said and gave it to him.
+
+The officer pressed Play and listened for a few minutes to my Michael Jackson pirated cassette my friend Marian copied for me from an original tape smuggled into the country by a friend of a friend. Then he wrote an official document attesting that we had crossed the border with this and that we were expected to have it on our way back.
+
+“No worries”, I was thinking, “there’s no way I’m parting with my Walkman”.
+
+The visit to Bulgaria was an eye opener: even though this was a socialist country just like ours, it was way more developed and modernized, with well maintained freeways, clean restaurants and better stores. I remember seeing Western music in the state music stores, something that was unheard of in Romania. I even bought a couple of Rod Steward LPs there. The apartment we were staying in was very nice, it was a university-owned place for visiting researchers, and had access to a closed-circuit grocery store, just like the Communist leaders had in Romania. I quickly discovered a new favorite drink, Orange Schweppes. On the streets, though, try as I might, I never saw any good looking Bulgarian girl, none as pretty as my compatriots. 
+
+In the apartment I found a copy of Goethe’s “Sorrows of Young Werther”, and I read the whole book while I was there. I was also killing time by playing with a typewriter that was installed there, even though it had Slavonic letters. I was somehow fascinated with keyboards from childhood, typing on them every chance I got whenever I found one in my parents’ friends apartments. By then I had already learned Fortran and I was trying to type programs on that Bulgarian typewriter, for fun.
+
+
