@@ -155,7 +155,7 @@ too. To me, she was Pocahontas: on a trip we took to visit some of her relatives
 in the Tyendinaga Territory, the chief offered to marry us right then and
 there on the reservation ground. Hearing this, I tried to persuade Lara to go for it, but she declined.
 
-At some point during the Fall of 1997 I got an email from Dana, who was now
+At some point I got an email from Dana, who was now
 working at Bell Labs with Alon Halevy, and living with her husband in a
 townhouse in New Jersey. She was inviting us to spend the winter vacation at her
 house: “You can go to the city anytime by train, we’re only half an hour away”,
