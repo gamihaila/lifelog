@@ -33,7 +33,11 @@ At some point in December though, I got a phone call from one of the Romanian st
 
 “Yes, I’m pretty sure my parents had already met when ABBA was popular”, she joked.
 
-Anyway, after that party Luiza kept calling me, and we met a few times, I believe we had lunch at a nice French restaurant in the Manulife Centre next to my place, and she kept looking into my eyes, in love with the idea of falling in love. When I finally realized what was going on and I tried to temper her enthusiasm, it was too late, she had become obsessed, in spite or more likely because I didn’t show any romantic interest in her. I felt bad for her, and mad at myself for inadvertently leading her on. It was time to put things straight, so when she called me to ask when will we see each other again I said something along these lines:
+Anyway, after that party Luiza kept calling me, and we met a few times, I believe we had lunch at a nice French restaurant in the Manulife Centre next to my place, and she kept looking into my eyes, in love with the idea of falling in love. 
+
+When I finally realized what was going on and tried to temper her enthusiasm, it was too late. Despite my lack of romantic interest, which I thought would discourage her, she had become obsessed. If anything, my distance seemed to intensify her fixation.
+
+I felt bad for her, and mad at myself for inadvertently leading her on. It was time to put things straight, so when she called me to ask when will we see each other again I said something along these lines:
 
 “Look, Luiza, you’re a wonderful girl, but I’m not in the right frame of mind for a relationship right now, I have a lot of problems to work through by myself first.”
 
