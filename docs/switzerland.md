@@ -71,8 +71,13 @@ aren't really fluent in Romanian, they understand it well enough and
 had a great time, really taking in the local vibe, and especially the
 restaurants, which by now had really good food.
 
-In Switzerland, I was going to work during the week, but every weekend
-we were going to the mountains by train. One time we went to Fribourg
+In Switzerland, I was going to work during the week, and every weekend
+we were going to the mountains by train. 
+The Google office was located on the North West side of Lake Zurich and our apartment was on the East side.
+For the first few days I took the train, but then I found out that I could borrow one of the Google E-bikes from the office for my commute. That was a game changer.
+Every morning I would get a half an hour of pure joy cycling alongside the lake to the office and in the evening on the way back.
+
+One time we went to Fribourg
 to visit some family friends we met in the Saint Vladimir Seminary in
 Crestwood, New York: he was a Swiss man who was training to become an
 Orthodox priest, married to a Romanian woman, and they had five kids
