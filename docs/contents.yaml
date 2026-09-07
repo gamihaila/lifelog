@@ -58,10 +58,13 @@ chapters:
     title: Cristina
 
   - file: lara.md
-    title: Lara
+    title: Lara     
+    
+  - file: exploring.md
+    title: Explorations
 
   - file: src_internship.md
-    title: SRC Palo Alto
+     title: California 1999
 
   - file: gratiela.md
     title: Grațiela 
