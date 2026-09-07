@@ -247,7 +247,17 @@ At some point in December though, I got a phone call from one of the Romanian st
 
 “Yes, I’m pretty sure my parents had already met when ABBA was popular”, she joked.
 
-Anyway, after that party Luiza kept calling me, and we met a few times, I believe we had lunch at a nice French restaurant in the Manulife Centre next to my place, and she kept looking into my eyes, in love with the idea of falling in love. When I finally realized what was going on and I tried to temper her enthusiasm, it was too late, she had become obsessed, in spite of the fact, or probably because I didn’t show any romantic interest in her. I felt bad for her, and mad at myself for inadvertently leading her on. It was time to put things straight, so the next time she called me I told her that she’s a wonderful girl, but I’m not ready for a relationship, basically “It’s not you, it’s me”. She took it badly, but stopped calling. Boy, I never thought I’ll be in this position, after being on the receiving end of rejection so many times in the past. It wasn’t fun. She was precisely the age I had been when I met Ioana, convinced that love was just around the corner. 
+Anyway, after that party Luiza kept calling me, and we met a few times, I believe we had lunch at a nice French restaurant in the Manulife Centre next to my place, and she kept looking into my eyes, in love with the idea of falling in love. When I finally realized what was going on and I tried to temper her enthusiasm, it was too late, she had become obsessed, in spite of the fact, or probably because I didn’t show any romantic interest in her. I felt bad for her, and mad at myself for inadvertently leading her on. It was time to put things straight, so when she called me to ask when will we see each other again I said something along these lines:
+
+“Look, Luiza, you’re a wonderful girl, but I’m not in the right frame of mind for a relationship right now, I have a lot of problems to work through by myself first.”
+
+“But why, what did I do wrong?”, she pressed. 
+
+“Nothing. It’s not you, it’s me. I have a fear of commitment”, I said. 
+
+She took it badly, but stopped calling. Boy, I never thought I’d be in this position, after being on the receiving end of rejection so many times in the past. It wasn’t fun, but it was the right thing to do, and I should have done it earlier except that I actually did enjoy her company too, in a friendly way. 
+
+She was precisely the age I had been when I met Ioana, convinced that love was just around the corner. It felt like someone placed a mirror in front of my 20-year-old face. I realized now just how much I wanted to fall in love with someone, anyone, back then. Walking around on the streets of Bucharest I was surrounded by couples kissing in public and caressing each other openly. Add to that the inevitable hormones and you have the perfect recipe for jumping head first in a relationship and then regretting that I committed too soon when I was painfully attracted to several other girls, each of them beautiful in her own way.
 
 I went back to seeing Lara, on and off, with no obligations on either end, just a promise to let each other know if someone else came along. Nobody did, for either of us.
 
