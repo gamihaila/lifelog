@@ -17,3 +17,7 @@ During one of these stays at a clinic, her husband impregnated the maid. He conf
 
 Indeed, they raised my grandmother as their own daughter, and as soon as she turned sixteen, they married her off to a young schoolteacher from another village who had just been hired to teach mathematics in the village elementary school. That was my grandfather, Tănase Popa. 
 
+When the war came, the Russian Army was going to pass through their village on the way to Bucharest. My grandfather, hearing this, hastily got all his daughters dressed in rags and covered their faces with soot to make them as unattractive as possible to the soldiers. My mom was fourteen at the time. Luckily, when the soldiers came, they only asked for Vodka and left.
+
+After the war, the communists took the power, under the protection of the Russian tanks which were still stationed in the country. When my mom applied for university, she was turned back because of her adoptive parents wealth, of which she was the only heir. She promptly went to the public notary and donated her entire estate, with all the land and houses to the State. The poor notary tried with all his might to dissuade her, saying: "Miss Violeta, don't do this. The late Mr. Popescu-Dara would surely turn in his grave if you go through with this! He worked all his life to build this wealth and you're giving it all away?" My mom, however, was determined. And this is how she was finally admitted to university, after proving she was penniless now. And that's where she eventually met my father.
+
