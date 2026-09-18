@@ -56,4 +56,4 @@ You can imagine my reaction when, a few months later, prof. Căzănescu walked i
 
 At the time it was incredibly motivating for me, and building into my fantasy of one day working as a computer scientist, and possibly pursuing an academic career. I was conflicted though, simultaneously pulled into more practical software engineering and theoretical computer science. It was a time of figuring out what I wanted to do, and it was confusing. I would only fully resolve this conflict some twenty years later, but let’s not jump ahead.
 
-[^1] Virgil E. Cazanescu, George A. Mihaila. Partial flowchart schemes, In Studii si Cercetari Matematice, 43, 1-2, pp.11-23, 1991
+[^1]: Virgil E. Cazanescu, George A. Mihaila. Partial flowchart schemes, In Studii si Cercetari Matematice, 43, 1-2, pp.11-23, 1991
