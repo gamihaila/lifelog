@@ -76,7 +76,7 @@ international airport. The corn was a black variety used for
 popcorn. Of course we all brought some home and made delicious
 popcorn. But the most interesting part was watching the planes take
 off and land right over our heads, at very low altitude. None of us
-had ever flew on a plane anywhere, much less to the far countries we
+had ever flown on a plane anywhere, much less to the far countries we
 knew these planes were coming from. "One day, I will be in a plane,
 going to a far land, too", I clearly remember thinking. That memory
 stayed with me after all these years, resurfacing every time I fly
