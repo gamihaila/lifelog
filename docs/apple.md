@@ -40,7 +40,7 @@ large part because of Roxana.
 I joined Apple Maps in the spring of 2019. I started getting used to the team and the codebase, and gradually
 getting involved in the planning process. My manager also asked me to
 have informal discussions with some engineers from another team and
-pick two I would like to be transferred to our team.  After six
+qpick two I would like to be transferred to our team.  After six
 months, it was time to officially announce my new management role. My
 manager had brief one-on-ones with all the engineers in my new team
 asking them if they had any concerns, and then it was official!
@@ -95,15 +95,41 @@ to see we can be resilient and continue to get things done without the
 commute, but after a few months it started to wear us down. Several
 engineers got sick and had to take extended time off. I was finding it
 increasingly difficult to keep everyone's spirits up, without the
-in-person interactions we had taken for granted before. I was also
-spending more and more time in (virtual) meetings, and less and less
-time doing what I love, designing and building software. My manager
-noticed that (I kept complaining about it), and at one point asked me
-to take a few days off and just think about what gives me joy. I did,
-and wrote down a long list of all the aspects of my job that I
-enjoyed and another one with all the ones I dreaded. I sent him the
-lists, unedited. When I got back to work, on our next one-on-one
-meeting I said:
+in-person interactions we had taken for granted before.
+
+Initially all of us had to work from home, but after a few months we
+were allowed the option to come back to the office, if we wanted. I
+asked each engineer in my team if they want to come back, but none of
+them was willing. At the time, my kids were also at home, doing their
+school work over Zoom meetings, and I was having trouble concentrating
+at home. So I went back to the office. I was the only one. The entire
+campus was completely empty. I really felt like that lone guy in the
+Passengers movie, before waking up Aurora from her hybernation pod. A
+few more months passed, and one day another engineer showed up in the
+office. Her name was Franziska, she was a new hire in another team,
+and she had just moved from Germany. Naturally, we started spending
+time together, playing table tennis during the breaks, talking, and
+cycling to the other, larger Apple buildings that had their cafeterias
+open (ours was still closed for lack of customers). Slowly, very
+slowly, more engineers started showing up, and we would all go to
+lunch together. At some point, she told me in passing that she is
+planning to get her California driver license (she had a German one),
+but she didn't have a car for the road test. As I had a Nissan Leaf
+in addition to our family car, I offered to lend it to her to practice
+and also to go with her to the DMV for the test. I have fond memories
+of our long conversations from that time, she was helping me through
+some difficult interactions with my daughters, providing some
+perspective from her own college years. Even after she eventually
+moved to Southern California, we still kept in touch as friends. 
+
+At work, I was spending more and more time in (virtual) meetings, and
+less and less time doing what I love, designing and building
+software. My manager noticed that (I kept complaining about it), and
+at one point asked me to take a few days off and just think about what
+gives me joy. I did, and wrote down a long list of all the aspects of
+my job that I enjoyed and another one with all the ones I dreaded. I
+sent him the lists, unedited. When I got back to work, on our next
+one-on-one meeting I said:
 
 "Thank you for being supportive and allowing me to really spend some
 time figuring out what I want. When I read back the lists I sent you
