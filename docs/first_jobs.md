@@ -1,4 +1,3 @@
-
 I remember our first day at the Research Institute for Informatics: we
 were asked to pick a research group to join. I was at a loss: so far
 all my research was purely theoretical, using algebraic objects to
