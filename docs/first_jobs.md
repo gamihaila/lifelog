@@ -82,7 +82,7 @@ a modem, and a local area Ethernet network connecting
 everything. Aside from the founder, there were about five engineers
 working there. They also had an impressive collection of American
 software engineering books and magazines, which was unheard of in
-1991. After an informall chat with the founder we were all hired on a
+1991. After an informal chat with the founder we were all hired on a
 trial basis, with a basic official salary in lei which was already
 more than my pay as a TA at the university, supplemented by a monthly
 pay in dollars, completely off the books. Moreover, the dollar amount
@@ -100,7 +100,7 @@ month after month, each month more than the previous one. They weren't
 large amounts, in absolute terms, on the order of a hundred dollars a
 month, but they were more dollars that I had ever seen in my life, and
 the exchange rate was insanely favorable, what with the national
-currency in free fall and everything. We were living it up, very soon
+currency in free fall and all. We were living it up, very soon
 I was making more money than my parents combined.
 
 At Omnis Group is where I first saw a graphical operating system, the
@@ -142,7 +142,7 @@ say, this upset me to no end, I didn't need that kind of pressure on
 top of what I was going through on my own.
 
 This wasn't sustainable, and after a year of running around between my
-two jobs and having very little to no time left for research I started
+two jobs and having little to no time left for research I started
 thinking of leaving my job at Omnis Group so I could focus on my
 academic career. With my limited knowledge of the Bible, this verse
 came to mind: "No one can serve two masters. Either you will hate the
@@ -165,12 +165,12 @@ colleagues visited and delivered a code review after four months of
 our development. I remember not being happy with thir critique of our
 design, but thinking back now, they were probably right, it's just
 that we would have benefited from getting it earlier so we could align
-to the required style.
+to the expected style.
 
 At some point there was some deep cleaning of the office and all
 windows were left wide open to dry the floor. All good, except that it
 was early spring and I was sitting directly next to the window. The
-next day I had a high fever and coughing continuously. It was much
+next day I had a high fever and persistent cough. It was much
 worse than any cold I had before, so I went to see a doctor (Ioana's
 dad drove me to the clinic and waited for me). Turns out I had
 pneumonia, so I got admitted to the hospital. I was placed in a room
@@ -182,10 +182,10 @@ itching. Ioana visited me once but complained it was too inconvenient
 to get to the hospital by bus. In my feverish state, this didn't
 exactly raise my spirits. Finally, my sister talked to a family
 friend, a doctor who contacted my doctor and suggested a stronger
-antibiotic. It was only when my sister brought a envelope with money
+antibiotic. It was only when my sister brought a envelope with bribe money
 for my doctor that she finally switched my treatment and, surprise, I
 started getting better immediately. I was released after one full
-week, and left the hospital on my own, and went home (Ioana was at
+week, left the hospital on my own, and went home (Ioana was at
 work, teaching).
 
 Not too long after that, Ioana asked me to help her with a programming
