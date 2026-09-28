@@ -95,7 +95,7 @@ batted an eye about our country of origin, we knew that Romanians had
 a pretty bad reputation in Western Europe, especially Switzerland,
 because of a few illegal migrants who were getting in trouble with the
 law. We had experienced this first-hand a couple of years earlier,
-when we were vacationing in Paris and we got approached by an
+when we were vacationing in Paris and we got approached by a
 well-meaning French old lady as we were getting out of the Place
 Pigalle Metro station: "Faites attention aux pickpockets Roumains, il
 sont partout!". We looked her in the eyes and said: "Mais nous sommes

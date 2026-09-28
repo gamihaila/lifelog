@@ -240,7 +240,7 @@ itching. Ioana visited me once but complained it was too inconvenient
 to get to the hospital by bus. In my feverish state, this didn't
 exactly raise my spirits. Finally, my sister talked to a family
 friend, a doctor who contacted my doctor and suggested a stronger
-antibiotic. It was only when my sister brought a envelope with bribe money
+antibiotic. It was only when my sister brought an envelope with bribe money
 for my doctor that she finally switched my treatment and, surprise, I
 started getting better immediately. I was released after one full
 week, left the hospital on my own, and went home (Ioana was at
