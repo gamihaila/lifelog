@@ -7,7 +7,7 @@ was more emboldened to approach strangers and make acquaintances. It was the
 ideal environment for it too, since everyone there was a new student, typically
 from another country, and they were therefore open to making new friends. As a
 somewhat senior student I had stuff to talk about with the newcomers. That
-helped a lot, as I was normally rather shy. So, as I was walking around I see a good looking young girl smiling in my direction and I take that as a clue to go talk to her. Something in her physiognomy seemed familiar to me, almost as she was Romanian (I would find out later that her ancestors came from Eastern Europe). She had a beautiful and sincere smile that drew me in right away. As this was the International Students Center, I had the perfect opening:
+helped a lot, as I was normally rather shy. So, as I was walking around I saw a good looking young girl smiling in my direction and I took that as a clue to go talk to her. Something in her physiognomy seemed familiar to me, almost as she was Romanian (I would find out later that her ancestors came from Eastern Europe). She had a beautiful and sincere smile that drew me in right away. As this was the International Students Center, I had the perfect opening:
 
 "Hi, my name is George! I'm from Romania, where are you from?"
 
@@ -29,7 +29,7 @@ After quite a bit of chit-chat about our majors, and life at the U of T, I thoug
 
 Luckily, the U of T campus is not that large, and I bumped into her several times after that, and each time she was friendly, until eventually we did exchange phone numbers and occasionally visited each other.
 
-One time, she called me to ask me if I want to go with her to a varsity hockey game she had to write an article about for the university newspaper.
+One time, she called me to ask me if I wanted to go with her to a varsity hockey game she had to write an article about for the university newspaper.
 
 "Great, I'll bring my camcorder", I offered, "and I can film it for you so you can go back and write about the more interesting parts."
 
