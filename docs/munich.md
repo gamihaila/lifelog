@@ -1,10 +1,10 @@
 One day in the spring of 1992, as I was preparing for the class I was
-TA-ing at the university, I walked by the bulletin board on my
-way. One brightly colored poster caught my attention: "Algebra and
-Computation Summer School, June 15-19 1992, Marktoberdorf,
-Germany. Sponsored by NATO. To apply, use one of the application forms
-below. If there is no application form left, send a self addressed
-envelope at this address".
+TA-ing at the university, I walked by the bulletin board on my way.
+One brightly colored poster caught my attention: "Algebra and
+Computation Summer School, June 15-19 1992, Marktoberdorf, Germany.
+Sponsored by NATO. To apply, use one of the application forms below.
+If there is no application form left, send a self addressed envelope
+at this address".
 
 You guessed it, all application forms were gone. So I wrote a letter
 to ask for one and mailed it (no e-mail yet, at the time). A week
@@ -27,10 +27,10 @@ costs). Luckily, the letter indicated that the organizers were
 offering to cover the tuition fees which included room and board, I
 just was expected to pay for the travel. That was more manageable,
 especially if I took the train. So, with some help from my parents, I
-bought a train ticket to Munich, with a few hours stop over in
-Vienna. This would be my very first trip outside of the Eastern
-Bloc. The only other time when I traveled abroad was on a family trip
-to Bulgaria, in 1986.
+bought a train ticket to Munich, with a few hours stop over in Vienna.
+This would be my very first trip outside of the Eastern Bloc. The only
+other time when I traveled abroad was on a family trip to Bulgaria, in
+1986.
 
 So, finally, Ioana accompanied me to the train station and I boarded
 the train, in a sleeper car. I remember meeting a young Romanian man,
@@ -76,19 +76,17 @@ suggestion that it could be used by optimizing compilers, although
 actually exploring that was always considered left as an exercise to
 the reader, so to speak. Regardless, this professor was sufficiently
 interested, so I tried probing his willingness to invite me to his
-university to work together. 
+university to work together.
 
 His first reaction when I asked him about this was: "How do I know
 you're motivated by an interest in research and you're not just an
 economic migrant?" As if pursuing science was somehow noble and pure,
 but wanting to build a better life for me and my family was something
-to be ashamed of, I remember thinking. 
-Out loud
-though, I just mentioned my permanent teaching post at the University
-of Bucharest, and clarified that I was prepared to cover all costs, I
-just needed an invitation letter for the visa. After this humiliating
-exchange, I made a silent vow to myself never to ask anyone for help
-ever again.
+to be ashamed of, I remember thinking. Out loud though, I just
+mentioned my permanent teaching post at the University of Bucharest,
+and clarified that I was prepared to cover all costs, I just needed an
+invitation letter for the visa. After this humiliating exchange, I
+made a silent vow to myself never to ask anyone for help ever again.
 
 In the end, although he reluctantly agreed to send me an official
 invitation letter, he never did, much to my disappointment. You see,

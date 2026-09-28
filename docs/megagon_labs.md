@@ -34,10 +34,10 @@ Soon after the new name was official, Megagon Labs became a platinum
 sponsor for VLDB (the conference on Very Large Databases), which was
 going to take place in Rio de Janeiro, Brazil. We had a couple of
 accepted papers at VLDB, including the one on the text extraction
-system I had worked on, so we all got to go! I even took Maria with
-me (I just had to pay for her plane ticket and student
-registration). Our flight had an eight hour stopover in Panama, so we
-also got to see the Panama Canal on our way!
+system I had worked on, so we all got to go! I even took Maria with me
+(I just had to pay for her plane ticket and student registration). Our
+flight had an eight hour stopover in Panama, so we also got to see the
+Panama Canal on our way!
 
 Once in Rio, Maria came with me to all the talks. At one of the
 tutorials, the one on semistructured data, the author included a slide
@@ -46,8 +46,8 @@ she saw my name there; I didn't expect it either, so it really was a
 nice surprise for the both of us! After the conference, Alon convinced
 all of us to take a flight to Iguaçu, to see the famous Falls. "Come
 on", I remember him saying to us, "how many times in your life would
-you have a chance to see this? Let's all go together!"  So we all
-went, including Maria, and had a great time.
+you have a chance to see this? Let's all go together!" So we all went,
+including Maria, and had a great time.
 
 Pretty soon after we came back from Brazil I realized that one of the
 major initiatives was developing a chatbot aiming to apply positive
@@ -147,8 +147,6 @@ Recruit will continue to fund this project?" Alon assured me that he
 has complete autonomy on the research direction of the lab and said
 that the Japanese senior engineer overstepped his authority.
 
-Not too long after this exchange, both Alon and I left Megagon
-Labs. Most of the other senior researchers and engineers left within
-the year.
-
-
+Not too long after this exchange, both Alon and I left Megagon Labs.
+Most of the other senior researchers and engineers left within the
+year.

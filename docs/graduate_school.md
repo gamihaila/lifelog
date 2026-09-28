@@ -40,7 +40,7 @@ Annealing algorithm for graph coloring, distantly related to Ramsey
 theory. The way she explained to me was this: suppose you were a
 middle-school teacher for an all-girls school preparing a field trip,
 and you needed to arrange the girls in rows so that no two girls in a
-row know each other, to avoid drama.  Interestingly, this has many
+row know each other, to avoid drama. Interestingly, this has many
 applications in experiment designs, where instead of girls the
 experimenter needs to group experiments together in batches. I
 remember sitting next to her on her repeated runs of her program,
@@ -55,5 +55,3 @@ efficiently (Ioana's problem is an NP-complete problem, by the way).
 We were both involved in genuinely fascinating topics, a far cry from
 our first jobs. For the next year, it felt like nothing could ever go
 wrong now.
-
-
