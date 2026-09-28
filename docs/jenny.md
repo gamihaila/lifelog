@@ -6,7 +6,7 @@ everyone there was open to talking to strangers. I remember I found it
 quite easy to mingle and just approach people, which is quite unusual
 for me. So, as I was walking around I see a good looking young girl
 smiling in my direction and I take that as a clue to go talk to
-her. Something in her physionomy seemed familiar to me, almost as she
+her. Something in her physiognomy seemed familiar to me, almost as she
 was Romanian (I would find out later that her ancestors came from
 Eastern Europe). She had a beautiful and sincere smile that drew me
 in right away. As this was the International Students Center, I had the
@@ -48,14 +48,14 @@ varsity hockey game she had to write a article about for the
 university newspaper.
 
 "Great, I'll bring my camcorder", I offered, "and I can film it for
-you so you can go back and write about the more intersting parts."
+you so you can go back and write about the more interesting parts."
 
 "Nah, no need, I'll just watch it and take notes as I go", she
 declined.
 
 Nevertheless, we did watch the game together, and I was happy to be
 next to her, even if I didn't care for hockey. After the game, I
-wanted to take her hand, but she said no, and I dind't insist.
+wanted to take her hand, but she said no, and I didn't insist.
 
 Around this time, Lara had already told me to look for someone else to
 marry, as she wasn't the "marrying kind", whatever that meant. Let me
