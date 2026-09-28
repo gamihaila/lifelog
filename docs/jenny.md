@@ -4,8 +4,8 @@ Center in the fall of 1996. I was freshly back from Paris, and eager
 to meet new people. This is the main purpose of this party anyway,
 everyone there was open to talking to strangers. I remember I found it
 quite easy to mingle and just approach people, which is quite unusual
-for me. So, as I was walking around I see a good looking young girl
-smiling in my direction and I take that as a clue to go talk to
+for me. So, as I was walking around I saw a good looking young girl
+smiling in my direction and I took that as a clue to go talk to
 her. Something in her physiognomy seemed familiar to me, almost as she
 was Romanian (I would find out later that her ancestors came from
 Eastern Europe). She had a beautiful and sincere smile that drew me
@@ -43,7 +43,7 @@ several times after that, and each time she was friendly, until
 eventually we did exchange phone numbers and occasionally visited each
 other.
 
-One time, she called me to ask me if I want to go with her to a
+One time, she called me to ask me if I wanted to go with her to a
 varsity hockey game she had to write an article about for the
 university newspaper.
 
