@@ -11,10 +11,9 @@ an Artillery unit.
 So after spending the summer with my family (we went on trip to Sofia,
 Bulgaria, following my dad who was sent there for research by the
 university), I had to pack and get ready to join the Army. That meant
-a wood suitcase, with a lock, packed with essentials, but not
-clothes. My father went with me by train to Focșani, a small town
-three hours North-East of home, where I was scheduled to report for
-duty.
+a wood suitcase, with a lock, packed with essentials, but not clothes.
+My father went with me by train to Focșani, a small town three hours
+North-East of home, where I was scheduled to report for duty.
 
 Once at the unit, I said goodbye to him, and joined my fellow
 recruits, who were all Math and CS students admitted that year at the
@@ -42,9 +41,9 @@ unload our bag into a container, and climb back up. The officers were
 keeping tallies and each evening a leaderboard would get updated with
 the top pickers. I didn't care for getting on the top of that
 leaderboard, so I picked at a leisurely pace, as did most of my peers,
-with few exceptions that were consistently on top (I'll never know what
-motivated these kids, but good for them, I guess). I never ate this
-many apples in my life, they were really delicious, a real treat,
+with few exceptions that were consistently on top (I'll never know
+what motivated these kids, but good for them, I guess). I never ate
+this many apples in my life, they were really delicious, a real treat,
 especially after the army food we were served. After we got back to
 the barracks in Focșani I realized that food was actually more
 nutritious than what we got afterwards, during regular training: each
@@ -84,12 +83,12 @@ hardest part, as we would soon find out.
 What could be worse, you ask? Two words: sentinel service! In the
 minus thirty degrees weather, up in the sentinel tower, in the middle
 of the night. The shift from 2 to 5 am was the worst of all. We had
-three hour shifts, followed by six hour rest, for three days in a
-row. After each of these, I was looking forward to the regular
-instruction, even the outdoors one. It turns out that Einstein was
-right: everything was relative. No matter how bad a situation is, we
-were learning that there can always be a worse one. Case in point: I
-was certain that nothing can be worse than the night shift in the cold
+three hour shifts, followed by six hour rest, for three days in a row.
+After each of these, I was looking forward to the regular instruction,
+even the outdoors one. It turns out that Einstein was right:
+everything was relative. No matter how bad a situation is, we were
+learning that there can always be a worse one. Case in point: I was
+certain that nothing can be worse than the night shift in the cold
 winter. One time though, I was assigned to guard the flag, indoors,
 from 2 to 5 am. At first, I couldn't believe my luck: I was indoors,
 while my peers were in the cold windy towers. After half an hour of

@@ -1,4 +1,3 @@
-
 At work, the project was going well, we were still meeting with my
 former teammates regularly over videoconference, with me working
 inside the Research team this time. It seemed to be everything I ever
@@ -10,17 +9,17 @@ It started with one of the engineers in the Research team announcing
 his transfer into a product team within Search. It was a team that was
 planning to develop a long-form question answering system, that is, a
 system that would answer in complete sentences, not just short factual
-answers.  A few days after that, we got
-invited to a meeting with the architect of that new system on neutral
-ground, in a meeting room half-way across the campus, between the
-Research building and the Search building, on Shoreline boulevard. It
-was a very consequential moment, although I had no idea at
-the time. A couple of days later, the manager of that team came to see
-me and ask me if I would like to join his team. As I had just
-transferred into my current team, I declined, saying that I quite
-enjoyed working with my new team, and also that I would have to
-consult with my manager. That’s when he clarified: “Oh, I already
-spoke to your manager, your entire team is joining our project.”
+answers. A few days after that, we got invited to a meeting with the
+architect of that new system on neutral ground, in a meeting room
+half-way across the campus, between the Research building and the
+Search building, on Shoreline boulevard. It was a very consequential
+moment, although I had no idea at the time. A couple of days later,
+the manager of that team came to see me and ask me if I would like to
+join his team. As I had just transferred into my current team, I
+declined, saying that I quite enjoyed working with my new team, and
+also that I would have to consult with my manager. That’s when he
+clarified: “Oh, I already spoke to your manager, your entire team is
+joining our project.”
 
 That completely changed the equation: unbeknownst to me, there was a
 Google-wide effort underway to “embed” researchers into the product
@@ -28,8 +27,8 @@ teams, to have them work side by side with the software engineers to
 build products. A totally reasonable idea, in my opinion, as I had
 already seen the challenges of keeping Research separate from
 Engineering in IBM’s case. The best way it was described to me was
-that trying to get research ideas into production was like pushing on a
-rope: it only works if the other party (Engineering) is pulling. So,
+that trying to get research ideas into production was like pushing on
+a rope: it only works if the other party (Engineering) is pulling. So,
 we all moved into the Search Division and got assigned to this new
 project. Of course, short answers would get incorporated into the long
 answers, and our short answer candidates would be a critical signal
@@ -78,5 +77,5 @@ Not to brag, but under his guidance, we managed to completely
 re-implement all the scoring systems in a more efficient way, and the
 resulting system did accomplish a 10 millisecond median running time
 on a single core. That allowed us to drastically improve the CPU
-utilization and run well under the timeout threshold for all
-queries. Enormously satisfying project!
+utilization and run well under the timeout threshold for all queries.
+Enormously satisfying project!

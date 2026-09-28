@@ -1,4 +1,3 @@
-
 Deciding to move was easy, actually doing it was harder than I
 thought. First of all, while it was true that internal transfers were
 possible, they weren’t as easy as just asking to move. One had to find
@@ -16,28 +15,27 @@ I told my manager I’m going to California to visit a friend (which was
 true, we visited Roxana too), and while I’m there I could meet with
 the researchers we were working with for our project. So, one rainy
 day in early May 2012, I took Grațiela and our nine months old
-daughter Xenia with me to Mountain View to soft launch my
-California dream! We stayed at a nice hotel and while I was
-interviewing at Netflix or at the office, they explored the downtown
-area on foot. The Netflix interview didn’t work out, but my visit to
-the Google Research office paid off: I got to meet the researchers
-that designed that great question answering system we integrated into
-Google Search. We talked at length about ways we could improve the
-system, new scoring signals we could use, how to add normalization,
-how to account for missing features, and other ideas. The net result
-was that when their manager visited the New York office a few weeks
-later he asked to meet with me. My manager had also reached out to him
-to let him know I am looking for opportunities in the Mountain View
-office. The way he put it to me was: “If life hands you lemons, make
-lemonade: I don’t want to lose you, but if you’re going to move to
-California, at least we can continue to work together in the same
-project.” Separately, Alon Halevy also visited the New York office and
-we had coffee together, and I mentioned to him that I would love to
-transfer to that team. He was a research director then, in a close
-area, and knew the question answering people well, they were working
-in the same building. I don’t know what he told his peer about me, but
-the net result was that my transfer was fast-tracked! We set my move
-day for August 15.
+daughter Xenia with me to Mountain View to soft launch my California
+dream! We stayed at a nice hotel and while I was interviewing at
+Netflix or at the office, they explored the downtown area on foot. The
+Netflix interview didn’t work out, but my visit to the Google Research
+office paid off: I got to meet the researchers that designed that
+great question answering system we integrated into Google Search. We
+talked at length about ways we could improve the system, new scoring
+signals we could use, how to add normalization, how to account for
+missing features, and other ideas. The net result was that when their
+manager visited the New York office a few weeks later he asked to meet
+with me. My manager had also reached out to him to let him know I am
+looking for opportunities in the Mountain View office. The way he put
+it to me was: “If life hands you lemons, make lemonade: I don’t want
+to lose you, but if you’re going to move to California, at least we
+can continue to work together in the same project.” Separately, Alon
+Halevy also visited the New York office and we had coffee together,
+and I mentioned to him that I would love to transfer to that team. He
+was a research director then, in a close area, and knew the question
+answering people well, they were working in the same building. I don’t
+know what he told his peer about me, but the net result was that my
+transfer was fast-tracked! We set my move day for August 15.
 
 We packed all our belongings into a moving container, and then all six
 of us got in our Toyota Highlander and took the highway 80 to the West
@@ -53,8 +51,8 @@ find a room, it was packed with tourists.
 The next day we got back in the car, drove for a while, and just when
 we were in the middle of the Bonneville Salt Flats, Xenia choked on
 something and started turning blue. Grațiela panicked and kept asking
-me to go to the ER, except there was nothing around us for
-miles. Luckily, she coughed it out and turned pink again!
+me to go to the ER, except there was nothing around us for miles.
+Luckily, she coughed it out and turned pink again!
 
 We finally arrived in Milpitas, California, where I had found a
 four-bedroom house to rent. We got there before the shipping container
@@ -64,7 +62,7 @@ map it looked like it was pretty close to Mountain View and it was the
 only place we could afford for a house of that size. We had sold our
 Yorktown Heights house at a loss (we had paid $415,000 in 2003, and we
 sold it for $299,000 in 2012, a few years after the sub-prime mortgage
-crash). 
+crash).
 
 We enjoyed our stay in Milpitas, especially the inexpensive and
 delicious Asian food there, but pretty soon we realized that the

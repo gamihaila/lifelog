@@ -1,4 +1,3 @@
-
 My first encounter with Computer Science was in high school, in my
 junior year, if I’m not mistaken, so around 1983. It was during a
 class called Mathematics Applied to Computing Technology. It was there
@@ -65,22 +64,22 @@ families, already on track for Medical School or Law School.
 
 Every year we were taken off of regular classes for "volunteering",
 the quotes are needed because is was mandatory. The official term for
-it was "patriotic labor". Some of it was working on a
-construction site, helping to clear contruction debris or move
-bricks. One of these sites was the new Bucharest Hotel which was being
-built right next to our high school building, on Calea Victoriei. In
-the fall periods we had to go help with the harvest, in one of the
-villages surrounding the capital. I remember one of these vividly,
-when we were picking corn in the Otopeni village, right next to the
-international airport. The corn was a black variety used for
-popcorn. Of course we all brought some home and made delicious
-popcorn. But the most interesting part was watching the planes take
-off and land right over our heads, at very low altitude. None of us
-had ever flown on a plane anywhere, much less to the far countries we
-knew these planes were coming from. "One day, I will be in a plane,
-going to a far land, too", I clearly remember thinking. That memory
-stayed with me after all these years, resurfacing every time I fly
-back to Bucharest Otopeni, looking down at the corn fields.
+it was "patriotic labor". Some of it was working on a construction
+site, helping to clear contruction debris or move bricks. One of these
+sites was the new Bucharest Hotel which was being built right next to
+our high school building, on Calea Victoriei. In the fall periods we
+had to go help with the harvest, in one of the villages surrounding
+the capital. I remember one of these vividly, when we were picking
+corn in the Otopeni village, right next to the international airport.
+The corn was a black variety used for popcorn. Of course we all
+brought some home and made delicious popcorn. But the most interesting
+part was watching the planes take off and land right over our heads,
+at very low altitude. None of us had ever flown on a plane anywhere,
+much less to the far countries we knew these planes were coming from.
+"One day, I will be in a plane, going to a far land, too", I clearly
+remember thinking. That memory stayed with me after all these years,
+resurfacing every time I fly back to Bucharest Otopeni, looking down
+at the corn fields.
 
 The last year of high school came soon enough, and with it the looming
 university admissions exam. By now I was used to preparing for Math
@@ -111,18 +110,17 @@ with formal explanations of my work in the format expected at the
 exam, simulating the exam conditions faithfully. No breaks, no
 distractions, no rushing through the easy problems, nothing. My tutor
 would then grade each of my complete exams paying extra attention to
-the format, guiding me through the proper conventions for math
-prose. Finally, in the last few months before the exam, the Math
-Department in the University of Bucharest was offering free exam
-preparation every Sunday morning, in a large amphitheater, led by the
-same university professors who were going to grade our written
-admission tests. I registered for those and attended regularly, never
-missing any. The professors would write typical exam problems on the
-huge blackboards and invite us to solve them in front of our peers,
-guiding us whenever we needed help and helping us polish the
-solutions. As an ambitious high school student, eager to prove myself,
-I volunteered to solve problems on the blackboard almost every
-time. It was wonderful!
+the format, guiding me through the proper conventions for math prose.
+Finally, in the last few months before the exam, the Math Department
+in the University of Bucharest was offering free exam preparation
+every Sunday morning, in a large amphitheater, led by the same
+university professors who were going to grade our written admission
+tests. I registered for those and attended regularly, never missing
+any. The professors would write typical exam problems on the huge
+blackboards and invite us to solve them in front of our peers, guiding
+us whenever we needed help and helping us polish the solutions. As an
+ambitious high school student, eager to prove myself, I volunteered to
+solve problems on the blackboard almost every time. It was wonderful!
 
 Finally, the admission exams days came. For the
 Mathematics-Informatics major the exam was the same as for pure
@@ -164,8 +162,8 @@ beach, with my dad, the three of us sharing a hotel room. One late
 afternoon, at the beach, we spotted two girls our age that were
 walking together. Marian, being the braver one, pointed to them and
 suggested we go talk to them. We briefly agreed which one each of us
-to go after, and then he went first and started talking to “his
-girl”. The other girl stayed behind a few steps, and I approached her,
+to go after, and then he went first and started talking to “his girl”.
+The other girl stayed behind a few steps, and I approached her,
 affecting a genuine curiosity:
 
 “I wonder where do they know each other from, what do you think? Which
@@ -209,7 +207,7 @@ train. At one point, a Bulgarian customs officer came into our
 compartment to inspect our papers and ask about what we were bringing
 over the border.
 
-“Nothing to declare”, my father said, in perfect Bulgarian. 
+“Nothing to declare”, my father said, in perfect Bulgarian.
 
 “What’s this?”, the officer said, pointing at the Sony Walkman my mom
 bought for me from a colleague at work with relatives abroad.
@@ -226,7 +224,8 @@ original tape smuggled into the country by a friend of a friend. Then
 he wrote an official document attesting that we had crossed the border
 with this and that we were expected to have it on our way back.
 
-“No worries”, I was thinking, “there’s no way I’m parting with my Walkman”.
+“No worries”, I was thinking, “there’s no way I’m parting with my
+Walkman”.
 
 The visit to Bulgaria was an eye opener: even though this was a
 socialist country just like ours, it was way more developed and
@@ -249,5 +248,3 @@ keyboards from childhood, typing on them every chance I got whenever I
 found one in my parents’ friends apartments. By then I had already
 learned Fortran and I was trying to type programs on that Bulgarian
 typewriter, for fun.
-
-

@@ -1,5 +1,3 @@
-
-
 Now that the revolution was over, the country was beginning a dramatic
 transition to market economy. In the days that followed, the city
 slowly came back to life, but it was a different city now, operating
@@ -9,11 +7,10 @@ hard currency — dollars, deutschmarks, anything but lei. The reason
 was simple: from one day to the next, the leu was losing value so fast
 that no shopkeeper could keep up with changing the prices. Salaries
 were still being paid in lei, of course, and the state kept raising
-them to keep pace with inflation, which only made the inflation
-worse. The numbers grew surreal. A bottle of Coca-Cola cost 1,000
-lei. A loaf of bread, 2,000. Not long before, a decent monthly salary
-had been 2,000 lei. Currency exchange offices sprouted on every street
-corner.
+them to keep pace with inflation, which only made the inflation worse.
+The numbers grew surreal. A bottle of Coca-Cola cost 1,000 lei. A loaf
+of bread, 2,000. Not long before, a decent monthly salary had been
+2,000 lei. Currency exchange offices sprouted on every street corner.
 
 At the university, where I was working as a TA alongside my final year
 of studies, payday brought its own particular absurdity. The
@@ -30,13 +27,13 @@ under the former regime. They were calling into question whether they
 should still be allowed to teach. In this state of turmoil it was very
 hard to continue the day-to-day learning, so more and more students
 were demanding a freeze of the academic year. It seemed to me that the
-most vocal were the students with the lowest grades who were hoping for a
-re-do of all their exams of the year. Regardless, something needed to
-be done, the uncertainty was weighing hard on everybody, students and
-teachers alike. So, the department's leadership agreed to meet with a
-delegation of our cohort to discuss the proposal. I was asked to be
-part of the delegation together with three of the best students in the
-class.
+most vocal were the students with the lowest grades who were hoping
+for a re-do of all their exams of the year. Regardless, something
+needed to be done, the uncertainty was weighing hard on everybody,
+students and teachers alike. So, the department's leadership agreed to
+meet with a delegation of our cohort to discuss the proposal. I was
+asked to be part of the delegation together with three of the best
+students in the class.
 
 So, one fine day we were invited to an office to meet with the
 department head and some other professors to make our case. We
@@ -95,16 +92,15 @@ interviews at the coveted Research Institute for Informatics, close to
 our University building.
 
 The entire class of 25 graduating students went to the interview. They
-kept us waiting for about an hour; the interviewers
-were busy watching a soccer game on TV. Finally, they called us in, one
-by one. When my turn came, I went in: in the conference room there
-were a handful of full-time researchers and software engineers,
-asking questions. They asked me a bunch of questions about our classes
-and then asked me if I did any coding for fun. I told them about my
-Tetris implementation and they were apparently pretty impressed,
-because they hired me. They also hired three of my
-colleagues, including Dana (yes, that Dana!). Everyone else was dismissed.
-
+kept us waiting for about an hour; the interviewers were busy watching
+a soccer game on TV. Finally, they called us in, one by one. When my
+turn came, I went in: in the conference room there were a handful of
+full-time researchers and software engineers, asking questions. They
+asked me a bunch of questions about our classes and then asked me if I
+did any coding for fun. I told them about my Tetris implementation and
+they were apparently pretty impressed, because they hired me. They
+also hired three of my colleagues, including Dana (yes, that Dana!).
+Everyone else was dismissed.
 
 Going back to that meeting for picking from the state jobs. The time
 came and we were all gathered together in a large class. We were
@@ -117,4 +113,3 @@ unexpected success: imagine securing good positions, in the city, just
 as we were graduating. Contrast that with the previous graduating
 classes who had to take undesirable jobs far away from home and work
 there for three years before being able to look for another job!
-
