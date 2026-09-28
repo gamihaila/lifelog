@@ -369,7 +369,7 @@ all friends. Ioana pretended to be nonchalant about it, and even
 chatted a bit with Dana on the phone about the upcoming exam.
 
 The next day, we were lining up for the oral examination, in
-alphabetical order by last name. Dana went in in the first batch. I
+alphabetical order by last name. Dana went in the first batch. I
 went in some time afterwards, picked the question from a basket with
 folded papers, luckily it was something familiar, and went to the
 blackboard to solve it. After I was done, I walked out and saw Ioana

@@ -44,7 +44,7 @@ eventually we did exchange phone numbers and occasionally visited each
 other.
 
 One time, she called me to ask me if I want to go with her to a
-varsity hockey game she had to write a article about for the
+varsity hockey game she had to write an article about for the
 university newspaper.
 
 "Great, I'll bring my camcorder", I offered, "and I can film it for

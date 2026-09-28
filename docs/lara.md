@@ -29,7 +29,7 @@ After quite a bit of chit-chat about our majors, and life at the U of T, I thoug
 
 Luckily, the U of T campus is not that large, and I bumped into her several times after that, and each time she was friendly, until eventually we did exchange phone numbers and occasionally visited each other.
 
-One time, she called me to ask me if I want to go with her to a varsity hockey game she had to write a article about for the university newspaper.
+One time, she called me to ask me if I want to go with her to a varsity hockey game she had to write an article about for the university newspaper.
 
 "Great, I'll bring my camcorder", I offered, "and I can film it for you so you can go back and write about the more interesting parts."
 
