@@ -64,7 +64,7 @@ chapters:
     title: Lara     
     
   - file: exploring.md
-    title: Explorations
+    title: A Bucket of Flowers
 
   - file: src_internship.md
     title: California 1999
@@ -91,7 +91,7 @@ chapters:
     title: Google Mountain View
     
   - file: switzerland.md
-    title: Switzerland
+    title: Zurich 2016
 
   - file: leaving_google.md
     title: Leaving Google
@@ -100,6 +100,6 @@ chapters:
     title: Megagon Labs
 
   - file: apple.md
-    title: Apple
+    title: Apple Cupertino
      
 
