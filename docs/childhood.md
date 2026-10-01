@@ -69,23 +69,19 @@ simply to waste, before lunch.
 
 My mother left food for me on the electric stove-top — usually soup
 and something more substantial, like mashed potatoes with a chicken
-leg. I loved the mashed potatoes. The soup I could not stand. But I
-didn’t want her to know that, so I developed a system: I would pour
-the soup into a bowl, dirty it convincingly with a spoon, then carry
-it to the bathroom and tip it into the toilet. The bowl went back on
-the table, unwashed, looking for all the world like I had eaten. Then
-I would heat up the potatoes and the chicken leg, which always stuck
-to the pan and required some coaxing, eat happily, and get dressed in
-my uniform.
+leg. I loved the mashed potatoes but I wasn't too fond of the soup.  I
+didn’t want my mom to know that, so I would pour the soup into a bowl,
+stir it well with a spoon to get the bowl dirty, then carry it to the
+bathroom and tip it into the toilet.  Then I would heat up the
+potatoes and the chicken leg, which always stuck to the pan and
+required some coaxing, eat happily, and get dressed in my uniform.
 
 The walk to school was about ten minutes. In spring, that meant
-navigating the mud — there was construction nearby, new apartment
-buildings going up, and the ground between our building and the street
-was treacherous. My solution was to wrap my shoes in plastic bags
-before setting out, walk carefully through the worst of it, and then
-remove the bags and throw them in a bin at the edge of the mud,
-arriving at school with clean shoes. It worked perfectly, and I was
-unreasonably proud of it.
+walking though the mud: there was construction nearby, new apartment
+buildings going up all around. My solution was to wrap my shoes in
+plastic bags before setting out, walk carefully through the worst of
+it, and then remove the bags and throw them in a bin at the edge of
+the mud, arriving at school with clean shoes. It worked perfectly.
 
 My father was in charge of reading a bedtime story to me most every
 night. When I was very little he was picking from classic Romanian
@@ -146,26 +142,26 @@ very popular book, but I guess she thought that only Jews were
 interested.
 
 Life at Școala Generală Nr. 205 was in most respects like life
-anywhere else — homework, teachers, friendships, the usual hierarchies
-of adolescence. But there was another layer to it, one that was simply
+anywhere else: homework, teachers, friendships, the usual problems of
+adolescence. But there was another layer to it, one that was simply
 part of growing up in Romania at that time and that I had absorbed so
 naturally I barely thought of it as unusual. At home, my parents spoke
 freely. They criticized the regime, mocked the personality cult,
 pointed at the actors on television singing praises to Ceaușescu and
 shook their heads at how the performances grew more extravagant and
-more detached from reality every year. That was home. The moment you
-stepped outside, a different set of rules applied. You liked your
-leader. You were grateful. You said nothing that could be repeated.
+more detached from reality every year. That was home, but in public a
+different set of rules applied: we all had to act as if everything was
+great.
 
-At school this meant a kind of constant low-level vigilance. Kids
-would sometimes say things, small critical remarks, but not often, and
-not loudly, because anyone could be a tattletale. One classmate made
-this very concrete: he had heard me say something unguarded about the
-regime and from then on used it openly whenever we had any
-disagreement. He had a code phrase for it — "political mistake" —
-which he would deploy whenever he wanted something from me, a casual
-reminder that he could go to the Securitate at any time. I didn't know
-how serious he was, but I didn't want to find out.
+At school in particular, one had to be extra careful. Kids would
+sometimes say things, small critical remarks, but not often, and not
+loudly, because anyone could be a tattletale. One classmate made this
+very concrete: he had heard me say something bad about the regime and
+from then on used it openly whenever we had any disagreement. He had a
+code phrase for it: "political mistake". He would repeat this whenever
+he wanted something from me, a casual reminder that he could go to the
+Securitate at any time. I didn't know how serious he was, but I didn't
+want to find out.
 
 The most frightening episode had nothing to do with politics at all,
 which in a way made it worse. Someone had broken something in the
@@ -177,11 +173,10 @@ real possibility for anyone who knew something and stayed silent. I
 knew nothing. I had done nothing. I was one of the good students,
 quiet and studious, but none of that mattered: I was sitting in that
 room the same as everyone else, being told that my freedom was
-conditional. They let us go eventually, and nothing came of it. But
-the message had been delivered with great precision — not about the
-bathroom, which nobody cared about, but about something larger: that
-at any moment, for any reason or no reason at all, you could be taken,
-and there was nothing to be done about it.
+conditional. They let us go eventually, and nothing came of it.  But
+they made sure we all got the message: at any moment, for any reason
+or no reason at all, you could be taken, and there was nothing to be
+done about it.
 
 And yet none of this stopped the ordinary business of being twelve. By
 sixth grade I had new friends, new routines, and, inevitably, new
