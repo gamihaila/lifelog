@@ -203,6 +203,7 @@ the food was exceptional. "This is the Party's hotel", explained Dana,
 "See those blonde girls? Their father is the Minister of Interior". We
 enjoyed the subsidized feast and didn't ask any more questions.
 
+
 In retrospect, I should have realized that after this camping trip
 with Ioana there was no turning back. At the time, though, I was just
 a carefree teenager, not giving any consideration to society
@@ -410,12 +411,71 @@ have ice cream. How was I supposed to know this was going to happen?
 After all, we were gone less than 30 minutes altogether. Eventually,
 she calmed down, but she held a grudge for a long time after that.
 
-Regardless, we continued to go out together, and started planning our
-wedding for the upcoming summer. By now our families were visiting
-each other too. During one of Ioana's family visits at our place, my
-mom called me to the kitchen, ostensibly to help out with the meal,
-but once I got there, she shut the door and asked me, with a serious
-look on her face:
+College life continued its course, with the usual classes and exams
+and at some point we were told by one of our professors who was a
+higher up in the Party organization that we too will be invited to
+enroll in the Communist Party, in order of our grades, starting with
+the top students. I remember going home that day and asking my
+parents for advice:
+
+"What do I do? My turn is coming pretty soon and I have to give an
+answer. I don't want join the party."
+
+"Well, think about it this way", my father said. "If you don't join,
+you will be left out of all decisions at your workplace, and will be
+told what to do by party members. If you're in, at least you'll be
+able to have an influence in the decision making and try to steer your
+peers to do the least evil."
+
+I wasn't happy with this reasoning, but I could see his point. Both my
+parents were members and so was my sister, and they did have some
+influence at their workplaces, at least compared to their non-member
+peers. My father was in the Unversity leadership, I believe he was a
+Dean of the Linguistics Department at the time, and he did his best to
+ensure fairness and promote excellence.
+
+So, when the time came, Petrișor, me and Dana were invited in a room
+filled with red flags and portraits and formally asked to join the
+Party. We all did what was expected of us and were officially welcomed
+into the fold without much ceremony. A week later, the next batch of
+three was invited, and we were asked to attend. Ioana was one of
+them. This time, one of the more politically involved professors went
+off the script and had this idea to ask Ioana, specifically:
+
+"Miss Popescu, would you be so kind and tell the committee, in your
+own words, from the heart, why you want to join the Communist Party?"
+
+What happened next stunned everyone present, myself included. Looking
+him in the eye, Ioana said plainly:
+
+"When I was inducted in the Pioneer Organization in first grade and then the
+Communist Youth Union in high school, nobody asked me if I wanted to
+join or why I wanted to join, so why are you asking me now?"
+
+Everyone's face turned red, nobody knew what to say to that and we all
+sat in silence for a few tensionate moments, until one of the older
+professors saved the day and said something about excusing Ioana's
+nervousness, understandable under such an solemn occasion, and the
+formalities continued without any more questions. Everyone there was
+too terrified about what happened there to ever bring this up.
+
+When we were all released, on our way home, I praised Ioana for her
+directness:
+
+"Wow, nobody saw that coming! You were really brave out there! I just
+went along and didn't say anything."
+
+"I wasn't going to say anything either, but since they asked..." said
+Ioana.
+
+...
+
+We continued to go out together, and started planning our wedding for
+the upcoming summer. By now our families were visiting each other
+too. During one of Ioana's family visits at our place, my mom called
+me to the kitchen, ostensibly to help out with the meal, but once I
+got there, she shut the door and asked me, with a serious look on her
+face:
 
 "Son, are you absolutely certain that you want to marry this
 particular girl, and not any other one?"
