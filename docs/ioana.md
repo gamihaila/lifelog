@@ -437,6 +437,18 @@ eating it with her. Alas, even then I didn't tell her anything,
 although she could easily figure it out herself, as she would tell me
 many years later.
 
+The closest I ever felt Dana was at a party at one of our
+schoolmates' house. Ioana was there too, but at some point, after
+dancing with her, I invited Dana to dance with me. It was a slow
+dance, and I didn't think much of it until Dana started twisting my
+hair gently in the back of my neck, unseen by anyone, but unmistakenly
+felt by me. I didn't know what to make of this, I couldn't believe she
+was actually doing this. I tried to talk to her afterwards but she
+asked me to keep quiet, and that was that. Nothing ever came out of
+this one moment, it was just a fleeting acknowledgment of our spark,
+nothing more. It felt like she wanted me to know she noticed my
+torment.
+
 ...
 
 
