@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="George A. Mihaila">
+<meta name="dcterms.date" content="June 18, 2026">
+<meta name="dcterms.modified" content="September 16, 2026">
+<meta name="copyright" content="George Andrei Mihaila">
+<title>University &mdash; From Bucharest to California</title>
+<style>
+  :root {
+    --bg: #f6efd8;
+    --paper: #f6efd8;
+    --ink: #3a3226;
+    --muted: #9c8f74;
+    --accent: #7c5c3b;
+    --rule: #e8dfc4;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+    line-height: 1.5;
+    font-size: 22px;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  .page {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 4vh 28px 6vh;
+  }
+
+  header.title-page {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 12vh 32px 8vh;
+    text-align: center;
+  }
+  header.title-page .cover {
+    max-width: 320px;
+    width: 60%;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 12px 40px rgba(0,0,0,.28);
+    margin-bottom: 40px;
+  }
+  header.title-page h1 {
+    font-size: 2.6rem;
+    line-height: 1.2;
+    margin: 0 0 .4em;
+    font-weight: 600;
+    letter-spacing: .5px;
+  }
+  header.title-page .author {
+    font-size: 1.2rem;
+    color: var(--muted);
+    font-style: italic;
+    margin: 0;
+  }
+  header.title-page .cover-credit {
+    font-size: .8rem;
+    color: var(--muted);
+    margin: -32px 0 40px;
+  }
+
+  section.dedication {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 4vh 32px 8vh;
+    text-align: center;
+    font-style: italic;
+    color: var(--muted);
+  }
+
+  nav.toc h2 {
+    text-align: center;
+    font-size: 1rem;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--muted);
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+    font-weight: 600;
+  }
+  nav.toc ol { list-style: none; margin: 0; padding: 0; }
+  nav.toc li a {
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+    padding: 11px 8px;
+    border-bottom: 1px solid var(--rule);
+    color: var(--ink);
+  }
+  nav.toc li a:hover { background: rgba(124,92,59,.06); text-decoration: none; }
+  nav.toc .toc-num {
+    color: var(--accent);
+    font-variant-numeric: tabular-nums;
+    min-width: 1.8em;
+    text-align: right;
+    font-size: .95rem;
+  }
+  nav.toc .toc-title { flex: 1; }
+
+  .chapter h1 {
+    font-size: 2.4rem;
+    font-weight: 700;
+    margin: 0 0 .9em;
+  }
+  .chapter p { margin: 0 0 .9em; text-align: justify; hyphens: auto; }
+
+  nav.pagenav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 0;
+    margin-bottom: 2em;
+    border-bottom: 1px solid var(--rule);
+    font-size: .9rem;
+  }
+  nav.pagenav.bottom {
+    border-bottom: none;
+    border-top: 1px solid var(--rule);
+    margin: 3em 0 0;
+  }
+  nav.pagenav .prev { text-align: left; }
+  nav.pagenav .home { text-align: center; white-space: nowrap; }
+  nav.pagenav .next { text-align: right; }
+  nav.pagenav .disabled { color: var(--muted); opacity: .5; }
+  nav.pagenav small { display: block; color: var(--muted); font-size: .8rem; }
+
+  footer {
+    text-align: center;
+    color: var(--muted);
+    font-size: .8rem;
+    padding: 4vh 32px 8vh;
+  }
+  footer .revision { margin-top: .4em; }
+
+  @media (max-width: 600px) {
+    body { font-size: 21px; }
+    header.title-page h1 { font-size: 2rem; }
+    .page { padding-left: 22px; padding-right: 22px; }
+    .chapter h1 { font-size: 1.8rem; }
+  }
+
+</style>
+</head>
+<body>
+<div class="page">
+<nav class="pagenav">
+  <span class="prev"><a href="04-army.html">&larr; Military Service<small>Previous chapter</small></a></span>
+  <span class="home"><a href="index.html">Contents</a></span>
+  <span class="next"><a href="06-ioana.html">A Fateful Choice &rarr;<small>Next chapter</small></a></span>
+</nav>
+<article class="chapter">
+<h1>University</h1>
+<p>Finally, after spending nine months in the Army, it was time to start
+college, an Informatics (Computer Science) major in the Mathematics
+department of the University of Bucharest.</p>
+<p>I, of course, didn’t have the faintest idea what kind of work I would
+be doing after graduating—perhaps some coding in a state-run data
+center, still better than being sent to teach math in some remote
+village. This was 1986 Romania, and I still hadn’t seen an actual
+computer, much less run any code on it. All the programs I had written
+so far were handwritten on paper and “executed” by hand, by tracing
+them.</p>
+<p>My first contact with an actual computer was in my freshman year at
+university, by typing my Fortran programs on a punch card machine and
+submitting a stack of cards to an operator, then waiting for a
+printout the next day. That really forced one to think hard before
+writing any code. Around junior year, we finally got access to VT100
+terminals where we could actually edit and execute our programs. We
+were also introduced to the C programming language around the same
+time. What kinds of problems were we coding? Mostly math-inspired:
+linear algebra, graph algorithms, recursive algorithms—standard stuff.
+Nothing related to any real-world problems. Still, for me it was fun,
+and a definite improvement over punch cards.</p>
+<p>Then came the opportunity to buy a personal computer. ZX Spectrum
+computers were being sold on the black market in the dorms for 15,000
+lei, which was a lot of money (about four months’ salary for my
+parents). It came without a monitor, so we bought a cheap TV and
+installed it in my bedroom. External storage was on cassette tapes, so
+I could use my radio-cassette recorder to save and load my programs.
+It came preloaded with a BASIC interpreter, and it was also possible
+to load a Pascal compiler from a tape. It also had games. I spent many
+hours playing the games but also trying to replicate some with my own
+BASIC programs. For example, I implemented Slippery Sid (aka Snake)
+using the queue data structure that we had just learned, and Tetris,
+using the matrix that represents rotation by 90 degrees. I also
+implemented a Pentomino tiling program using recursion for a radio
+challenge to find the most ways to fill a P-pentomino scaled 3× with
+unique pentominoes. When we were taught the Simplex algorithm for
+linear programming problems in the Operations Research course, I
+implemented it on my Spectrum and submitted it. My professor liked it
+so much that he exempted me from the midterm!</p>
+<p>In the first semester of junior year we had a class on theoretical
+computer science taught by a very non-conformist professor. His name
+was Virgil Căzănescu. He was quite a character, chain smoking in class
+(was that allowed, probably not, but he didn’t seem to care). His
+general demeanor was exactly like what you’d imagine an eccentric
+mathematician to be, a figure larger than life. Not only was he
+brilliant, he had an uncanny ability to explain complicated concepts
+in a very accessible manner. His love for mathematics was deeply
+contagious, you could tell right away he really cared about his
+subject, more than anyone else. A few weeks into the class, we had an
+intersession for practical training, which was meant to give us
+unstructured time to experiment with programming on the mainframe
+computer in the lab. He used this opportunity to recruit potential
+students for undergraduate research projects. He was very open about
+it: at the beginning of the intersession period, he asked out loud
+from his desk:</p>
+<p>“Who are the top three students in order of the university admission
+score?”</p>
+<p>We all knew exactly the order of the top scores in the class, so three
+of us raised our hands.</p>
+<p>“Come over here, I want to show you what I’m working on.”</p>
+<p>And just like that, we took three chairs next to him at his desk and
+he proceeded to introduce us into his research on expressing logical
+flowcharts using algebraic expressions which could be rewritten and
+reasoned about in a formal way. We all listened to his first few
+private lectures, but after a couple of weeks the other two students
+had lost interest and I was left alone with him. I have to be
+perfectly honest that I didn’t completely understand all the technical
+details of his formalism, but I got enough of the intuition of what he
+was attempting to be able to ask good questions. After a few such
+interactions, he started inviting me to his home to work together on a
+paper.</p>
+<p>He lived in a high-rise apartment building, just like everyone else,
+in a pretty cramped three-bedroom apartment with his wife and two
+young sons. He had turned one of the bedrooms into his office, with a
+large desk in the middle of the room, and bookshelves all around,
+chock full of math books, on the shelves and his desk, and many stacks
+of books on the floor. I didn’t find that particularly unusual, it was
+just like my dad’s desk area. His wife would drop in and bring us
+coffee and home-baked cookies, and then retreat in silence. We would
+sit hunched over papers for hours, with me trying to follow what we
+were doing, mostly serving as a soundboard for him, forcing him to
+spell out any parts that were not sufficiently justified in the
+proofs. It was quite thrilling for me to be taken seriously as an
+apprentice researcher, even if I didn’t have the full background
+needed to advance the theory. It was in his crammed office I first
+heard of Category Theory and how it could be used as a common
+framework for many areas of Mathematics, including the formal study of
+computer programs. It really felt like he was holding my hand into a
+wonderful hidden world lying behind the everyday reality.</p>
+<p>You can imagine my reaction when, a few months later, prof. Căzănescu
+walked into the classroom and emphatically dropped a bound preprint
+paper onto my desk, in front of the entire class, with our names on
+the cover, entitled “Infinite Flowchart Schemes”. It was my very first
+publication. Actually, not quite a peer-reviewed publication, a
+preprint published by the Mathematics Institute of the Romanian
+Academy of Sciences, but still. We immediately submitted it to a
+journal and a few months later it was published <sup id="fnref:7-1"><a class="footnote-ref" href="#fn:7-1">1</a></sup>.</p>
+<p>At the time it was incredibly motivating for me, and building into my
+fantasy of one day working as a computer scientist, and possibly
+pursuing an academic career. I was conflicted though, simultaneously
+pulled into more practical software engineering and theoretical
+computer science. It was a time of figuring out what I wanted to do,
+and it was confusing. I would only fully resolve this conflict some
+twenty years later, but let’s not jump ahead.</p>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:7-1">
+<p>Virgil E. Cazanescu, George A. Mihaila. Partial flowchart
+schemes, In Studii si Cercetari Matematice, 43, 1-2, pp.11-23, 1991&#160;<a class="footnote-backref" href="#fnref:7-1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</article>
+<nav class="pagenav bottom">
+  <span class="prev"><a href="04-army.html">&larr; Military Service<small>Previous chapter</small></a></span>
+  <span class="home"><a href="index.html">Contents</a></span>
+  <span class="next"><a href="06-ioana.html">A Fateful Choice &rarr;<small>Next chapter</small></a></span>
+</nav>
+</div>
+<footer>
+  <p>&copy; George Andrei Mihaila</p>
+  <p class="revision">Published June 18, 2026 &middot; Revised September 16, 2026</p>
+</footer>
+</body>
+</html>

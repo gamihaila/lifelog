@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="George A. Mihaila">
+<meta name="dcterms.date" content="June 18, 2026">
+<meta name="dcterms.modified" content="September 16, 2026">
+<meta name="copyright" content="George Andrei Mihaila">
+<title>Megagon Labs &mdash; From Bucharest to California</title>
+<style>
+  :root {
+    --bg: #f6efd8;
+    --paper: #f6efd8;
+    --ink: #3a3226;
+    --muted: #9c8f74;
+    --accent: #7c5c3b;
+    --rule: #e8dfc4;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+    line-height: 1.5;
+    font-size: 22px;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  .page {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 4vh 28px 6vh;
+  }
+
+  header.title-page {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 12vh 32px 8vh;
+    text-align: center;
+  }
+  header.title-page .cover {
+    max-width: 320px;
+    width: 60%;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 12px 40px rgba(0,0,0,.28);
+    margin-bottom: 40px;
+  }
+  header.title-page h1 {
+    font-size: 2.6rem;
+    line-height: 1.2;
+    margin: 0 0 .4em;
+    font-weight: 600;
+    letter-spacing: .5px;
+  }
+  header.title-page .author {
+    font-size: 1.2rem;
+    color: var(--muted);
+    font-style: italic;
+    margin: 0;
+  }
+  header.title-page .cover-credit {
+    font-size: .8rem;
+    color: var(--muted);
+    margin: -32px 0 40px;
+  }
+
+  section.dedication {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 4vh 32px 8vh;
+    text-align: center;
+    font-style: italic;
+    color: var(--muted);
+  }
+
+  nav.toc h2 {
+    text-align: center;
+    font-size: 1rem;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--muted);
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+    font-weight: 600;
+  }
+  nav.toc ol { list-style: none; margin: 0; padding: 0; }
+  nav.toc li a {
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+    padding: 11px 8px;
+    border-bottom: 1px solid var(--rule);
+    color: var(--ink);
+  }
+  nav.toc li a:hover { background: rgba(124,92,59,.06); text-decoration: none; }
+  nav.toc .toc-num {
+    color: var(--accent);
+    font-variant-numeric: tabular-nums;
+    min-width: 1.8em;
+    text-align: right;
+    font-size: .95rem;
+  }
+  nav.toc .toc-title { flex: 1; }
+
+  .chapter h1 {
+    font-size: 2.4rem;
+    font-weight: 700;
+    margin: 0 0 .9em;
+  }
+  .chapter p { margin: 0 0 .9em; text-align: justify; hyphens: auto; }
+
+  nav.pagenav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 0;
+    margin-bottom: 2em;
+    border-bottom: 1px solid var(--rule);
+    font-size: .9rem;
+  }
+  nav.pagenav.bottom {
+    border-bottom: none;
+    border-top: 1px solid var(--rule);
+    margin: 3em 0 0;
+  }
+  nav.pagenav .prev { text-align: left; }
+  nav.pagenav .home { text-align: center; white-space: nowrap; }
+  nav.pagenav .next { text-align: right; }
+  nav.pagenav .disabled { color: var(--muted); opacity: .5; }
+  nav.pagenav small { display: block; color: var(--muted); font-size: .8rem; }
+
+  footer {
+    text-align: center;
+    color: var(--muted);
+    font-size: .8rem;
+    padding: 4vh 32px 8vh;
+  }
+  footer .revision { margin-top: .4em; }
+
+  @media (max-width: 600px) {
+    body { font-size: 21px; }
+    header.title-page h1 { font-size: 2rem; }
+    .page { padding-left: 22px; padding-right: 22px; }
+    .chapter h1 { font-size: 1.8rem; }
+  }
+
+</style>
+</head>
+<body>
+<div class="page">
+<nav class="pagenav">
+  <span class="prev"><a href="28-leaving_google.html">&larr; Leaving Google<small>Previous chapter</small></a></span>
+  <span class="home"><a href="index.html">Contents</a></span>
+  <span class="next"><a href="30-apple.html">Apple Cupertino &rarr;<small>Next chapter</small></a></span>
+</nav>
+<article class="chapter">
+<h1>Megagon Labs</h1>
+<p>After a couple of weeks of vacation after I left Google, it was time
+to start my new job. The research lab I joined was called Recruit
+Institute of Technology at the time, and only later it changed its
+name to Megagon Labs. The lab had an office in Tokyo and another one
+in Mountain View.</p>
+<p>After Google, it was a bit of a shock to have to build software
+without any of the technologies I had come to depend on. But the
+hardest change for me was no longer being able to see my code running
+at scale, in a production environment. This being a research lab, all
+the code we wrote were of the proof-of-concept variety, which is a
+very different animal. Still, the projects were interesting: for a
+starter project I got to build a query language compiler and execution
+engine for a system that extracted entities from text; then I worked
+on a text classifier for a real estate application, a chatbot
+assisting a hotel concierge with typical questions from guests, and
+another one for ranking restaurants, hotels and tourist attractions on
+subjective criteria.</p>
+<p>A few months into my new job, Alon mentioned that the lab was going to
+get a new name: they had involved an external company specialized in
+naming companies (yes, such companies exist!), they created a short
+list of candidate names, and they picked one: Megagon. What is a
+megagon? Glad you asked: it&rsquo;s a regular polygon with one million
+edges! Looks indistinguishable from a circle, like the red one in the
+Japanese flag which symbolizes the rising Sun. The symbolism here was
+something like this: we are working on systems that are approximating
+human behavior so well as to be indistinguishable from real people. I
+remember Alon telling us to keep the name secret from everyone,
+including our families, until it was officially announced. It was a
+great name, not yet used, and we didn&rsquo;t want anyone else to snatch it!</p>
+<p>Soon after the new name was official, Megagon Labs became a platinum
+sponsor for VLDB (the conference on Very Large Databases), which was
+going to take place in Rio de Janeiro, Brazil. We had a couple of
+accepted papers at VLDB, including the one on the text extraction
+system I had worked on, so we all got to go! I even took Maria with me
+(I just had to pay for her plane ticket and student registration). Our
+flight had an eight hour stopover in Panama, so we also got to see the
+Panama Canal on our way!</p>
+<p>Once in Rio, Maria came with me to all the talks. At one of the
+tutorials, the one on semistructured data, the author included a slide
+mentioning one of my papers from the 90&rsquo;s. Maria&rsquo;s face lit up when
+she saw my name there; I didn&rsquo;t expect it either, so it really was a
+nice surprise for the both of us! After the conference, Alon convinced
+all of us to take a flight to Iguaçu, to see the famous Falls. &ldquo;Come
+on&rdquo;, I remember him saying to us, &ldquo;how many times in your life would
+you have a chance to see this? Let&rsquo;s all go together!&rdquo; So we all went,
+including Maria, and had a great time.</p>
+<p>Pretty soon after we came back from Brazil I realized that one of the
+major initiatives was developing a chatbot aiming to apply positive
+psychology techniques to improve wellbeing. Alon&rsquo;s vision was to build
+a chatbot that learned about you and gently nudges to do more
+activities that are known to make you happier: excercise, socialize,
+get involved in your community, eat healthy, spend time in nature,
+etc. Back in 2016, years before ChatGPT, this was a very ambitious
+goal, and we just didn&rsquo;t have the critical mass to pull it off.</p>
+<p>The chatbot user interface and backend was being outsourced to
+contractors overseas, while the researchers onsite were focusing on
+the natural language understanding component. Both were advancing
+quite slowly at the time. I remember we were having a team lunch and I
+couldn&rsquo;t keep quiet anymore and I said:</p>
+<p>&ldquo;The overseas developers are moving at a snail-pace, they deliver low
+quality code, badly designed and buggy, and at this pace, we&rsquo;ll never
+have a chatbot ready to release.&rdquo;</p>
+<p>Everybody got quiet: they were all aware of this, but nobody dared to
+put it so bluntly. I was new to the team, and I didn&rsquo;t know the full
+history, but it was quite obvious, I thought. Alon then looked at the
+team lead and asked her if this was true. She nodded.</p>
+<p>&ldquo;Well then, George, can you build it?&rdquo;, Alon challenged me.</p>
+<p>&ldquo;I can build the backend, storage and API endpoints myself but I need
+someone to help me build the iPhone app; and that person would need to
+work here, on-site, side by side with me&rdquo;, I said.</p>
+<p>&ldquo;Very well&rdquo;, Alon said, &ldquo;we&rsquo;ll hire an iOS developer onsite and ditch
+the contractors. You have six months to build everyting, can you do
+it?&rdquo;</p>
+<p>&ldquo;Definitely!&rdquo;, I replied, even though I only had a high-level idea of
+the architecture of such a system, and I had never before built such a
+thing.</p>
+<p>The next week we interviewed three iOS engineers and hired an
+ambitious Economics major who had just graduated top of his class from
+a coding bootcamp for iOS developers (his instructor recommended him
+to us). I had a very good feeling about him during the interview, and
+I wasn&rsquo;t wrong. John took the desk next to mine and we worked side by
+side: we agreed on a protocol for the communication with the backend
+and we refined it over time, testing every change in the app.</p>
+<p>A couple of months after I became the de facto architect of the new
+system, one early morning Alon turned around with his chair (his desk
+was just behind mine), and said:</p>
+<p>&ldquo;George, do you have any management or mentorship experience? You must
+have supervised summer interns, right?&rdquo;</p>
+<p>&ldquo;Yes, I mentored a few summer interns at IBM and Google&rdquo;</p>
+<p>&ldquo;Good. How would you like to manage all the software engineers in the
+lab?&rdquo;, he followed.</p>
+<p>At that time, there were only a handful of full-time software
+engineers there plus a couple of contractors, including John. I had a
+reasonably good idea of the projects they were working on, so I
+agreed, on the condition that I can still spend enough time actually
+writing software myself. I still had to build the database layer, and
+the API server and figure out how to deploy them on the AWS cloud
+using Kubernetes (so clunky, compared to Borg), but in a few months we
+had a functional system we could iterate on, and integrate the natural
+language understanding component.</p>
+<p>At some point a group of senior people from the Tokyo lab came to
+visit and one of them invited me to a small conference room for a
+private meeting. I had some idea that the Tokyo leadership was not
+fully on board with this happiness chatbot project, but I wasn&rsquo;t
+prepared for the directness of the conversation that followed:</p>
+<p>&ldquo;George, why are you working on this? It&rsquo;s a useless idea, this will
+never work in Japan. Recruit will never release something like this.&rdquo;</p>
+<p>&ldquo;Why are you asking me?&rdquo;, I replied. &ldquo;This is a project that started
+before I joined, I noticed it moved too slow with the offshore
+contractors, and I took it on. I am just doing my job, as directed by
+our CEO. If you have a problem, you should ask him.&rdquo;</p>
+<p>&ldquo;Yes, we know all that, but why waste your talent on something useless
+like this?&rdquo;</p>
+<p>&ldquo;First of all, Positive Psychology is a respectable science with real
+results. Second, I view this as a vehicle for advancing natural
+language understanding. If we can pull this off, we can then use the
+natural language technology for pretty much anything, including
+matching job seekers with opportunities, which is Recruit&rsquo;s main
+business&rdquo;, I said.</p>
+<p>He wasn&rsquo;t convinced, but we ended the conversation there. I took Alon
+aside the next day and told him everything. I ended with &ldquo;Are you sure
+Recruit will continue to fund this project?&rdquo; Alon assured me that he
+has complete autonomy on the research direction of the lab and said
+that the Japanese senior engineer overstepped his authority.</p>
+<p>Not too long after this exchange, both Alon and I left Megagon Labs.
+Most of the other senior researchers and engineers left within the
+year.</p>
+</article>
+<nav class="pagenav bottom">
+  <span class="prev"><a href="28-leaving_google.html">&larr; Leaving Google<small>Previous chapter</small></a></span>
+  <span class="home"><a href="index.html">Contents</a></span>
+  <span class="next"><a href="30-apple.html">Apple Cupertino &rarr;<small>Next chapter</small></a></span>
+</nav>
+</div>
+<footer>
+  <p>&copy; George Andrei Mihaila</p>
+  <p class="revision">Published June 18, 2026 &middot; Revised September 16, 2026</p>
+</footer>
+</body>
+</html>

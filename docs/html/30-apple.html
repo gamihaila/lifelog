@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="George A. Mihaila">
+<meta name="dcterms.date" content="June 18, 2026">
+<meta name="dcterms.modified" content="September 16, 2026">
+<meta name="copyright" content="George Andrei Mihaila">
+<title>Apple Cupertino &mdash; From Bucharest to California</title>
+<style>
+  :root {
+    --bg: #f6efd8;
+    --paper: #f6efd8;
+    --ink: #3a3226;
+    --muted: #9c8f74;
+    --accent: #7c5c3b;
+    --rule: #e8dfc4;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+    line-height: 1.5;
+    font-size: 22px;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  .page {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 4vh 28px 6vh;
+  }
+
+  header.title-page {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 12vh 32px 8vh;
+    text-align: center;
+  }
+  header.title-page .cover {
+    max-width: 320px;
+    width: 60%;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 12px 40px rgba(0,0,0,.28);
+    margin-bottom: 40px;
+  }
+  header.title-page h1 {
+    font-size: 2.6rem;
+    line-height: 1.2;
+    margin: 0 0 .4em;
+    font-weight: 600;
+    letter-spacing: .5px;
+  }
+  header.title-page .author {
+    font-size: 1.2rem;
+    color: var(--muted);
+    font-style: italic;
+    margin: 0;
+  }
+  header.title-page .cover-credit {
+    font-size: .8rem;
+    color: var(--muted);
+    margin: -32px 0 40px;
+  }
+
+  section.dedication {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 4vh 32px 8vh;
+    text-align: center;
+    font-style: italic;
+    color: var(--muted);
+  }
+
+  nav.toc h2 {
+    text-align: center;
+    font-size: 1rem;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--muted);
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+    font-weight: 600;
+  }
+  nav.toc ol { list-style: none; margin: 0; padding: 0; }
+  nav.toc li a {
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+    padding: 11px 8px;
+    border-bottom: 1px solid var(--rule);
+    color: var(--ink);
+  }
+  nav.toc li a:hover { background: rgba(124,92,59,.06); text-decoration: none; }
+  nav.toc .toc-num {
+    color: var(--accent);
+    font-variant-numeric: tabular-nums;
+    min-width: 1.8em;
+    text-align: right;
+    font-size: .95rem;
+  }
+  nav.toc .toc-title { flex: 1; }
+
+  .chapter h1 {
+    font-size: 2.4rem;
+    font-weight: 700;
+    margin: 0 0 .9em;
+  }
+  .chapter p { margin: 0 0 .9em; text-align: justify; hyphens: auto; }
+
+  nav.pagenav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 0;
+    margin-bottom: 2em;
+    border-bottom: 1px solid var(--rule);
+    font-size: .9rem;
+  }
+  nav.pagenav.bottom {
+    border-bottom: none;
+    border-top: 1px solid var(--rule);
+    margin: 3em 0 0;
+  }
+  nav.pagenav .prev { text-align: left; }
+  nav.pagenav .home { text-align: center; white-space: nowrap; }
+  nav.pagenav .next { text-align: right; }
+  nav.pagenav .disabled { color: var(--muted); opacity: .5; }
+  nav.pagenav small { display: block; color: var(--muted); font-size: .8rem; }
+
+  footer {
+    text-align: center;
+    color: var(--muted);
+    font-size: .8rem;
+    padding: 4vh 32px 8vh;
+  }
+  footer .revision { margin-top: .4em; }
+
+  @media (max-width: 600px) {
+    body { font-size: 21px; }
+    header.title-page h1 { font-size: 2rem; }
+    .page { padding-left: 22px; padding-right: 22px; }
+    .chapter h1 { font-size: 1.8rem; }
+  }
+
+</style>
+</head>
+<body>
+<div class="page">
+<nav class="pagenav">
+  <span class="prev"><a href="29-megagon_labs.html">&larr; Megagon Labs<small>Previous chapter</small></a></span>
+  <span class="home"><a href="index.html">Contents</a></span>
+  <span class="next"><span class="disabled"><small>Last chapter</small> &rarr;</span></span>
+</nav>
+<article class="chapter">
+<h1>Apple Cupertino</h1>
+<p>Back at IBM Research I had this teammate, Roxana, who joined at the
+same time. We used to go for long walks after lunch talking about
+anything and everything, including her vision of wearable computing
+(this was before the iPhone). She moved to IBM Almaden at some point
+but we kept in touch. When we moved to California, we re-started our
+lunch conversations: every couple of months or so, we would meet and
+have lunch together, first at the Google cafeterias, then, after I
+left, in downtown Mountain View. I remember when she called me to tell
+me she got an offer from Apple, sometime around 2015. &ldquo;That&rsquo;s
+exciting, you should take it!&rdquo;, I said. She did.</p>
+<p>We continued to have regular lunches after that, and in the fall of
+2018, when I told her I&rsquo;m thinking of leaving Megagon, she immediately
+suggested I should consider following her at Apple Maps.</p>
+<p>&ldquo;Maps?&rdquo;, I remember asking, &ldquo;what&rsquo;s so interesting about Maps, it&rsquo;s
+just an app&hellip;&rdquo;</p>
+<p>&ldquo;No, it&rsquo;s an entire platform. It&rsquo;s deeply integrated with the entire
+iPhone operating system, providing location-aware services to all
+applications&rdquo;, she corrected me. &ldquo;There are plenty of exciting
+challenges for someone like you!&rdquo;</p>
+<p>From the outside, I had no idea, but the way she explained it, it made
+sense. So I decided to apply. I remember she came to visit us at our
+home in Mountain View over Christmas break and sat with me for hours,
+helping me bring my resume up to date, focusing on my leadership
+contributions. She really believed I should apply for a management
+position.</p>
+<p>At the same time I responded to multiple recruiters from other
+companies, and started interviewing in earnest. Within the span of a
+few weeks I had offers from LinkedIn, Open Storage, and Apple. For
+Apple I had interviewed in two different divisions: Maps and Siri. The
+Apple Siri recruiter told me they wanted to prepare an offer, but that
+I need to pick between them and Maps first. I picked Maps, in large
+part because of Roxana.</p>
+<p>I joined Apple Maps in the spring of 2019. I started getting used to
+the team and the codebase, and gradually getting involved in the
+planning process. My manager also asked me to have informal
+discussions with some engineers from another team and qpick two I
+would like to be transferred to our team. After six months, it was
+time to officially announce my new management role. My manager had
+brief one-on-ones with all the engineers in my new team asking them if
+they had any concerns, and then it was official! Exciting and scary at
+the same time: we were just about to deploy a new system to
+production. I shared my feelings with my manager, and he understood me
+completely: &ldquo;George, just give this management thing a try this for a
+couple of years, see how you like it! I know it&rsquo;s not an easy
+transition.&rdquo;</p>
+<p>Less than a month after my promotion to management, two of the
+engineers in my new team left Apple, they had been interviewing with
+other companies for a while and got offers. One of them had just
+joined our team a couple of months before, through an internal
+transfer. Unfortunately, during this short time he had built a
+component of the system that we were preparing to launch, and his code
+had not been completely reviewed yet. Actually, it turned out that he
+was developing this component on his own and nobody in the team fully
+understood it yet. First hard-learned lesson: &ldquo;Never let anybody build
+something nobody else understands!&rdquo;</p>
+<p>Well, the lesson was good, but we still had to launch on time! I first
+tried to do a code walk-through together with another senior engineer
+but although we understood the main idea, neither of us was convinced
+that the code would run in a reasonable amount of time in all cases.
+And indeed, once we deployed it in a staging environment running at
+scale, it would frequently take more than double the allotted time to
+complete. Worst of all, there wasn&rsquo;t an easy way to fix it as long as
+we kept that approach. We needed to go back to the drawing board. I
+approached a couple of engineers and asked them for ideas, got some
+leads, but no concrete solution emerged, especially on short notice.
+This was late on a Friday afternoon. We called it a day and went home.</p>
+<p>Over the weekend, I kept obsessing about the problem, and finally came
+up with a much simpler idea on Sunday afternoon that I thought might
+work (sorry for being vague, I can&rsquo;t disclose the problem or the
+solution here). On a hunch, I implemented a proof-of-concept solution
+on my MacBook and ran it on some real data. It worked, and completed
+in much less time than the existing algorithm on the same data, well
+under the allotted time! The following week I cleaned up the code,
+submitted it for review, and merged it. I was happy we were able to
+keep the original launch timeline, but my manager tempered my
+enthusiasm: &ldquo;That&rsquo;s good we delivered the system on time, but I don&rsquo;t
+want you to go and implement things by yourself, you have engineers
+for that; if you keep doing things like this, over time, they will
+come to rely on you, instead of working hard to come up with solutions
+themselves.&rdquo; Lesson number two.</p>
+<p>When the pandemic hit, everybody went home and we slowly adjusted to
+working remotely and meeting only virtually. Initially it was exciting
+to see we can be resilient and continue to get things done without the
+commute, but after a few months it started to wear us down. Several
+engineers got sick and had to take extended time off. I was finding it
+increasingly difficult to keep everyone&rsquo;s spirits up, without the
+in-person interactions we had taken for granted before.</p>
+<p>Initially all of us had to work from home, but after a few months we
+were allowed the option to come back to the office, if we wanted. I
+asked each engineer in my team if they want to come back, but none of
+them was willing. At the time, my kids were also at home, doing their
+school work over Zoom meetings, and I was having trouble concentrating
+at home. So I went back to the office. I was the only one. The entire
+campus was completely empty. I really felt like that lone guy in the
+Passengers movie, before waking up Aurora from her hybernation pod. A
+few more months passed, and one day another engineer showed up in the
+office. Her name was Franziska, she was a new hire in another team,
+and she had just moved from Germany. Naturally, we started spending
+time together, playing table tennis during the breaks, talking, and
+cycling to the other, larger Apple buildings that had their cafeterias
+open (ours was still closed for lack of customers). Slowly, very
+slowly, more engineers started showing up, and we would all go to
+lunch together. At some point, she told me in passing that she is
+planning to get her California driver license (she had a German one),
+but she didn&rsquo;t have a car for the road test. As I had a Nissan Leaf in
+addition to our family car, I offered to lend it to her to practice
+and also to go with her to the DMV for the test. I have fond memories
+of our long conversations from that time, she was helping me through
+some difficult interactions with my daughters, providing some
+perspective from her own college years. Even after she eventually
+moved to Southern California, we still kept in touch as friends.</p>
+<p>At work, I was spending more and more time in (virtual) meetings, and
+less and less time doing what I love, designing and building software.
+My manager noticed that (I kept complaining about it), and at one
+point asked me to take a few days off and just think about what gives
+me joy. I did, and wrote down a long list of all the aspects of my job
+that I enjoyed and another one with all the ones I dreaded. I sent him
+the lists, unedited. When I got back to work, on our next one-on-one
+meeting I said:</p>
+<p>&ldquo;Thank you for being supportive and allowing me to really spend some
+time figuring out what I want. When I read back the lists I sent you
+it became quite clar that I would rather be a software engineer than a
+manager.&rdquo;</p>
+<p>&ldquo;Well, you can, if that&rsquo;s what you want. You can step down and I can
+look for someone else to manage the team. Do you have any
+suggestions?&rdquo;</p>
+<p>&ldquo;Actually, I do, and I think he would do a great job.&rdquo; I said, and
+nominated the best senior engineer in my team, who was the de-facto
+architect of the new system.</p>
+<p>So it was, that after about three years of management, I went back to
+doing what I love! It wasn&rsquo;t easy, but it was the best decision. It
+took a while to figure things out, but after trying to be a
+researcher, then college professor, then software engineer, then
+manager, then software engineer again, I now know that there isn&rsquo;t
+anything else I&rsquo;d rather do. And that&rsquo;s okay.</p>
+</article>
+<nav class="pagenav bottom">
+  <span class="prev"><a href="29-megagon_labs.html">&larr; Megagon Labs<small>Previous chapter</small></a></span>
+  <span class="home"><a href="index.html">Contents</a></span>
+  <span class="next"><span class="disabled"><small>Last chapter</small> &rarr;</span></span>
+</nav>
+</div>
+<footer>
+  <p>&copy; George Andrei Mihaila</p>
+  <p class="revision">Published June 18, 2026 &middot; Revised September 16, 2026</p>
+</footer>
+</body>
+</html>

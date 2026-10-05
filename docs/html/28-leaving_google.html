@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="George A. Mihaila">
+<meta name="dcterms.date" content="June 18, 2026">
+<meta name="dcterms.modified" content="September 16, 2026">
+<meta name="copyright" content="George Andrei Mihaila">
+<title>Leaving Google &mdash; From Bucharest to California</title>
+<style>
+  :root {
+    --bg: #f6efd8;
+    --paper: #f6efd8;
+    --ink: #3a3226;
+    --muted: #9c8f74;
+    --accent: #7c5c3b;
+    --rule: #e8dfc4;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+    line-height: 1.5;
+    font-size: 22px;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  .page {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 4vh 28px 6vh;
+  }
+
+  header.title-page {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 12vh 32px 8vh;
+    text-align: center;
+  }
+  header.title-page .cover {
+    max-width: 320px;
+    width: 60%;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 12px 40px rgba(0,0,0,.28);
+    margin-bottom: 40px;
+  }
+  header.title-page h1 {
+    font-size: 2.6rem;
+    line-height: 1.2;
+    margin: 0 0 .4em;
+    font-weight: 600;
+    letter-spacing: .5px;
+  }
+  header.title-page .author {
+    font-size: 1.2rem;
+    color: var(--muted);
+    font-style: italic;
+    margin: 0;
+  }
+  header.title-page .cover-credit {
+    font-size: .8rem;
+    color: var(--muted);
+    margin: -32px 0 40px;
+  }
+
+  section.dedication {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 4vh 32px 8vh;
+    text-align: center;
+    font-style: italic;
+    color: var(--muted);
+  }
+
+  nav.toc h2 {
+    text-align: center;
+    font-size: 1rem;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--muted);
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+    font-weight: 600;
+  }
+  nav.toc ol { list-style: none; margin: 0; padding: 0; }
+  nav.toc li a {
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+    padding: 11px 8px;
+    border-bottom: 1px solid var(--rule);
+    color: var(--ink);
+  }
+  nav.toc li a:hover { background: rgba(124,92,59,.06); text-decoration: none; }
+  nav.toc .toc-num {
+    color: var(--accent);
+    font-variant-numeric: tabular-nums;
+    min-width: 1.8em;
+    text-align: right;
+    font-size: .95rem;
+  }
+  nav.toc .toc-title { flex: 1; }
+
+  .chapter h1 {
+    font-size: 2.4rem;
+    font-weight: 700;
+    margin: 0 0 .9em;
+  }
+  .chapter p { margin: 0 0 .9em; text-align: justify; hyphens: auto; }
+
+  nav.pagenav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 0;
+    margin-bottom: 2em;
+    border-bottom: 1px solid var(--rule);
+    font-size: .9rem;
+  }
+  nav.pagenav.bottom {
+    border-bottom: none;
+    border-top: 1px solid var(--rule);
+    margin: 3em 0 0;
+  }
+  nav.pagenav .prev { text-align: left; }
+  nav.pagenav .home { text-align: center; white-space: nowrap; }
+  nav.pagenav .next { text-align: right; }
+  nav.pagenav .disabled { color: var(--muted); opacity: .5; }
+  nav.pagenav small { display: block; color: var(--muted); font-size: .8rem; }
+
+  footer {
+    text-align: center;
+    color: var(--muted);
+    font-size: .8rem;
+    padding: 4vh 32px 8vh;
+  }
+  footer .revision { margin-top: .4em; }
+
+  @media (max-width: 600px) {
+    body { font-size: 21px; }
+    header.title-page h1 { font-size: 2rem; }
+    .page { padding-left: 22px; padding-right: 22px; }
+    .chapter h1 { font-size: 1.8rem; }
+  }
+
+</style>
+</head>
+<body>
+<div class="page">
+<nav class="pagenav">
+  <span class="prev"><a href="27-switzerland.html">&larr; Zurich 2016<small>Previous chapter</small></a></span>
+  <span class="home"><a href="index.html">Contents</a></span>
+  <span class="next"><a href="29-megagon_labs.html">Megagon Labs &rarr;<small>Next chapter</small></a></span>
+</nav>
+<article class="chapter">
+<h1>Leaving Google</h1>
+<p>After we got back from Switzerland, at the end of summer in 2016, our
+team went out to celebrate our recent launch of the improved question
+answering system at Cascal, an upscale Spanish cuisine restaurant
+downtown Mountain View. We got seated at a long table in the back of
+the restaurant. After we finished, I thought I heard a familiar voice
+and turned around: it was Alon Halevy, who had recently left Google to
+take on a CEO role at a new research lab opened in Mountain View by
+Recruit Holdings, a large Japanese conglomerate. He was having lunch
+with his new team. Naturally, we exchanged a few words about his new
+venture, and he said &ldquo;Let&rsquo;s keep in touch!&rdquo;. I knew what that meant. I
+waited for my Google teammates to leave and I said, discreetly: &ldquo;Sure,
+you know where to find me.&rdquo;</p>
+<p>And sure enough, after a few days I got an e-mail from him, asking me
+if I was available for a chat over lunch. We set a time and place for
+the following week, and we met. There, Alon told me all about the kind
+of work they were doing at the new lab, and how the Japanese parent
+company had given him complete freedom to grow the team over the next
+few years. &ldquo;If you&rsquo;re interested, we&rsquo;d love to invite you to meet the
+team.&rdquo;. So I first went there for an informal chat with some of the
+senior researchers who told me about the work they were doing pushing
+the boundaries of natural language understanding and building chatbot
+prototypes for various application domains (this was years before
+anybody heard of ChatGPT). I was hooked!</p>
+<p>After a few days I wrote to Alon that I&rsquo;d like to go forward, so his
+office manager booked a proper interview schedule for the following
+week. I again solved a bunch of design and coding questions on the
+whiteboard, and also had some more discussions with the researchers.
+The role I was interviewing for was called &ldquo;research engineer&rdquo; and
+they were specifically looking for someone that can connect the
+researchers with the engineers. &ldquo;That&rsquo;s what I have been doing for the
+past 16 years at IBM and Google&rdquo;, I said.</p>
+<p>After a couple more weeks, Alon called me on my cellphone:</p>
+<p>&ldquo;Can you talk?&rdquo;, he opened.</p>
+<p>&ldquo;Let me step outside&rdquo;, I said, because I was at work.</p>
+<p>&ldquo;OK, here is the deal: everybody in the team is very excited, we&rsquo;d
+love for you to join us. What is your current level at Google?&rdquo;</p>
+<p>&ldquo;I&rsquo;m a Level 4 software engineer&rdquo;</p>
+<p>&ldquo;OK, I know from my own experience that leaving Google is not an easy
+decision, but if you join, we&rsquo;ll promote you to Level 5 and raise your
+compensation by 40%. Interested?</p>
+<p>&ldquo;Thank you, Alon! I&rsquo;ll give you my answer before the end of the
+week.&rdquo;, I said.</p>
+<p>A bit of background is warranted here. As you saw in the previous
+chapters I really liked Google: I had a few successful launches, I was
+respected, and finally feeling my contributions mattered. However,
+getting to the next level felt out of reach. I already had several
+career progression conversations with my manager but no concrete
+plans. That meant my compensation was hitting a ceiling too. Now, I&rsquo;ve
+never been one to chase money above all else, but at the same time we
+were still renting, four years after we sold our house, and the way
+the Bay Area real estate market was trending, we were never going to
+catch up.</p>
+<p>So I called Alon and told him I&rsquo;m in. Now I had the delicate task of
+announcing my resignation. I grabbed my manager, we went for a walk in
+the beautiful Google campus, and I explained my reasoning. He asked me
+if there is anything he could do to make me stay. There wasn&rsquo;t.</p>
+<p>So, with a heavy heart, I left Google, the place where I had matured
+as a professional software engineer.</p>
+</article>
+<nav class="pagenav bottom">
+  <span class="prev"><a href="27-switzerland.html">&larr; Zurich 2016<small>Previous chapter</small></a></span>
+  <span class="home"><a href="index.html">Contents</a></span>
+  <span class="next"><a href="29-megagon_labs.html">Megagon Labs &rarr;<small>Next chapter</small></a></span>
+</nav>
+</div>
+<footer>
+  <p>&copy; George Andrei Mihaila</p>
+  <p class="revision">Published June 18, 2026 &middot; Revised September 16, 2026</p>
+</footer>
+</body>
+</html>

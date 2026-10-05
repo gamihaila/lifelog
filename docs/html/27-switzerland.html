@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="George A. Mihaila">
+<meta name="dcterms.date" content="June 18, 2026">
+<meta name="dcterms.modified" content="September 16, 2026">
+<meta name="copyright" content="George Andrei Mihaila">
+<title>Zurich 2016 &mdash; From Bucharest to California</title>
+<style>
+  :root {
+    --bg: #f6efd8;
+    --paper: #f6efd8;
+    --ink: #3a3226;
+    --muted: #9c8f74;
+    --accent: #7c5c3b;
+    --rule: #e8dfc4;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+    line-height: 1.5;
+    font-size: 22px;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  .page {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 4vh 28px 6vh;
+  }
+
+  header.title-page {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 12vh 32px 8vh;
+    text-align: center;
+  }
+  header.title-page .cover {
+    max-width: 320px;
+    width: 60%;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 12px 40px rgba(0,0,0,.28);
+    margin-bottom: 40px;
+  }
+  header.title-page h1 {
+    font-size: 2.6rem;
+    line-height: 1.2;
+    margin: 0 0 .4em;
+    font-weight: 600;
+    letter-spacing: .5px;
+  }
+  header.title-page .author {
+    font-size: 1.2rem;
+    color: var(--muted);
+    font-style: italic;
+    margin: 0;
+  }
+  header.title-page .cover-credit {
+    font-size: .8rem;
+    color: var(--muted);
+    margin: -32px 0 40px;
+  }
+
+  section.dedication {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 4vh 32px 8vh;
+    text-align: center;
+    font-style: italic;
+    color: var(--muted);
+  }
+
+  nav.toc h2 {
+    text-align: center;
+    font-size: 1rem;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--muted);
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+    font-weight: 600;
+  }
+  nav.toc ol { list-style: none; margin: 0; padding: 0; }
+  nav.toc li a {
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+    padding: 11px 8px;
+    border-bottom: 1px solid var(--rule);
+    color: var(--ink);
+  }
+  nav.toc li a:hover { background: rgba(124,92,59,.06); text-decoration: none; }
+  nav.toc .toc-num {
+    color: var(--accent);
+    font-variant-numeric: tabular-nums;
+    min-width: 1.8em;
+    text-align: right;
+    font-size: .95rem;
+  }
+  nav.toc .toc-title { flex: 1; }
+
+  .chapter h1 {
+    font-size: 2.4rem;
+    font-weight: 700;
+    margin: 0 0 .9em;
+  }
+  .chapter p { margin: 0 0 .9em; text-align: justify; hyphens: auto; }
+
+  nav.pagenav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 0;
+    margin-bottom: 2em;
+    border-bottom: 1px solid var(--rule);
+    font-size: .9rem;
+  }
+  nav.pagenav.bottom {
+    border-bottom: none;
+    border-top: 1px solid var(--rule);
+    margin: 3em 0 0;
+  }
+  nav.pagenav .prev { text-align: left; }
+  nav.pagenav .home { text-align: center; white-space: nowrap; }
+  nav.pagenav .next { text-align: right; }
+  nav.pagenav .disabled { color: var(--muted); opacity: .5; }
+  nav.pagenav small { display: block; color: var(--muted); font-size: .8rem; }
+
+  footer {
+    text-align: center;
+    color: var(--muted);
+    font-size: .8rem;
+    padding: 4vh 32px 8vh;
+  }
+  footer .revision { margin-top: .4em; }
+
+  @media (max-width: 600px) {
+    body { font-size: 21px; }
+    header.title-page h1 { font-size: 2rem; }
+    .page { padding-left: 22px; padding-right: 22px; }
+    .chapter h1 { font-size: 1.8rem; }
+  }
+
+</style>
+</head>
+<body>
+<div class="page">
+<nav class="pagenav">
+  <span class="prev"><a href="26-google_mtv.html">&larr; Google Mountain View<small>Previous chapter</small></a></span>
+  <span class="home"><a href="index.html">Contents</a></span>
+  <span class="next"><a href="28-leaving_google.html">Leaving Google &rarr;<small>Next chapter</small></a></span>
+</nav>
+<article class="chapter">
+<h1>Zurich 2016</h1>
+<p>After that successful project, we earned the respect of our peers.
+From then on, every time there was a performance regression introduced
+by a new feature, they would come to us to advise them how to fix it.
+Also, since I was one of the engineers that set up the deployment
+workflows when we first launched the system, they would also come to
+me to learn how to safely deploy new features to production, how to
+monitor their performance, and how to rollback if need be.</p>
+<p>Our team had also expanded geographically: we now had people working
+on our project from Boston, New York, Haifa, Zurich, and Tokyo. As I
+was planning a trip to Romania with my family, I got an idea: what if
+I could combine this with a visit to the Zurich office so I wouldn&rsquo;t
+have to fly back immediately?</p>
+<p>So, the next time the manager of the Zurich team came to Mountain View
+I approached him and offered to come work with his people for a month,
+in the summer. This was back in 2016. The manager was initially
+suspicious of my request, but I quickly made it clear that I&rsquo;m going
+to cover all the travel and lodging expenses by myself as I was anyway
+going to Europe for vacation, and in any case I&rsquo;m not looking to
+transfer there. He didn&rsquo;t have any more objections after that, so I
+started planning my trip.</p>
+<p>I remembered that back in 1999, during the SRC internship, I had
+participated in a brainstorming session for internet startup ideas. At
+the time, well before AirBnB, I came up with an idea of a website for
+vacation house swapping: suppose someone from New York wanted to visit
+Paris; they would post their preferred travel dates and details about
+their home on this website; then, the system would match them with
+someone from Paris who wants to visit New York during that same
+period; this way, since they would be swapping houses, I argued, they
+would trust each other to not damage their homes. The decision factors
+at SRC turned it down because of the trust and liability issues.</p>
+<p>I did a quick search on MoMa, the Google Intranet, and wouldn&rsquo;t you
+know it, there was an internal website that did exactly that, for
+Googlers looking to swap homes on a temporary basis. Since this was
+internal, only available to Googlers, the trust problem would be even
+easier. So I put my preferred travel period and my Palo Alto townhouse
+details on this website and waited. In a couple of weeks I got
+contacted by a Swiss engineer that was planning a trip to the Mountain
+View office in July. We exchanged several messages and we were both
+excited to save money this way, unfortunately at the last minute he
+had to cancel because his kids&rsquo; school rejected his request to pull
+the kids off for a whole month (in Switzerland, kids have short
+vacations throughout the year instead of an extended summer vacation).</p>
+<p>Oh well, the back-up option was AirBnB: after quite a bit of looking
+around on the site, I finally found a three bedroom apartment in
+Küsnacht, a little town on the East shore of Lake Zurich, not too far
+from the Google office. The owner was a retired American diplomat, who
+was spending his summer in the States, and he was offering his place
+at a very reasonable rate (I guess he was quite well-off to care about
+turning a profit from rentals). I jumped at this opportunity and wrote
+to the host right away, describing who I was and he agreed to rent his
+place to us. He was very helpful with local tips about things to do
+around Küsnacht, and how to keep the kids busy: he recommended a day
+camp called Milandia half an hour away by train that picked up the
+campers from their local train stations every morning and dropped them
+back in the evening. We registered two of our daughters, Irina and
+Ileana, who were 11 and 9 at the time. Our oldest daughter Maria
+wasn&rsquo;t interested and Xenia was too young.</p>
+<p>Before Switzerland, we went to Bucharest, rented a car, and travelled
+all around Romania with our kids. We visited my sister in Bucharest,
+my cousins in Buzǎu and Brașov and my aunt in Viișoara, we went to
+Sibiu and then to the Black Sea, where we rented a villa next to
+Ceaușescu&rsquo;s former seaside compound, in Neptun. Even though our kids
+aren&rsquo;t really fluent in Romanian, they understand it well enough and
+had a great time, really taking in the local vibe, and especially the
+restaurants, which by now had really good food.</p>
+<p>In Switzerland, I was going to work during the week, and every weekend
+we were going to the mountains by train. The Google office was located
+on the North West side of Lake Zurich and our apartment was on the
+East side. For the first few days I took the train, but then I found
+out that I could borrow one of the Google E-bikes from the office for
+my commute. That was a game changer. Every morning I would get a half
+an hour of pure joy cycling alongside the lake to the office and in
+the evening on the way back.</p>
+<p>One time we went to Fribourg to visit some family friends we met in
+the Saint Vladimir Seminary in Crestwood, New York: he was a Swiss man
+who was training to become an Orthodox priest, married to a Romanian
+woman, and they had five kids about the same ages as ours. I remember
+we had lengthy discussions about life in Switzerland, part of the
+reason for our trip being to get a sense if we would ever want to move
+there.</p>
+<p>They were trying to convince us to move, and they had good reasons:
+Switzerland is a beautiful country, very civilized, clean and safe.
+However, none of us speaks German and we didn&rsquo;t want our kids going to
+school there and us being unable to communicate with their teachers or
+even understand their homework. In addition, while in California we
+were among people from all around the world and nobody batted an eye
+about our country of origin, we knew that Romanians had a pretty bad
+reputation in Western Europe, especially Switzerland, because of a few
+illegal migrants who were getting in trouble with the law. We had
+experienced this first-hand a couple of years earlier, when we were
+vacationing in Paris and we got approached by a well-meaning French
+old lady as we were getting out of the Place Pigalle Metro station:
+&ldquo;Faites attention aux pickpockets Roumains, il sont partout!&rdquo;. We
+looked her in the eyes and said: &ldquo;Mais nous sommes Roumains aussi!&rdquo;.
+She stared at us in disbelief: &ldquo;Non, avec ces yeux clairs?&rdquo;<sup id="fnref:29-1"><a class="footnote-ref" href="#fn:29-1">1</a></sup> Well,
+it&rsquo;s true that right after that we identified a Roma young boy who was
+following us, and when we turned to him suddenly and asked him in
+Romanian what his business was, he answered back in Romanian in a
+whining voice &ldquo;What&hellip; nothing, mister, I didn&rsquo;t do anything!&rdquo;</p>
+<p>So, as much as we liked our vacation there, we couldn&rsquo;t see ourselves
+leaving California for Switzerland. Come to think of it, I still can&rsquo;t
+imagine a better place for us than America.</p>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:29-1">
+<p>&ldquo;Pay attention to the Romanian pick-pockets, they are
+everywhere&rdquo;; &ldquo;But we&rsquo;re Romanian too!&rdquo;; &ldquo;No, with these bright eyes?&rdquo;&#160;<a class="footnote-backref" href="#fnref:29-1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</article>
+<nav class="pagenav bottom">
+  <span class="prev"><a href="26-google_mtv.html">&larr; Google Mountain View<small>Previous chapter</small></a></span>
+  <span class="home"><a href="index.html">Contents</a></span>
+  <span class="next"><a href="28-leaving_google.html">Leaving Google &rarr;<small>Next chapter</small></a></span>
+</nav>
+</div>
+<footer>
+  <p>&copy; George Andrei Mihaila</p>
+  <p class="revision">Published June 18, 2026 &middot; Revised September 16, 2026</p>
+</footer>
+</body>
+</html>

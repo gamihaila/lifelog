@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="George A. Mihaila">
+<meta name="dcterms.date" content="June 18, 2026">
+<meta name="dcterms.modified" content="September 16, 2026">
+<meta name="copyright" content="George Andrei Mihaila">
+<title>From Bucharest to California</title>
+<style>
+  :root {
+    --bg: #f6efd8;
+    --paper: #f6efd8;
+    --ink: #3a3226;
+    --muted: #9c8f74;
+    --accent: #7c5c3b;
+    --rule: #e8dfc4;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+    line-height: 1.5;
+    font-size: 22px;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  .page {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 4vh 28px 6vh;
+  }
+
+  header.title-page {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 12vh 32px 8vh;
+    text-align: center;
+  }
+  header.title-page .cover {
+    max-width: 320px;
+    width: 60%;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 12px 40px rgba(0,0,0,.28);
+    margin-bottom: 40px;
+  }
+  header.title-page h1 {
+    font-size: 2.6rem;
+    line-height: 1.2;
+    margin: 0 0 .4em;
+    font-weight: 600;
+    letter-spacing: .5px;
+  }
+  header.title-page .author {
+    font-size: 1.2rem;
+    color: var(--muted);
+    font-style: italic;
+    margin: 0;
+  }
+  header.title-page .cover-credit {
+    font-size: .8rem;
+    color: var(--muted);
+    margin: -32px 0 40px;
+  }
+
+  section.dedication {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 4vh 32px 8vh;
+    text-align: center;
+    font-style: italic;
+    color: var(--muted);
+  }
+
+  nav.toc h2 {
+    text-align: center;
+    font-size: 1rem;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--muted);
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 16px;
+    margin-bottom: 8px;
+    font-weight: 600;
+  }
+  nav.toc ol { list-style: none; margin: 0; padding: 0; }
+  nav.toc li a {
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+    padding: 11px 8px;
+    border-bottom: 1px solid var(--rule);
+    color: var(--ink);
+  }
+  nav.toc li a:hover { background: rgba(124,92,59,.06); text-decoration: none; }
+  nav.toc .toc-num {
+    color: var(--accent);
+    font-variant-numeric: tabular-nums;
+    min-width: 1.8em;
+    text-align: right;
+    font-size: .95rem;
+  }
+  nav.toc .toc-title { flex: 1; }
+
+  .chapter h1 {
+    font-size: 2.4rem;
+    font-weight: 700;
+    margin: 0 0 .9em;
+  }
+  .chapter p { margin: 0 0 .9em; text-align: justify; hyphens: auto; }
+
+  nav.pagenav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 0;
+    margin-bottom: 2em;
+    border-bottom: 1px solid var(--rule);
+    font-size: .9rem;
+  }
+  nav.pagenav.bottom {
+    border-bottom: none;
+    border-top: 1px solid var(--rule);
+    margin: 3em 0 0;
+  }
+  nav.pagenav .prev { text-align: left; }
+  nav.pagenav .home { text-align: center; white-space: nowrap; }
+  nav.pagenav .next { text-align: right; }
+  nav.pagenav .disabled { color: var(--muted); opacity: .5; }
+  nav.pagenav small { display: block; color: var(--muted); font-size: .8rem; }
+
+  footer {
+    text-align: center;
+    color: var(--muted);
+    font-size: .8rem;
+    padding: 4vh 32px 8vh;
+  }
+  footer .revision { margin-top: .4em; }
+
+  @media (max-width: 600px) {
+    body { font-size: 21px; }
+    header.title-page h1 { font-size: 2rem; }
+    .page { padding-left: 22px; padding-right: 22px; }
+    .chapter h1 { font-size: 1.8rem; }
+  }
+
+</style>
+</head>
+<body>
+<header class="title-page">
+    <img class="cover" src="../cover.jpg" alt="Cover">
+    <p class="cover-credit">Cover art by Sabina Xenia Mihaila</p>
+    <h1>From Bucharest to California</h1>
+    <p class="author">George A. Mihaila</p>
+</header>
+<section class="dedication">
+  <p>To my parents.</p>
+</section>
+
+<div class="page">
+<nav class="toc">
+  <h2>Contents</h2>
+  <ol>
+      <li><a href="01-parents.html"><span class="toc-num">1</span><span class="toc-title">My Parents</span></a></li>
+      <li><a href="02-childhood.html"><span class="toc-num">2</span><span class="toc-title">Childhood</span></a></li>
+      <li><a href="03-high_school.html"><span class="toc-num">3</span><span class="toc-title">High School</span></a></li>
+      <li><a href="04-army.html"><span class="toc-num">4</span><span class="toc-title">Military Service</span></a></li>
+      <li><a href="05-college.html"><span class="toc-num">5</span><span class="toc-title">University</span></a></li>
+      <li><a href="06-ioana.html"><span class="toc-num">6</span><span class="toc-title">A Fateful Choice</span></a></li>
+      <li><a href="07-revolution.html"><span class="toc-num">7</span><span class="toc-title">Revolution</span></a></li>
+      <li><a href="08-freedom.html"><span class="toc-num">8</span><span class="toc-title">Freedom</span></a></li>
+      <li><a href="09-first_jobs.html"><span class="toc-num">9</span><span class="toc-title">First Jobs</span></a></li>
+      <li><a href="10-munich.html"><span class="toc-num">10</span><span class="toc-title">Munich 1992</span></a></li>
+      <li><a href="11-leaving_romania.html"><span class="toc-num">11</span><span class="toc-title">Leaving Romania</span></a></li>
+      <li><a href="12-moving_to_toronto.html"><span class="toc-num">12</span><span class="toc-title">Moving to Toronto</span></a></li>
+      <li><a href="13-graduate_school.html"><span class="toc-num">13</span><span class="toc-title">Graduate School</span></a></li>
+      <li><a href="14-divorce.html"><span class="toc-num">14</span><span class="toc-title">Divorce</span></a></li>
+      <li><a href="15-claudia.html"><span class="toc-num">15</span><span class="toc-title">The Comet</span></a></li>
+      <li><a href="16-cristina.html"><span class="toc-num">16</span><span class="toc-title">Paris Interlude</span></a></li>
+      <li><a href="17-lara.html"><span class="toc-num">17</span><span class="toc-title">Single in Toronto</span></a></li>
+      <li><a href="18-exploring.html"><span class="toc-num">18</span><span class="toc-title">A Bucket of Flowers</span></a></li>
+      <li><a href="19-src_internship.html"><span class="toc-num">19</span><span class="toc-title">California 1999</span></a></li>
+      <li><a href="20-gratiela.html"><span class="toc-num">20</span><span class="toc-title">Grațiela</span></a></li>
+      <li><a href="21-reconciliation.html"><span class="toc-num">21</span><span class="toc-title">Reconciliation</span></a></li>
+      <li><a href="22-moving_to_america.html"><span class="toc-num">22</span><span class="toc-title">Moving to America</span></a></li>
+      <li><a href="23-yorktown.html"><span class="toc-num">23</span><span class="toc-title">IBM Yorktown Heights</span></a></li>
+      <li><a href="24-google.html"><span class="toc-num">24</span><span class="toc-title">Google New York</span></a></li>
+      <li><a href="25-moving_to_california.html"><span class="toc-num">25</span><span class="toc-title">Moving to California</span></a></li>
+      <li><a href="26-google_mtv.html"><span class="toc-num">26</span><span class="toc-title">Google Mountain View</span></a></li>
+      <li><a href="27-switzerland.html"><span class="toc-num">27</span><span class="toc-title">Zurich 2016</span></a></li>
+      <li><a href="28-leaving_google.html"><span class="toc-num">28</span><span class="toc-title">Leaving Google</span></a></li>
+      <li><a href="29-megagon_labs.html"><span class="toc-num">29</span><span class="toc-title">Megagon Labs</span></a></li>
+      <li><a href="30-apple.html"><span class="toc-num">30</span><span class="toc-title">Apple Cupertino</span></a></li>
+  </ol>
+</nav>
+</div>
+<footer>
+  <p>&copy; George Andrei Mihaila</p>
+  <p class="revision">Published June 18, 2026 &middot; Revised September 16, 2026</p>
+</footer>
+</body>
+</html>
