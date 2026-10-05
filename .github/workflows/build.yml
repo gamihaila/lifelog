@@ -1,4 +1,4 @@
-name: Build index.html
+name: Build multipage HTML
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
     paths:
       - 'docs/**.md'
       - 'docs/contents.yaml'
-      - 'docs/build.py'
+      - 'docs/build_multipage.py'
 
 jobs:
   build:
@@ -19,14 +19,14 @@ jobs:
       - name: Install dependencies
         run: pip install markdown
 
-      - name: Run build script
+      - name: Run multipage build script
         working-directory: docs
         run: python3 build_multipage.py
 
-      - name: Commit updated index.html
+      - name: Commit rebuilt html/
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/html/index.html
-          git diff --cached --quiet || git commit -m "Auto-rebuild index.html"
+          git add -A docs/html
+          git diff --cached --quiet || git commit -m "Auto-rebuild multipage HTML"
           git push
