@@ -414,7 +414,7 @@ she calmed down, but she held a grudge for a long time after that.
 One Sunday afternoon, in Ioana's room, we were listening to a tape
 with Joe Dassin. At some point, his famous song "Ça va pas changer le
 monde" came on, just as Ioana was casually mentioning that Dana told
-her she had broke up with her boyfriend. I'm not proud to admit, but
+her she just broke up with her boyfriend. I'm not proud to admit, but
 at that moment, listening to the song lyrics I was daydreaming about
 how it wouldn't be the end of the world if I left Ioana and went
 straight to Dana to tell her how I felt. Dana was always joking that
