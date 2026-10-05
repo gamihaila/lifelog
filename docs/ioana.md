@@ -413,13 +413,14 @@ she calmed down, but she held a grudge for a long time after that.
 
 College life continued its course, with the usual classes and exams
 and at some point we were told by one of our professors who was a
-higher up in the Party organization that we too will be invited to
-enroll in the Communist Party, in order of our grades, starting with
-the top students. I remember going home that day and asking my
-parents for advice:
+higher up in the Party organization that we too would be invited to
+join the Communist Party, in order of our grades, starting with the
+top students. I remember going home that day and asking my parents for
+advice:
 
 "What do I do? My turn is coming pretty soon and I have to give an
-answer. I don't want join the party."
+answer. I don't want to join the Party, it's the reason for all that
+is wrong in our country."
 
 "Well, think about it this way", my father said. "If you don't join,
 you will be left out of all decisions at your workplace, and will be
@@ -430,11 +431,11 @@ peers to do the least evil."
 I wasn't happy with this reasoning, but I could see his point. Both my
 parents were members and so was my sister, and they did have some
 influence at their workplaces, at least compared to their non-member
-peers. My father was in the Unversity leadership, I believe he was a
-Dean of the Linguistics Department at the time, and he did his best to
-ensure fairness and promote excellence.
+peers. My father was in the University leadership, I believe he was a
+head of the Slavic Languages Department at the time, and he did his
+best to ensure fairness and promote excellence.
 
-So, when the time came, Petrișor, me and Dana were invited in a room
+So, when the time came, Petrișor, Dana and I were invited in a room
 filled with red flags and portraits and formally asked to join the
 Party. We all did what was expected of us and were officially welcomed
 into the fold without much ceremony. A week later, the next batch of
@@ -452,12 +453,12 @@ him in the eye, Ioana said plainly:
 Communist Youth Union in high school, nobody asked me if I wanted to
 join or why I wanted to join, so why are you asking me now?"
 
-Everyone's face turned red, nobody knew what to say to that and we all
-sat in silence for a few tensionate moments, until one of the older
+Everyone's face turned red, nobody knew what to say to that; we all
+sat in silence for a few tense moments, until one of the older
 professors saved the day and said something about excusing Ioana's
 nervousness, understandable under such an solemn occasion, and the
-formalities continued without any more questions. Everyone there was
-too terrified about what happened there to ever bring this up.
+formalities continued without any more questions. Everyone was too
+terrified about what happened there to ever bring this up.
 
 When we were all released, on our way home, I praised Ioana for her
 directness:
@@ -469,6 +470,9 @@ went along and didn't say anything."
 Ioana.
 
 ...
+
+
+
 
 We continued to go out together, and started planning our wedding for
 the upcoming summer. By now our families were visiting each other
