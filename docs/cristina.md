@@ -224,6 +224,19 @@ presentations we spent the rest of the day in the gardens, laying on
 the grass, and just enjoying each other's company; it was the best
 offsite I ever had!
 
+I was sharing an office with two American visiting researchers:
+Anthony and Louiqa. Anthony was working at INRIA for a few years, and
+Louiqa was just visiting from the University of Maryland for the
+summer. Louiqa was originally from Sri Lanka, and, as she later told
+me, had been given this name by her father, who had invented it just
+for her. After working together in INRIA, Louiqa included me on a
+research grant proposal and became a sort of co-advisor on my PhD
+research. I say sort of because she was not officially a member of my
+PdD committee. Regardless, she invited me to the University of
+Maryland several times after that summer and I got to meet her other
+students, among which Maria-Esther from Brazil and Vladimir from
+Russia. All due to the invitation from Dana! 
+
 During my stay I also had the opportunity to learn some of the
 subtleties of the French language, the hard way. First one: I told one
 of my INRIA colleagues that I liked her and she replied cheerfully
@@ -235,6 +248,28 @@ prochaine épouse !"[^5], and then continued in English "you're not
 planning on having many more wives, are you?". Luckily French wasn't
 her first language either, so she understood my confusion. We laughed
 about that together every time we remembered that conversation.
+
+At some point during my second summer in Paris I received an unusual
+email from Ioana's father: he was writing to me to offer to set me up
+with a Romanian medical school graduate who was continuing her studies
+in Paris! Imagine that, my ex-father-in-law felt bad for me for his
+daughter's behavior and he wanted to make it up to me, in his own
+way. I wasn't too thrilled by the idea of blind dates (never was a
+fan), but I agreed, reluctantly. Turns out her name was also Cristina
+and she actually knew my Cristina, they were enrolled in the same
+post-graduate program. She was specializing in pshychology, and I have
+to say, was a good conversationalist (it was her specialty, after
+all). We spoke at length on the phone a few times, she asked me about
+my breakup, and managed to make me open up to her quite a bit. After a
+few such conversations, we agreed to meet in person, and she picked
+the oyster restaurant Leon de Bruxelles. She was a nice girl, very
+friendly and warm, but I wasn't attracted to her, physically. This was
+a pity, because we really had connected over the phone and I could
+tell she was interested. After our meal she insisted on coming over to
+see my room at the Cite Universitaire, and once there she mentioned
+casually that the French have this expectation that if a woman lets
+a guy pay for dinner this means that she is willing to sleep with
+him. "Well, I'm not French", I said, and that settled it. 
 
 [^1]: "Oh, wow, your girlfriend is really pretty!" [^2]: "Ah, one of
 our residents is from Romania too." [^3]: La Cantatrice Chauve, by
