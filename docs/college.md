@@ -152,19 +152,19 @@ references these functions in the implementation of more complex
 procedures, and finally assembles all that into a main program which
 calls the complex procedures to achieve the desired computation. In a
 math paper one can refer to existing theorems proven by others in
-outer papers; in a computer program once can refer to existing
+other papers; in a computer program one can refer to existing
 procedures and data structures implemented by others and made
 available in programming libraries. We all stand on the shoulders of
 giants, rarely building anything truly from scratch. The difference is
-that when implementing a computer program one can see immediatelly if
+that when implementing a computer program one can see immediately if
 the program works or not, or where it fails, and can iterate on fixes
 until one is reasonably sure the program is correct. When writing a
 math article, the mathematician doesn't have this luxury. Nobody
 spells out every single step down to the axioms, and it is easy to
-skip steps that appear obviously true but are actually
-incorrect. Happes to the best of them, even to Andrew Wiles when he
-proved Fermat's Last Theorem. I find that deeply unsettling and in
-retrospect seems to have played a big role in my career choices.
+skip steps that appear obviously true but are actually incorrect.
+Happens to the best of them, even to Andrew Wiles when he proved
+Fermat's Last Theorem. I find that deeply unsettling and in retrospect
+it seems to have played a big role in my career choices.
 
 I would only fully resolve this conflict some twenty years later, but
 let’s not jump ahead.
