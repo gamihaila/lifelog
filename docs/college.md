@@ -161,10 +161,10 @@ the program works or not, or where it fails, and can iterate on fixes
 until one is reasonably sure the program is correct. When writing a
 math article, the mathematician doesn't have this luxury. Nobody
 spells out every single step down to the axioms, and it is easy to
-skip steps that appear obviously true but are actually
-incorrect. Happens to the best of them, even to Andrew Wiles when he
-proved Fermat's Last Theorem. I find that deeply unsettling and in
-retrospect it seems to have played a big role in my career choices.
+skip steps that appear obviously true but are actually incorrect.
+Happens to the best of them, even to Andrew Wiles when he proved
+Fermat's Last Theorem. I find that deeply unsettling and in retrospect
+it seems to have played a big role in my career choices.
 
 I would only fully resolve this conflict some twenty years later, but
 let’s not jump ahead.
