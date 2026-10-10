@@ -104,7 +104,7 @@ the cover, entitled “Infinite Flowchart Schemes”. It was my very first
 publication. Actually, not quite a peer-reviewed publication, a
 preprint published by the Mathematics Institute of the Romanian
 Academy of Sciences, but still. We immediately submitted it to a
-journal and a few months later it was published [^1].
+journal and a few months later it was published[^1].
 
 At the time it was incredibly motivating for me, and building into my
 fantasy of one day working as a computer scientist, and possibly
@@ -118,7 +118,7 @@ to life: I would type words and my words would literally give birth to
 whatever world I imagined.
 
 "In the beginning was the Word, and the Word was with God, and the
-Word was God"
+Word was God"[^2]
 
 It is hard to describe this feeling to anyone who hasn't ever written
 a computer program from scratch. Alone in front of the blank TV screen
@@ -136,10 +136,41 @@ more vague, more challenging. I had a clear realization that in order
 to get good at this I would have to immerse myself completely in an
 endless pit of mathematical knowledge, and I didn't have the
 confidence I could do it. I wasn't even sure I wanted to give up
-everything else to get good at this. I would only fully resolve this
-conflict some twenty years later, but let’s not jump ahead.
+everything else to get good at this.
 
+There is, of course, a bit of similarity between a Math article and a
+computer program. Let me explain what I mean: both are structured in a
+modular way, each piece becoming a building block for the next. In a
+Math article, one starts from axioms, then gives some definitions,
+proves some lemmas and propositions, and finally uses all the
+preliminary results in the proof of the main theorem. In a computer
+program one starts from the basic constructs of the programming
+language, numbers, variables, and the specific syntax and semantics of
+the language; then introduces some definitions of data structures,
+implements some helper functions for simple operations, then
+references these functions in the implementation of more complex
+procedures, and finally assembles all that into a main program which
+calls the complex procedures to achieve the desired computation. In a
+math paper one can refer to existing theorems proven by others in
+outer papers; in a computer program once can refer to existing
+procedures and data structures implemented by others and made
+available in programming libraries. We all stand on the shoulders of
+giants, rarely building anything truly from scratch. The difference is
+that when implementing a computer program one can see immediatelly if
+the program works or not, or where it fails, and can iterate on fixes
+until one is reasonably sure the program is correct. When writing a
+math article, the mathematician doesn't have this luxury. Nobody
+spells out every single step down to the axioms, and it is easy to
+skip steps that appear obviously true but are actually
+incorrect. Happes to the best of them, even to Andrew Wiles when he
+proved Fermat's Last Theorem. I find that deeply unsettling and in
+retrospect seems to have played a big role in my career choices.
+
+I would only fully resolve this conflict some twenty years later, but
+let’s not jump ahead.
 
 
 [^1]: Virgil E. Cazanescu, George A. Mihaila. Partial flowchart
 schemes, In Studii si Cercetari Matematice, 43, 1-2, pp.11-23, 1991
+
+[^2]: John 1:1.
