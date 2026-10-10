@@ -68,7 +68,86 @@ We enjoyed our stay in Milpitas, especially the inexpensive and
 delicious Asian food there, but pretty soon we realized that the
 schools were not that great, despite being reasonably well rated on
 greatschools.org. The stress caused by moving the kids to a worse
-school was weighing on me pretty heavily. Grațiela and I decided we
+school was weighing on me pretty heavily. One day, out of the blue,
+after dropping off Maria to her ballet class with Grațiela, as we
+walked out on the sidewalk, I felt an excruciating pain in the back of
+my neck. It was so bad, I crouched down in shock. It felt as if
+someone stabbed me, a sharp, intense pain, unlike anything I ever
+experienced before. Luckily it went away after a few minutes so I was
+able to get up and walk home, but in the subsequent days it started to
+show up everytime I would bend my head forwards, for example while
+brushing my teeth. Naturally I went to see a doctor and she said it's
+probably a minor herniated disk and recommended bed rest. I took two
+weeks medical leave from work and lied in bed most of the time. At its
+worst, it kept me up at night, but I learned how to lay on my right
+side with my left arm lifted above my head to reduce the pressure. I
+was very lucky that at Maria's school we befriended one of her
+schoolmate's mother named Tenny, a medical doctor originally from
+Vietnam. She prescribed me a low dose of cortisol orally and taught me
+how to taper it off. Also, she cooked the most delicious Vietnemese
+spring rolls and brought them to me with a homemade peanut sauce,
+explaining how this was a low inflamatory meal. Between the cortisol
+and the spring rolls, I got better, well enough to go back to work. At
+work I signed up for physical therapy on-site: Google has a state of
+the art wellness center and the therapists are first class. I also
+went to get an MRI at Stanford and made an appointment with a Romanian
+doctor there, a family connection, in a few weeks time (he was fully
+booked).
+
+As I was waiting for my appointment, we found out at church about a
+visiting monk from Greece that was coming to San Francisco with a
+cross that many people claimed had healing powers. People would go and
+wait in long lines for him, and he would place the cross over their
+body and pray for their health. As a man of science I could not
+believe in miracles, but Grațiela insisted and I didn't want to argue
+with her. Since I met her I attended church services every Sunday with
+her and our daughters and also read C.S. Lewis's books on Christianity
+which appealed to my logical mind, so I couldn't rule out divine
+intervention. Besides, what did I have to lose? So I decided to go
+wait in line for this Greek monk. When my turn came, I realized he
+didn't speak any English so I couldn't tell him what hurt. Regardless,
+he proceeded to rub his cross over my back and then something
+unexplainable happened: when he reached the back of my neck, he
+stopped and it felt like the cross wouldn't slide, as if it got
+stuck. Grațiela, who was right behind me in line later told me she saw
+the cross stick to my neck without falling. He kept it there for what
+felt like a full minute, all the while praying in Greek. I didn't
+think much about it at the time, and there was no sudden change in my
+condition. However, over the next few days, whatever was left of my
+pain subsided completely. Finally, the time came for my Stanford
+appointment with Dr. Mindea, a renowned specialist. He received me in
+his office, together with a colleague, and asked to see my MRI. They
+both looked at it and agreed that they could clearly see the herniate
+disk. His colleague recommended surgery based on this. Dr. Mindea
+agreed with his diagnosis, but first wanted to hear from me how bad my
+pain was. According to the imagery, I should have been in serious
+pain, he said.
+
+"You know, doctor, I really was in terrible pain but
+now I'm not. In fact, I haven't have any pain for weeks.", I said.
+
+"In this case, I would advise against surgery. You would never be the
+same if we cut any part of your vertebrae. If it doesnt' hurt, leave
+it alone. Come back if that changes.", Dr. Mindea said.
+
+"But doctor, look at his MRI, this is really bad", the other doctor
+said.
+
+"Yes, I can see that, but since nothing hurts now, let's leave it
+alone", he said.
+
+I'm not going to say here what made me well. I don't know. I had
+cortisol treatment, which helped a lot. I had weeks of physical
+therapy and exercises with rubber bands which strenghtened by
+muscles. I even had a neck stretching device from the wellness center
+that looked like a torture implement but did relieve the pain. I'm
+just relating what happened and let you draw your own conclusions. All
+I know is that I'm healthy now and have never had that pain come back
+again. 
+
+...
+
+After a few months of living in Milpitas Grațiela and I decided we
 needed to move to a better school district for our kids. So we went
 back online to look for houses to rent. Eventually we found a three
 bedroom townhouse at the Southern edge of Palo Alto for under $4,000 a
