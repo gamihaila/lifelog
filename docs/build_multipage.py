@@ -11,6 +11,7 @@ Usage:
     python3 build_multipage.py outdir/      # writes into ./outdir/
 """
 
+import datetime
 import html
 import os
 import sys
@@ -259,7 +260,8 @@ def build(contents_path="contents.yaml", out_dir="html"):
     cover_author = meta.get("cover_author", "")
     publication_date = meta.get("publication_date", "")
     copyright_holder = meta.get("copyright", "") or author
-    revision_date = meta.get("revision_date", "")
+    # the revision date is the build date, not a yaml entry
+    revision_date = datetime.date.today().strftime("%B %d, %Y")
     dedication = meta.get("dedication", "")
 
     os.makedirs(out_dir, exist_ok=True)

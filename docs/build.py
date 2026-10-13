@@ -9,6 +9,7 @@ Usage:
     python3 build.py            # reads ./contents.yaml, writes ./index.html
 """
 
+import datetime
 import html
 import re
 import markdown
@@ -67,7 +68,9 @@ def build(contents_path='contents.yaml', out_path='index.html'):
     cover_author = meta.get('cover_author', '')
     publication_date = meta.get('publication_date', '')
     copyright_holder = meta.get('copyright', '') or author
-    revision_date = meta.get('revision_date', '')
+    # the revision date is the build date, not a yaml entry:
+    # the HTML always shows when it was rendered
+    revision_date = datetime.date.today().strftime('%B %d, %Y')
     dedication = meta.get('dedication', '')
 
     # Reuse a single Markdown instance and reset() per chapter with UNIQUE_IDS
