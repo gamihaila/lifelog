@@ -271,9 +271,15 @@ casually that the French have this expectation that if a woman lets
 a guy pay for dinner this means that she is willing to sleep with
 him. "Well, I'm not French", I said, and that settled it. 
 
-[^1]: "Oh, wow, your girlfriend is really pretty!" [^2]: "Ah, one of
-our residents is from Romania too." [^3]: La Cantatrice Chauve, by
-Eugene Ionesco, playing at the Théâtre de la Huchette since 1957.
-[^4]: About Time, 2013 [^5]: "Oh, but I like you too, George!"
-("like", not "love"). "I'm looking for my next wife". "You mean to
-say: I'm looking for my future wife, not my next wife!"
+[^1]: "Oh, wow, your girlfriend is really pretty!"
+
+[^2]: "Ah, one of our residents is from Romania too."
+
+[^3]: La Cantatrice Chauve, by Eugene Ionesco, playing at the
+Théâtre de la Huchette since 1957.
+
+[^4]: About Time, 2013
+
+[^5]: "Oh, but I like you too, George!" ("like", not "love").
+"I'm looking for my next wife". "You mean to say: I'm looking
+for my future wife, not my next wife!"
