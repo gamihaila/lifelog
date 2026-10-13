@@ -381,5 +381,6 @@ results. Soon after Lara called again, it had been a false alarm. Lara
 and I sighed a breath of relief, we were not exactly ready for the
 responsibility, but my mom was actually disappointed.
 
-[^1]: The Clouds, by Aristophanes [^2]: The Eternal Sunshine of the
-Spotless Mind, 2004
+[^1]: The Clouds, by Aristophanes
+
+[^2]: The Eternal Sunshine of the Spotless Mind, 2004
