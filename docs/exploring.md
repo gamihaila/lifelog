@@ -26,7 +26,7 @@ one way to find out, I told myself.
 So, one fine day, I called her and asked her if it would be okay if I
 paid her a visit at home. I think she knew what that was about and
 said “Sure”. I hopped on the subway for Eglinton Avenue, and stopped
-on the way to buy a large bucket of flowers. I was nervous, but
+on the way to buy a large bouquet of flowers. I was nervous, but
 determined. I didn’t want to prolong the uncertainty any longer, and I
 thought (correctly) that I had nothing to lose by asking.
 
