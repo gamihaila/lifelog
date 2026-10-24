@@ -381,6 +381,29 @@ results. Soon after Lara called again, it had been a false alarm. Lara
 and I sighed a breath of relief, we were not exactly ready for the
 responsibility, but my mom was actually disappointed.
 
+Back in Toronto, there came the time when I became eligible to apply
+for Canadian citizenzhip. The only condition was to have spent five
+years in Canada as a permanent resident, so this must have been
+1998. One also had to pass a Canadian history and citizenship test,
+and there was a published list of questions one needed to study
+for. This is how I familiarized myself with the history of the fur
+traders that had established commerce with the First Nations peoples,
+and founded the Hudson's Bay Company in 1670. You need to understand
+that for me, growing up behind the Iron Curtain, with no hope of ever
+escaping, it was an incredible opportunity: just imagine, to be able
+to be naturalized as a Canadian citizen, with the same rights as
+people born there! So of course I studied for that test as best I
+could, not only because I didn't want to fail, but out of genuine
+respect and gratitude for my adoptive country. I don't remember now
+what score I got, it's not important, but I did pass, and in a few
+weeks I had my citizenship ceremony, reading the oath, singing the
+national anthem, and finally receiving my citizenship card. I was now
+a dual citizen, as Canada doesn't require naturalized citizens to
+renounce their birth citizenship. I remember going home that day and
+taking Lara to a restaurant to celebrate. It was one of the happiest
+days in my life.
+
+
 [^1]: The Clouds, by Aristophanes
 
 [^2]: The Eternal Sunshine of the Spotless Mind, 2004
