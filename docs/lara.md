@@ -382,7 +382,7 @@ and I sighed a breath of relief, we were not exactly ready for the
 responsibility, but my mom was actually disappointed.
 
 Back in Toronto, there came the time when I became eligible to apply
-for Canadian citizenzhip. The only condition was to have spent five
+for Canadian citizenship. The only condition was to have spent five
 years in Canada as a permanent resident, so this must have been
 1998. One also had to pass a Canadian history and citizenship test,
 and there was a published list of questions one needed to study
