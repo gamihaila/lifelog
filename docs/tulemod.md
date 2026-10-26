@@ -1,24 +1,24 @@
-
 Sometime around this time Grațiela and I met with Dana, who was now
 living in Palo Alto, just a few streets away from us, in fact. We went
 together for dinner at a Japanese restaurant, at Dana's suggestion. At
 that dinner, I was telling Dana how much fun I was having at Google
 implementing high performance systems at scale. Everything was going
 great professionally. The only slight problem was that three years
-after we sold our house in Yorktown Heights at a loss, we were still renting,
-and we couldn't see how we could ever buy another house at the rate
-Bay Area real estate prices were going. Grațiela told Dana how her mom
-was constantly on my case about how we gave up that five-bedroom house
-in Yorktown Heights, New York and we were now all sharing a
-three-bedroom rental unit in Palo Alto, and lost over one hundred
-thousand dollars in the process. Hearing this, Dana offered a way out:
+after we sold our house in Yorktown Heights at a loss, we were still
+renting, and we couldn't see how we could ever buy another house at
+the rate Bay Area real estate prices were going. Grațiela told Dana
+how her mom was constantly on my case about how we gave up that
+five-bedroom house in Yorktown Heights, New York and we were now all
+sharing a three-bedroom rental unit in Palo Alto, and lost over one
+hundred thousand dollars in the process. Hearing this, Dana offered a
+way out:
 
 "Listen, Grațiela, I've just founded a technology start-up in the
-online fashion retail space, and I'm looking for a founding
-engineer. I think George would be great for this role, if he's
-interested. Of course, he would need to eventually leave Google for
-this, but we could work out some arrangement where he could initially
-work part-time alongside his job."
+online fashion retail space, and I'm looking for a founding engineer.
+I think George would be great for this role, if he's interested. Of
+course, he would need to eventually leave Google for this, but we
+could work out some arrangement where he could initially work
+part-time alongside his job."
 
 Now, you need to understand that although I had a very stable position
 at Google, working on genuinely exciting projects, I had worked at the
@@ -37,8 +37,8 @@ a garment would look and feel on that person. They were going to use
 this technology in a high-end e-commerce platform that would enable
 consumers to virtually "try-on" garments from home.
 
-"This sounds nice, but what's the business idea, who would pay for all this
-technology?", I asked Dana.
+"This sounds nice, but what's the business idea, who would pay for all
+this technology?", I asked Dana.
 
 "No, you don't understand, George", she said, "That's just eye-candy,
 to get the consumers to interact with the website. The real value is
@@ -59,9 +59,9 @@ reconstruction technology? Who's working on that?", I asked.
 "Oh, that's me", intervened Bogdan, "By the way, George, I think we
 used to be related: I'm Ioana's cousin from Cluj"
 
-"Oh, that's why you seemed familiar", I remembered suddenly, "We
-came to your home after we got married, around 1990, you have a
-younger sister, right?"
+"Oh, that's why you seemed familiar", I remembered suddenly, "We came
+to your home after we got married, around 1990, you have a younger
+sister, right?"
 
 "That's right!", said Bogdan.
 
@@ -107,15 +107,15 @@ collaboration, in the current stage, while I'm still at Google", I
 said.
 
 "Well, I was thinking of a part-time contract of ten billable hours a
-week. Some weeks it may be more, some other weeks it would be less,
-it would be built around your schedule", said Dana. "We would pay you
-a fixed $10K/month for this"
+week. Some weeks it may be more, some other weeks it would be less, it
+would be built around your schedule", said Dana. "We would pay you a
+fixed $10K/month for this"
 
 I wasn't comfortable with that: who knows what Dana thinks could be
-done in ten hours, what if it would take me twenty or thirty, and it would
-still not be done to Dana's satisfaction? And what if there will be
-tight deadlines for investor presentations? How would I squeeze that
-extra time around my full-time job at Google?
+done in ten hours, what if it would take me twenty or thirty, and it
+would still not be done to Dana's satisfaction? And what if there will
+be tight deadlines for investor presentations? How would I squeeze
+that extra time around my full-time job at Google?
 
 "Dana, thank you for the offer, but I'm afraid I'm not ready to make
 this kind of commitment. Sorry, but I will have to pass.", I said.
@@ -123,6 +123,6 @@ this kind of commitment. Sorry, but I will have to pass.", I said.
 "All right, no hard feelings", said Dana, and that was that. I never
 looked back on that decision. We remained friends, of course, and I
 was relieved that we could keep our friendship free of business
-relationships. 
+relationships.
 
 I gave the new MacBook Air to Maria for her birthday.
