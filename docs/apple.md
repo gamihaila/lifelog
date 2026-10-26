@@ -39,7 +39,7 @@ part because of Roxana.
 I joined Apple Maps in the spring of 2019. I started getting used to
 the team and the codebase, and gradually getting involved in the
 planning process. My manager also asked me to have informal
-discussions with some engineers from another team and qpick two I
+discussions with some engineers from another team and pick two I
 would like to be transferred to our team. After six months, it was
 time to officially announce my new management role. My manager had
 brief one-on-ones with all the engineers in my new team asking them if
