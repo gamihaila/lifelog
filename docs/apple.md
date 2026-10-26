@@ -46,7 +46,7 @@ brief one-on-ones with all the engineers in my new team asking them if
 they had any concerns, and then it was official! Exciting and scary at
 the same time: we were just about to deploy a new system to
 production. I shared my feelings with my manager, and he understood me
-completely: "George, just give this management thing a try this for a
+completely: "George, just give this management thing a try for a
 couple of years, see how you like it! I know it's not an easy
 transition."
 
