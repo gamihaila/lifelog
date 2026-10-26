@@ -1,19 +1,19 @@
 
 Sometime around this time Grațiela and I met with Dana, who was now
 living in Palo Alto, just a few streets away from us, in fact. We went
-togheter for dinner at a Japanese restaurant, at Dana's suggestion. At
+together for dinner at a Japanese restaurant, at Dana's suggestion. At
 that dinner, I was telling Dana how much fun I was having at Google
 implementing high performance systems at scale. Everything was going
 great professionally. The only slight problem was that three years
-after we sold our house in Yorktown at a loss, we were still renting,
+after we sold our house in Yorktown Heights at a loss, we were still renting,
 and we couldn't see how we could ever buy another house at the rate
 Bay Area real estate prices were going. Grațiela told Dana how her mom
-was constantly on my case about how we gave up that five bedroom house
+was constantly on my case about how we gave up that five-bedroom house
 in Yorktown Heights, New York and we were now all sharing a
 three-bedroom rental unit in Palo Alto, and lost over one hundred
 thousand dollars in the process. Hearing this, Dana offered a way out:
 
-"Listen, Grațiela I've just founded a technology start-up in the
+"Listen, Grațiela, I've just founded a technology start-up in the
 online fashion retail space, and I'm looking for a founding
 engineer. I think George would be great for this role, if he's
 interested. Of course, he would need to eventually leave Google for
@@ -22,9 +22,9 @@ work part-time alongside his job."
 
 Now, you need to understand that although I had a very stable position
 at Google, working on genuinely exciting projects, I had worked at the
-exact same enginnering level I was hired at for the past five years,
+exact same engineering level I was hired at for the past five years,
 with no promotion in sight. But, since this was Dana and she already
-had a successfull startup before this, I felt compelled to give this
+had a successful startup before this, I felt compelled to give this
 idea a chance.
 
 So, one Saturday afternoon I went to Dana's place for a meeting with
@@ -44,12 +44,12 @@ technology?", I asked Dana.
 to get the consumers to interact with the website. The real value is
 in on-demand manufacturing, reducing the industrial waste generated
 today by manufacturing all these garments for all possible sizes, a
-large percentage of which end up in land-fill today."
+large percentage of which end up in landfill today."
 
 "Okay, I see, but where do I fit in? I know nothing about fashion", I
 said.
 
-"Well, We need someone like you to architect the backend which will
+"Well, we need someone like you to architect the backend which will
 collect the website analytics from logs, that we could then sell to
 advertisers", clarified Dana.
 
@@ -59,7 +59,7 @@ reconstruction technology? Who's working on that?", I asked.
 "Oh, that's me", intervened Bogdan, "By the way, George, I think we
 used to be related: I'm Ioana's cousin from Cluj"
 
-"Oh, that's why you seemed familiar", I remembered suddently, "We
+"Oh, that's why you seemed familiar", I remembered suddenly, "We
 came to your home after we got married, around 1990, you have a
 younger sister, right?"
 
@@ -82,20 +82,20 @@ I was excited about this new challenge. I even went to the Apple Store
 the next morning and bought a new MacBook Air with my own money for
 this. I figured I should not use the Google-issued MacBook Pro for a
 side job, it was specifically spelled out in my employment contract, I
-remebered very well. I needed a personal computer anyway, I was
+remembered very well. I needed a personal computer anyway, I was
 telling myself to justify the impulse buy.
 
 That weekend I had to drive Maria to a colorguard competition in
 Livermore, and I brought my new MacBook Air with me. I stayed in my
 Nissan Leaf in the Livermore community college parking lot the whole
-afternoon: I logged into the AWS acccount and did some initial
+afternoon: I logged into the AWS account and did some initial
 investigation while waiting for my daughter to be done with her
 competition. There wasn't much content there, but I did manage to get
 some idea about what that project would take.
 
 The next Saturday afternoon I went to Dana's place again to discuss
 the conditions. Going in, I was already having an uneasy feeling,
-thinking how a potential business engagament would alter our
+thinking how a potential business engagement would alter our
 friendship irrevocably. But I wanted to give this opportunity a fair
 chance, and didn't want to be ungrateful to Dana for offering me this
 position.
@@ -120,7 +120,7 @@ extra time around my full-time job at Google?
 "Dana, thank you for the offer, but I'm afraid I'm not ready to make
 this kind of commitment. Sorry, but I will have to pass.", I said.
 
-"Allright, no hard feelings", said Dana, and that was that. I never
+"All right, no hard feelings", said Dana, and that was that. I never
 looked back on that decision. We remained friends, of course, and I
 was relieved that we could keep our friendship free of business
 relationships. 
