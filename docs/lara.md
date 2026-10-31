@@ -61,11 +61,15 @@ Nevertheless, we did watch the game together, and I was happy to be
 next to her, even if I didn't care for hockey. After the game, I
 wanted to take her hand, but she said no, and I didn't insist.
 
+I 
+
+
+
 A month later, on Canadian Thanksgiving, an Italian girl I met during
-the same orientation party invited me to go with her and some other
-friends to a Thanksgiving dinner at a Catholic church. I wasn't a
-churchgoer at the time so I was reluctant to go but she insisted and
-the meal was just $5 so I decided to go.
+the International Student Center orientation party invited me to go
+with her and some other friends to a Thanksgiving dinner at a Catholic
+church. I wasn't a churchgoer at the time so I was reluctant to go but
+she insisted and the meal was just $5 so I decided to go.
 
 At that meal I saw someone at the other end of the large dinner hall
 who looked familiar. Thinking it was Jenny I waved to her and she

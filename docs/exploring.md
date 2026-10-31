@@ -7,6 +7,71 @@ opposite of her carefree attitude that I loved so much in her.
 I, on the other hand, was determined to not end up alone and I was
 running out of time.
 
+One day, while sorting the junk mail I was constantly getting, in
+between credit card offers and Columbia House CD subscription ads, I
+saw a colorful card adverstising a matchmaking service "for busy
+professionals". The initial consultation was free, so I thought "why
+not, what do I have to lose?". I called the number on the card and
+made an appointment. On the aggreed day I got on the subway and went
+to the furthest station North, somewhere close to Markham, I
+believe. The agency was located in an elegant, expensive looking
+office building. I checked in with their receptionist and, after a few
+minutes, an elegant woman invited me into her office for our
+meeting. Once there, she took a large piece of paper and started
+drawing:
+
+"See this dot? You are here", she said, "and here is where you shop,
+go to the gym, go to school, walk around", she continued, while
+drawing a circle around my dot.
+
+I was familiar with this sales tactic from Romania, where in the
+immediate chaos after the Revolution, there were many multi-level
+marketing and direct sales agencies sprouting from thin air. Ioana and
+I had our share of close friends visiting us and at some point pulling
+out sheets of paper and trying to convince Ioana to become an Avon
+salesperson, or "get in" to a highly confidential and exclusive
+investment opportunity which allegedly included some celebrity or
+another (claims impossible to verify given the confidential nature of
+the whole enterprise). All of them were skilled in drawing convincing
+diagrams on paper, and talking while drawing. We were rolling our eyes
+and begging them to stop, for our friendship's sake, to no avail.
+
+"All the women you could possibly meet on your own are in this small
+circle", the matchmaker agent continued. "What if your soulmate is
+somewhere else entirely?", she said, while placing a dot well outside
+my circle. "What we offer, is a much larger pool of potential
+partners, each of them available and just as motivated as you". She
+then proceeded to describe how they were building detailed profiles or
+all their members and were using a proprietary matchmaking algorithm
+to recommend suitable candidates. All for the reasonable fee of five
+thousand dollars. 
+
+"OK, I understand", I said, "but how do I know that the women you're
+matching me with are not your employees posing as available singles?
+They would be going on a few dates with me and then disappear", I
+asked, deeply doubtful of their whole enterprise.
+
+"You can go check our record on Better Business Bureau, and see for
+yourself"
+
+"Thank you for your time, I'll think about it", I said.
+
+"OK, I have an offer for you: if you join today, it would be
+half-price, but only if you sign up now" she said.
+
+"Thank you, but I'd rather think about it on my own", I declined.
+
+I got up and headed to the door. On the way, the agent said something
+like: "You will see, you won't find anybody and you'll end up alone"
+
+"You don't know that. And with this attitude you'll never get anybody
+to sign up for your service.", I said, and closed the door.
+
+I was deeply offended by her words. Who did she think she was to make
+assumptions about my ability to find a partner? I was now more
+determined than ever to find the love of my life, no matter how long
+it takes, and how many rejections I have to face along the way.
+
 I thought of Jenny. Let me remind you that the only reason I
 approached Lara was because I had mistaken her for Jenny, from a
 distance (it was then when I realized I should see an optometrist).
