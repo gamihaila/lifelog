@@ -9,10 +9,10 @@ running out of time.
 
 One day, while sorting the junk mail I was constantly getting, in
 between credit card offers and Columbia House CD subscription ads, I
-saw a colorful card adverstising a matchmaking service "for busy
+saw a colorful card advertising a matchmaking service "for busy
 professionals". The initial consultation was free, so I thought "why
 not, what do I have to lose?". I called the number on the card and
-made an appointment. On the aggreed day I got on the subway and went
+made an appointment. On the agreed day I got on the subway and went
 to the furthest station North, somewhere close to Markham, I
 believe. The agency was located in an elegant, expensive looking
 office building. I checked in with their receptionist and, after a few
@@ -41,7 +41,7 @@ circle", the matchmaker agent continued. "What if your soulmate is
 somewhere else entirely?", she said, while placing a dot well outside
 my circle. "What we offer, is a much larger pool of potential
 partners, each of them available and just as motivated as you". She
-then proceeded to describe how they were building detailed profiles or
+then proceeded to describe how they were building detailed profiles of
 all their members and were using a proprietary matchmaking algorithm
 to recommend suitable candidates. All for the reasonable fee of five
 thousand dollars. 
