@@ -7,43 +7,43 @@ None of what we had hoped for happened. What happened instead was that
 the old apparatus simply rearranged itself. The people in charge had
 different titles now, but they were largely the same people, and the
 state media they controlled made sure that any alternative was
-discredited before it could take root.  It became clear that the
-trajectory was not going to change, not soon enough to matter for
-us. We had good jobs by Romanian standards and a paid off
-apartment. However, our salaries were modest and the apartment it was
-clearly too small to raise a family. We needed to look for something
-larger.
+discredited before it could take root. It became clear that the
+trajectory was not going to change, not soon enough to matter for us.
+We had good jobs by Romanian standards and a paid off apartment.
+However, our salaries were modest and the apartment was clearly too
+small to raise a family. We needed to look for something larger.
 
 During the socialist regime, the vast majority of apartments were
-state-owned and families were renting directly from the state.  In the
+state-owned and families were renting directly from the state. In the
 immediate years after the Revolution, the new state started giving
 renters an option to buy the apartments they were living in at nominal
-prices. Our parents had taking advantage of this opportunity and were
+prices. Our parents had taken advantage of this opportunity and were
 now on the way to owning their places. A black market immediately
-emerged: the state-owned apartement swap exchange. Let me explain: you
+emerged: the state-owned apartment swap exchange. Let me explain: you
 see, now that these apartments could be bought for cheap from the
 state, they immediately became a hot commodity. Lower income people
 living in large, desirable apartments, were interested in swapping
 them with smaller places, for an under-the-table payment roughly equal
 to the difference in market value between the apartments. Apartment
-swapping was legal as long as both parties aggreed. Hearing about
-this, Ioana and I started looking for available units in nicer
-areas. We eventually found a nice three-bedroom apartment and we went
-to a public notary to draw the contract. We were going to offer our
-flat in exchange (and some extra money on top, off the records). The
-notary flat out refused to draw the contract: "You can't swap a
+swapping was legal as long as both parties agreed. Hearing about this,
+Ioana and I started looking for available units in nicer areas. We
+eventually found a nice three-bedroom apartment and we went to a
+public notary to draw the contract. We were going to offer our flat in
+exchange (and some extra money on top, off the records). The notary
+flat out refused to draw the contract: "You can't swap a
 privately-owned apartment for a state-owned apartment, it's a
 nonsensical transaction."
 
 "But both parties agree", we tried to counter.
 
-"It doesn't matter. There is no legal basis for something like
-this.", the notary clarified, knowing full well what was going on in
-that black market. "You can only swap state-owned apartments."
+"It doesn't matter. There is no legal basis for something like this.",
+the notary clarified, knowing full well what was going on in that
+black market. "You can only swap state-owned apartments."
 
 All the roads for upgrading our living space were closing out right
 before our eyes. We certainly didn't have the money to buy an
-apartment at market prices, and not enough income to qualify for a mortgage.
+apartment at market prices, and not enough income to qualify for a
+mortgage.
 
 We started looking for ways to emigrate. We didn’t know where exactly
 at this point.
