@@ -10,7 +10,7 @@ state media they controlled made sure that any alternative was
 discredited before it could take root.  It became clear that the
 trajectory was not going to change, not soon enough to matter for
 us. We had good jobs by Romanian standards and a paid off
-apartment. However, our salaries were modest and the apartment it was
+apartment. However, our salaries were modest and the apartment was
 clearly too small to raise a family. We needed to look for something
 larger.
 
@@ -18,15 +18,15 @@ During the socialist regime, the vast majority of apartments were
 state-owned and families were renting directly from the state.  In the
 immediate years after the Revolution, the new state started giving
 renters an option to buy the apartments they were living in at nominal
-prices. Our parents had taking advantage of this opportunity and were
+prices. Our parents had taken advantage of this opportunity and were
 now on the way to owning their places. A black market immediately
-emerged: the state-owned apartement swap exchange. Let me explain: you
+emerged: the state-owned apartment swap exchange. Let me explain: you
 see, now that these apartments could be bought for cheap from the
 state, they immediately became a hot commodity. Lower income people
 living in large, desirable apartments, were interested in swapping
 them with smaller places, for an under-the-table payment roughly equal
 to the difference in market value between the apartments. Apartment
-swapping was legal as long as both parties aggreed. Hearing about
+swapping was legal as long as both parties agreed. Hearing about
 this, Ioana and I started looking for available units in nicer
 areas. We eventually found a nice three-bedroom apartment and we went
 to a public notary to draw the contract. We were going to offer our
