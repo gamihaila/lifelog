@@ -32,8 +32,7 @@ exposing this through an SQL-like syntax. As I was just taking a
 graduate course on Compilers at the time, I set out to define a
 grammar for the new language and implement a compiler and an execution
 engine for the generated code. We named the new language WebSQL and
-published a few papers on it. That became the main focus of my Masters
-thesis.
+published a few papers on it. That became the main focus of my Master's thesis.
 
 Meanwhile, Ioana was working with prof. Allan Borodin on a Simulated
 Annealing algorithm for graph coloring, distantly related to Ramsey
