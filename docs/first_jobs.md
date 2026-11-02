@@ -91,13 +91,14 @@ written exam covering the entire four-year Computer Science
 curriculum. So I set to work reviewing all my lecture notes and the
 textbooks while I was at my day job at the Institute, thinking nothing
 of it, since I didn't have any other job responsibilities anyways. I
-was studying Computer Science, wasn't I? Wasn't this what the Institute
-was devoted to? Right. So, I did go to take that written exam and got
-the job. For a few more weeks I still kept my job at the Institute, but
-I eventually left, not because I couldn't have both jobs at the same
-time, but out of intense boredom. Dana left around the same time too:
-she had applied for graduate school in France, and had obtained a
-scholarship at the famous École Normale Supérieure in Paris.
+was studying Computer Science, wasn't I? Wasn't this what the
+Institute was devoted to? Right. So, I did go to take that written
+exam and got the job. For a few more weeks I still kept my job at the
+Institute, but I eventually left, not because I couldn't have both
+jobs at the same time, but out of intense boredom. Dana left around
+the same time too: she had applied for graduate school in France, and
+had obtained a scholarship at the famous École Normale Supérieure in
+Paris.
 
 At the university I was assigned as an assistant to prof. Căzănescu,
 teaching the recitation sessions. It was a lot of fun, helping the
