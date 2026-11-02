@@ -43,7 +43,7 @@ before and nobody was really interested. It was quite a letdown after
 all the hard classes and the undergraduate research I did. I kept busy
 implementing side projects for fun on the work PC, and getting used to
 the newest peripheral, the mouse, of course in text mode, but still a
-great improvement over arrow keys. The job was thoroughly unispiring
+great improvement over arrow keys. The job was thoroughly uninspiring
 and I started looking for other opportunities that could be more
 exciting.
 
@@ -66,15 +66,15 @@ once I passed the security checkpoint, I walked into the Television
 main tower and took the elevator to my interview room. I remember
 sharing that elevator ride with a couple of famous comedy actors,
 awestruck by their unassuming demeanor. I finally got into the
-interview room: siting accross from me, behind a huge desk, there was
-the Tele-school program director, who started laying our the job
+interview room: sitting across from me, behind a huge desk, there was
+the Tele-school program director, who started laying out the job
 benefits (some paltry salary bonus for television workers), as well as
 the specifics of the job: making sure to plan your lesson content well
 in advance, book the studio on time (competing with the other shows),
-record the lesson, tape wathever re-takes were needed, and make sure
+record the lesson, tape whatever re-takes were needed, and make sure
 to submit the final tape at least a week before airing time. I felt an
 intense stress just listening to him talk. We talked a bit about my
-credentials and experince, then I thanked him for his time, and told
+credentials and experience, then I thanked him for his time, and told
 him this was not for me. I walked out, seeing some more actors in the
 hallway, but never looked back: as fun as it may be to rub elbows with
 celebrities, it wasn't worth the constant stress.
@@ -91,13 +91,14 @@ written exam covering the entire four-year Computer Science
 curriculum. So I set to work reviewing all my lecture notes and the
 textbooks while I was at my day job at the Institute, thinking nothing
 of it, since I didn't have any other job responsibilities anyways. I
-was studying Computer Science, wasn't I? Wasn't this what the Institue
-was devoted to? Right. So, I did go to take that written exam and got
-the job. For a few more weeks I still kept my job at the Insitute, but
-I eventually left, not because I couldn't have both jobs at the same
-time, but out of intense boredom. Dana left around the same time too:
-she had applied for graduate school in France, and had obtained a
-scholarship at the famous École Normale Supérieure in Paris.
+was studying Computer Science, wasn't I? Wasn't this what the
+Institute was devoted to? Right. So, I did go to take that written
+exam and got the job. For a few more weeks I still kept my job at the
+Institute, but I eventually left, not because I couldn't have both
+jobs at the same time, but out of intense boredom. Dana left around
+the same time too: she had applied for graduate school in France, and
+had obtained a scholarship at the famous École Normale Supérieure in
+Paris.
 
 At the university I was assigned as an assistant to prof. Căzănescu,
 teaching the recitation sessions. It was a lot of fun, helping the
@@ -126,7 +127,7 @@ love to have you visit our lab. Here is our address and phone number.
 When would it be a good time?"
 
 "We have our final exams next week but we can come the week after", we
-all aggreed.
+all agreed.
 
 So, on the appointed day, the three of us went together to the address
 on the card and met with her brother, the founder, and the handful of
@@ -147,12 +148,12 @@ increasing every month for the first year, provided that we had a
 satisfactory performance.
 
 This was not that unusual in those early years of free market
-capitalism after ther revolution, where the many start-up firms that
+capitalism after the revolution, where the many start-up firms that
 had sprung up were competing for the relatively few engineers on the
 market. Of course, it was all very hush-hush, we were just paid in
 cash with no paper trail, and we were not supposed to talk about it.
 At first, I thought that was quite sketchy and I was afraid that the
-shadow payments will dry out eventually, but they kept coming, month
+shadow payments will dry up eventually, but they kept coming, month
 after month, each month more than the previous one. They weren't large
 amounts, in absolute terms, on the order of a hundred dollars a month,
 but they were more dollars that I had ever seen in my life, and the
@@ -188,7 +189,7 @@ was an occasional connection through a modem and a leased telephone
 line, I heard, but that wasn’t part of my day-to-day work.
 
 I was working two jobs at this point: full time software engineer at
-Omins Group and part-time teaching assistant at the University. I was
+Omnis Group and part-time teaching assistant at the University. I was
 also supposedly continuing my collaboration with prof. Căzănescu, with
 the understanding that I would eventually work towards a doctoral
 dissertation under his supervision. In fact, he once bumped into my
@@ -217,9 +218,9 @@ grew. Some of my former colleagues from the Informatics Research
 Institute were poached too, including a girl from my former database
 research group. Her name was Elena, but everyone called her by the
 diminutive Lenuș. She was assigned to pair program with me in C++, and
-that made the job more enjoyable. At some point, out Belgian
+that made the job more enjoyable. At some point, our Belgian
 colleagues visited and delivered a code review after four months of
-our development. I remember not being happy with thir critique of our
+our development. I remember not being happy with their critique of our
 design, but thinking back now, they were probably right, it's just
 that we would have benefited from getting it earlier so we could align
 to the expected style.
@@ -231,7 +232,7 @@ next day I had a high fever and persistent cough. It was much worse
 than any cold I had before, so I went to see a doctor (Ioana's dad
 drove me to the clinic and waited for me). Turns out I had pneumonia,
 so I got admitted to the hospital. I was placed in a room with another
-pneumonia patient, an older man who couldn't stop caughing and
+pneumonia patient, an older man who couldn't stop coughing and
 wheezing, in much worse condition than me. After a couple of days I
 wasn't getting any better, the antibiotics I was treated with
 intravenously not doing anything except giving me an intense itching.
@@ -263,7 +264,7 @@ research work.
 I was wrong! My in-laws started to ask me to run errands for them the
 moment I was out from my full-time job: I apparently had too much time
 on my hands. Also, the savings from my high paying gig eventually
-drained up and we could no longer afford the nice life we had just
+dried up and we could no longer afford the nice life we had just
 started getting used to, on Ioana's teacher salary and my TA stipend.
 I remember clearly one time I was walking with Ioana on our way to
 home, and we passed by a nice pastry shop with tables outside and we
@@ -271,7 +272,7 @@ wanted to stop by and have a treat. At the last moment, though, I
 realized I didn't have enough cash with me, and also probably not
 enough at home either. This was way before credit cards became
 available in Romania and also before ATMs, so no cash meant no
-pastries for us. It was thoroughly embarassing for me, I'd never been
+pastries for us. It was thoroughly embarrassing for me, I'd never been
 penniless since high school, especially after starting working. Come
 to think of it, back then, around 1992, we were still living in a
 cash-only economy in Romania. Hard to imagine, I know, but we didn't
@@ -315,7 +316,7 @@ accounting applications, where the monetary amounts had to match
 precisely, down to cents.
 
 I remember there was this constant friendly teasing between the
-software people and the sales people about who's contribution was more
+software people and the sales people about whose contribution was more
 important: of course we were arguing that without us, there would be
 nothing to sell, but Claudia was pointing out that our software would
 be worthless if she and her peers didn't get the customers to pay for
