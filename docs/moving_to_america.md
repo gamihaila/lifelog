@@ -182,11 +182,11 @@ figured out what "HP" meant: "Head Piece". So not a dress. Oh, well,
 in the end we did find a very nice cream-white dress at Macy's, not
 technically a wedding gown, but it did the job.
 
-After New Year's Day, 2001, Grațiela was due back to Toronto, for
-her doctoral research and also to get a proper dependent visa. She
-only stayed a couple weeks there and came back, after arranging with
-her thesis advisor that she will continue working remotely and meet
-once per quarter. So a few months passed uneventfully until one day
+After New Year's Day, 2001, Grațiela was due back to Toronto, for her
+doctoral research and also to get a proper dependent visa. She only
+stayed a couple weeks there and came back, after arranging with her
+thesis advisor that she will continue working remotely and meet once
+per quarter. So a few months passed uneventfully until one day
 Grațiela started feeling sick and we went to see a doctor at the local
 clinic. After he consulted her, he came looking for me in the waiting
 room:
