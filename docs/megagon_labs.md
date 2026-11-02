@@ -7,14 +7,15 @@ in Mountain View.
 After Google, it was a bit of a shock to have to build software
 without any of the technologies I had come to depend on. But the
 hardest change for me was no longer being able to see my code running
-at scale, in a production environment. This being a research lab, all the code we wrote was of the proof-of-concept variety, which is a
-very different animal. Still, the projects were interesting: for a
-starter project I got to build a query language compiler and execution
-engine for a system that extracted entities from text; then I worked
-on a text classifier for a real estate application, a chatbot
-assisting a hotel concierge with typical questions from guests, and
-another one for ranking restaurants, hotels and tourist attractions on
-subjective criteria.
+at scale, in a production environment. This being a research lab, all
+the code we wrote was of the proof-of-concept variety, which is a very
+different animal. Still, the projects were interesting: for a starter
+project I got to build a query language compiler and execution engine
+for a system that extracted entities from text; then I worked on a
+text classifier for a real estate application, a chatbot assisting a
+hotel concierge with typical questions from guests, and another one
+for ranking restaurants, hotels and tourist attractions on subjective
+criteria.
 
 A few months into my new job, Alon mentioned that the lab was going to
 get a new name: they had involved an external company specialized in
@@ -63,9 +64,9 @@ the natural language understanding component. Both were advancing
 quite slowly at the time. I remember we were having a team lunch and I
 couldn't keep quiet anymore and I said:
 
-"The overseas developers are moving at a snail's pace, they deliver low
-quality code, badly designed and buggy, and at this pace, we'll never
-have a chatbot ready to release."
+"The overseas developers are moving at a snail's pace, they deliver
+low quality code, badly designed and buggy, and at this pace, we'll
+never have a chatbot ready to release."
 
 Everybody got quiet: they were all aware of this, but nobody dared to
 put it so bluntly. I was new to the team, and I didn't know the full
