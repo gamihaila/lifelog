@@ -141,7 +141,8 @@ from the train.
 
 The camp schedule was pretty relaxed, other than the fixed times for
 meals we were free to do whatever we wanted. As we were the only ones
-from our school and we didn't know anyone else we naturally hung out together, the three of us. We ate together at the camp's cafeteria a
+from our school and we didn't know anyone else we naturally hung out
+together, the three of us. We ate together at the camp's cafeteria a
 few times, but the food was pretty uninspiring.
 
 "Come with me", Dana said one day, after a hike, "let me take you guys
@@ -185,11 +186,11 @@ I remember we got to the camping site late in the evening, after the
 office was closed, so we couldn't register properly until the office
 opened again in the morning. Since it was late and we couldn't go
 anywhere we found an empty spot and we pitched our tents: me and Ioana
-in one tent, her sister Ruxandra and another girl, Claudia, in a second
-tent, and two other students in the third. In the early morning hours,
-we get awakened by a loud call: "Hello?". It was an inspection of
-camping permits going around to all the tents. Ruxandra, half asleep,
-when hearing this, mumbled "Ioana, can you pick up the phone,
+in one tent, her sister Ruxandra and another girl, Claudia, in a
+second tent, and two other students in the third. In the early morning
+hours, we get awakened by a loud call: "Hello?". It was an inspection
+of camping permits going around to all the tents. Ruxandra, half
+asleep, when hearing this, mumbled "Ioana, can you pick up the phone,
 please?". The officer started laughing and didn't fine us for the
 unpaid night. We just paid for the camping permit for the remaining
 days.
@@ -202,12 +203,12 @@ the food was exceptional. "This is the Party's hotel", explained Dana,
 "See those blonde girls? Their father is the Minister of Interior". We
 enjoyed the subsidized feast and didn't ask any more questions.
 
-
 In retrospect, I should have realized that after this camping trip
 with Ioana there was no turning back. At the time, though, I was just
 a carefree teenager, not giving any consideration to society
 conventions and expectations. In my mind, I was still free, after all,
-I didn't formally commit to anyone just yet. I could secretly like as many other girls as I wanted and potentially find a better partner.
+I didn't formally commit to anyone just yet. I could secretly like as
+many other girls as I wanted and potentially find a better partner.
 Except that I wasn't.
 
 It's not that I didn't love Ioana, I just wasn't sure she's "the one"
@@ -222,18 +223,22 @@ into a quiet familiarity and we started seeing each other every day.
 
 After a few more months of this I basically gave up on the idea of
 ever pursuing anyone else, even though I was still longing for Dana.
-Ioana kept going out with me and pretended she didn't know or she wasn't bothered by my interest in other girls. We kept seeing each other
-all the time, and going on trips together to the mountains or the sea,
-always in a larger group. Eventually, on one of our trips to the beach
-I asked her if she wanted to be my wife. She agreed without the
-slightest hesitation, it was the obvious direction we were heading. I
-was sure nothing could possibly go wrong now. I was mistaken.
+Ioana kept going out with me and pretended she didn't know or she
+wasn't bothered by my interest in other girls. We kept seeing each
+other all the time, and going on trips together to the mountains or
+the sea, always in a larger group. Eventually, on one of our trips to
+the beach I asked her if she wanted to be my wife. She agreed without
+the slightest hesitation, it was the obvious direction we were
+heading. I was sure nothing could possibly go wrong now. I was
+mistaken.
 
-On my twentieth birthday, my parents organized a big party for me. I invited many of our schoolmates from college and some of my former high
-school friends. I had just bought my first computer, the ZX Spectrum,
-and I had it powered on in my bedroom, loaded with games (including
-the ones I implemented myself). A lot of the guests were clamoring
-around the computer, cheering for the players, who took turns to play.
+On my twentieth birthday, my parents organized a big party for me. I
+invited many of our schoolmates from college and some of my former
+high school friends. I had just bought my first computer, the ZX
+Spectrum, and I had it powered on in my bedroom, loaded with games
+(including the ones I implemented myself). A lot of the guests were
+clamoring around the computer, cheering for the players, who took
+turns to play.
 
 I was walking around the apartment, checking out on the other guests.
 When I got to my sister's bedroom I saw there an old high school crush
@@ -433,20 +438,18 @@ eating it with her. Alas, even then I didn't tell her anything,
 although she could easily figure it out herself, as she would tell me
 many years later.
 
-The closest I ever felt Dana was at a party at one of our
-schoolmates' house. Ioana was there too, but at some point, after
-dancing with her, I invited Dana to dance with me. It was a slow
-dance, and I didn't think much of it until Dana started twisting my
-hair gently in the back of my neck, unseen by anyone, but unmistakably
-felt by me. I didn't know what to make of this, I couldn't believe she
-was actually doing this. I tried to talk to her afterwards but she
-asked me to keep quiet, and that was that. Nothing ever came out of
-this one moment, it was just a fleeting acknowledgment of our spark,
-nothing more. It felt like she wanted me to know she noticed my
-torment.
+The closest I ever felt Dana was at a party at one of our schoolmates'
+house. Ioana was there too, but at some point, after dancing with her,
+I invited Dana to dance with me. It was a slow dance, and I didn't
+think much of it until Dana started twisting my hair gently in the
+back of my neck, unseen by anyone, but unmistakably felt by me. I
+didn't know what to make of this, I couldn't believe she was actually
+doing this. I tried to talk to her afterwards but she asked me to keep
+quiet, and that was that. Nothing ever came out of this one moment, it
+was just a fleeting acknowledgment of our spark, nothing more. It felt
+like she wanted me to know she noticed my torment.
 
 ...
-
 
 College life continued its course, with the usual classes and exams
 and at some point we were told by one of our professors who was a
@@ -476,9 +479,9 @@ So, when the time came, Petrișor, Dana and I were invited in a room
 filled with red flags and portraits and formally asked to join the
 Party. We all did what was expected of us and were officially welcomed
 into the fold without much ceremony. A week later, the next batch of
-three was invited, and we were asked to attend. Ioana was one of
-them. This time, one of the more politically involved professors went
-off the script and had this idea to ask Ioana, specifically:
+three was invited, and we were asked to attend. Ioana was one of them.
+This time, one of the more politically involved professors went off
+the script and had this idea to ask Ioana, specifically:
 
 "Miss Popescu, would you be so kind and tell the committee, in your
 own words, from the heart, why you want to join the Communist Party?"
@@ -486,9 +489,9 @@ own words, from the heart, why you want to join the Communist Party?"
 What happened next stunned everyone present, myself included. Looking
 him in the eye, Ioana said plainly:
 
-"When I was inducted in the Pioneer Organization in first grade and then the
-Communist Youth Union in high school, nobody asked me if I wanted to
-join or why I wanted to join, so why are you asking me now?"
+"When I was inducted in the Pioneer Organization in first grade and
+then the Communist Youth Union in high school, nobody asked me if I
+wanted to join or why I wanted to join, so why are you asking me now?"
 
 Everyone's face turned red, nobody knew what to say to that; we all
 sat in silence for a few tense moments, until one of the older
@@ -508,14 +511,11 @@ Ioana.
 
 ...
 
-
-
-
 We continued to go out together, and started planning our wedding for
-the upcoming summer. By now our families were visiting each other
-too. During one of Ioana's family visits at our place, my mom called
-me to the kitchen, ostensibly to help out with the meal, but once I
-got there, she shut the door and asked me, with a serious look on her
+the upcoming summer. By now our families were visiting each other too.
+During one of Ioana's family visits at our place, my mom called me to
+the kitchen, ostensibly to help out with the meal, but once I got
+there, she shut the door and asked me, with a serious look on her
 face:
 
 "Son, are you absolutely certain that you want to marry this
@@ -560,7 +560,8 @@ being professionally videotaped. The wedding reception was a lavish
 affair, with over 200 guests (paid for by my parents), friends and
 relatives from both families. We had music provided by my best
 childhood friend, Marian, who had been my music supplier for years
-(where was he sourcing the newest releases of Western music I would never know). There were speeches, dances, wining and dining, and of
+(where was he sourcing the newest releases of Western music I would
+never know). There were speeches, dances, wining and dining, and of
 course gossiping. Dana was there at the students’ table together with
 all our closest friends from our class. I would later catch on to some
 of their conversations on the videotape: another girl was telling Dana
@@ -619,8 +620,8 @@ him in his very large hotel suite where he was staying with his wife
 and children. After his wife brought us coffees, he took Ioana on the
 side and proceeded to give her a lecture about how she should support
 me in my research work, just how his own wife had been supporting him,
-exempting him from all domestic chores so he could dedicate his life to
-science. He was essentially asking her to make all the necessary
+exempting him from all domestic chores so he could dedicate his life
+to science. He was essentially asking her to make all the necessary
 sacrifices to ensure I have all the conditions to reach my full
 potential.
 
@@ -692,8 +693,8 @@ father's disapproving admonitions (he was still a professor in that
 very same university and hated it when his own students were absent).
 Not a great way to start a marriage, I'll tell you that much. Looking
 back, we should have postponed that wedding at least until the
-apartment was ready, but we were impatient to be officially married and
-not have to sneak behind her parents' back, with the neighbors
+apartment was ready, but we were impatient to be officially married
+and not have to sneak behind her parents' back, with the neighbors
 watching us from behind their curtains.
 
 After a few long months, the apartment was finally ready and we moved
