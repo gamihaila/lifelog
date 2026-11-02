@@ -87,7 +87,7 @@ of books on the floor. I didn’t find that particularly unusual, it was
 just like my dad’s desk area. His wife would drop in and bring us
 coffee and home-baked cookies, and then retreat in silence. We would
 sit hunched over papers for hours, with me trying to follow what we
-were doing, mostly serving as a soundboard for him, forcing him to
+were doing, mostly serving as a sounding board for him, forcing him to
 spell out any parts that were not sufficiently justified in the
 proofs. It was quite thrilling for me to be taken seriously as an
 apprentice researcher, even if I didn’t have the full background
