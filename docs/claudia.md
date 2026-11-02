@@ -117,8 +117,9 @@ happier time, a simpler time, before leaving everything behind only to
 end up alone in a foreign country. I was going through some difficult
 times in Toronto at the time, to the point that I was seriously asking
 myself what was the point of emigrating in the first place, maybe I
-would be better off returning. As Claudia was working for a headhunter agency at the time, I asked her for advice: would I be able to
-find work if I came back? To my surprise her answer was a definite no:
+would be better off returning. As Claudia was working for a headhunter
+agency at the time, I asked her for advice: would I be able to find
+work if I came back? To my surprise her answer was a definite no:
 
 "George, there is nothing here for you. Sure, there are plenty of
 software developer jobs for multinational corporations now, but the
@@ -210,7 +211,8 @@ I did continue to visit her after that, and we had many more beautiful
 moments together, but the boundary was always there, and I never
 pushed it.
 
-We remained friends to this day. In fact, we just had an hours-long phone conversation as I was working on this chapter, and trying to put
+We remained friends to this day. In fact, we just had an hours-long
+phone conversation as I was working on this chapter, and trying to put
 some order into my memories. I had initially shared an early draft
 with her by email and she replied with an audio recording attached,
 explaining to me that she finds it tiresome to write and prefers to
