@@ -61,8 +61,6 @@ Nevertheless, we did watch the game together, and I was happy to be
 next to her, even if I didn't care for hockey. After the game, I
 wanted to take her hand, but she said no, and I didn't insist.
 
-I 
-
 
 
 A month later, on Canadian Thanksgiving, an Italian girl I met during
@@ -193,7 +191,7 @@ well, he's really nice to me!"
 If this conversation sounds surreal to you, you're not alone. At the
 time, still fairly new to the country I thought this must be normal,
 like a new employer asking for references from your past employers.
-I'm sure Ioana had a good laugh too. Not too late after this
+I'm sure Ioana had a good laugh too. Not long after this
 conversation they met each other in person at a friend's wedding we
 were both invited (actually it was me and Lara who introduced the
 groom, Ovidiu, to Lara's best friend Ottilie and they got married,
@@ -235,7 +233,7 @@ she was immediately pro-Lara, even before meeting her.
 Both Lara's parents were 50% Native American, making Lara half-native
 too. To me, she was Pocahontas: on a trip we took to visit some of her
 relatives in the Tyendinaga Territory, the chief offered to marry us
-right then and there on the reservation ground. Hearing this, I tried
+right then and there on the reservation grounds. Hearing this, I tried
 to persuade Lara to go for it, but she declined.
 
 At some point I got an email from Dana, who was now working at Bell
@@ -267,12 +265,12 @@ as I wanted, until I found someone to marry. “Even after”, she said,
 come and see me whenever you want”.
 
 For the New Year’s party, we all went to New York, thinking we’ll see
-the ball drop in Time Square. Little did we know that people were
+the ball drop in Times Square. Little did we know that people were
 camping there since the morning and the police had cordoned off the
 entire area. It was also bitter cold and Lara was wearing a black
 velvet dress, elegant, but not very warm. So cold that Lara and I
 spent most of the night in a nearby diner. Dana and Luis ventured on
-the streets but couldn’t get anywhere near Time Square so they
+the streets but couldn’t get anywhere near Times Square so they
 eventually joined us. So did Alon and his wife. We all ended up
 celebrating the New Year in that dingy diner, still fun, but not worth
 the trip to the city, and especially the trip back, in an overcrowded
@@ -379,7 +377,7 @@ dreams, as my sister tells everyone who asks. I remember during that
 trip Lara would call me constantly on the phone (she had found a
 really inexpensive international calling card). On one of these calls
 she shared that she was late, and asked me if she should go downstairs
-to Shoppers' Drug-mart to buy a pregnancy test. I remember my mom's
+to Shoppers' Drug Mart to buy a pregnancy test. I remember my mom's
 excitement for the next fifteen minutes while we were waiting for the
 results. Soon after Lara called again, it had been a false alarm. Lara
 and I sighed a breath of relief, we were not exactly ready for the
