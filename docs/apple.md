@@ -39,16 +39,15 @@ part because of Roxana.
 I joined Apple Maps in the spring of 2019. I started getting used to
 the team and the codebase, and gradually getting involved in the
 planning process. My manager also asked me to have informal
-discussions with some engineers from another team and pick two I
-would like to be transferred to our team. After six months, it was
-time to officially announce my new management role. My manager had
-brief one-on-ones with all the engineers in my new team asking them if
-they had any concerns, and then it was official! Exciting and scary at
-the same time: we were just about to deploy a new system to
-production. I shared my feelings with my manager, and he understood me
-completely: "George, just give this management thing a try for a
-couple of years, see how you like it! I know it's not an easy
-transition."
+discussions with some engineers from another team and pick two I would
+like to be transferred to our team. After six months, it was time to
+officially announce my new management role. My manager had brief
+one-on-ones with all the engineers in my new team asking them if they
+had any concerns, and then it was official! Exciting and scary at the
+same time: we were just about to deploy a new system to production. I
+shared my feelings with my manager, and he understood me completely:
+"George, just give this management thing a try for a couple of years,
+see how you like it! I know it's not an easy transition."
 
 Less than a month after my promotion to management, two of the
 engineers in my new team left Apple, they had been interviewing with
@@ -132,8 +131,8 @@ meeting I said:
 
 "Thank you for being supportive and allowing me to really spend some
 time figuring out what I want. When I read back the lists I sent you
-it became quite clear that I would rather be a software engineer than a
-manager."
+it became quite clear that I would rather be a software engineer than
+a manager."
 
 "Well, you can, if that's what you want. You can step down and I can
 look for someone else to manage the team. Do you have any
