@@ -2,17 +2,19 @@ Now that I had passed the university admission exam, you'd think I
 would go to college right away, but that's not how things worked at
 the time. You see, after high school, all boys were required to enroll
 in full-time military training first. The only difference the
-university admission made was that instead of going for one and a half years of training, as future students we were assigned to a
-"reduced term" unit, that was only nine months long. We were assigned
-to specific units according to our major: for Mathematics, that meant
-an Artillery unit.
+university admission made was that instead of going for one and a half
+years of training, as future students we were assigned to a "reduced
+term" unit, that was only nine months long. We were assigned to
+specific units according to our major: for Mathematics, that meant an
+Artillery unit.
 
-So after spending the summer with my family (we went on a trip to Sofia,
-Bulgaria, following my dad who was sent there for research by the
-university), I had to pack and get ready to join the Army. That meant
-a wood suitcase, with a lock, packed with essentials, but not clothes.
-My father went with me by train to Focșani, a small town three hours
-North-East of home, where I was scheduled to report for duty.
+So after spending the summer with my family (we went on a trip to
+Sofia, Bulgaria, following my dad who was sent there for research by
+the university), I had to pack and get ready to join the Army. That
+meant a wood suitcase, with a lock, packed with essentials, but not
+clothes. My father went with me by train to Focșani, a small town
+three hours North-East of home, where I was scheduled to report for
+duty.
 
 Once at the unit, I said goodbye to him, and joined my fellow
 recruits, who were all Math and CS students admitted that year at the
