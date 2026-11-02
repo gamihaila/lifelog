@@ -23,7 +23,7 @@ started planning my trip.
 
 I remembered that back in 1999, during the SRC internship, I had
 participated in a brainstorming session for internet startup ideas. At
-the time, well before AirBnB, I came up with an idea of a website for
+the time, well before Airbnb, I came up with an idea of a website for
 vacation house swapping: suppose someone from New York wanted to visit
 Paris; they would post their preferred travel dates and details about
 their home on this website; then, the system would match them with
@@ -45,7 +45,7 @@ had to cancel because his kids' school rejected his request to pull
 the kids off for a whole month (in Switzerland, kids have short
 vacations throughout the year instead of an extended summer vacation).
 
-Oh well, the back-up option was AirBnB: after quite a bit of looking
+Oh well, the back-up option was Airbnb: after quite a bit of looking
 around on the site, I finally found a three-bedroom apartment in
 Küsnacht, a little town on the East shore of Lake Zurich, not too far
 from the Google office. The owner was a retired American diplomat, who
