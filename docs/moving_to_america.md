@@ -69,7 +69,7 @@ the offer from Google came with twenty thousand stock options, priced
 at eighty-five cents a share. At the time, those options meant nothing
 to me. There was no IPO on the horizon, not for years, and I had just
 spent years earning a doctorate. So I turned it down, choosing IBM
-Research instead. I'll let you do the math what those stock options
+Research instead. I'll let you do the math on what those stock options
 would have been worth when Google finally went public.
 
 Soon after, I finished my PhD. My scholarship money ran out the moment
@@ -102,14 +102,13 @@ immediately. I wrote to all the people I knew in the States, and to my
 surprise, they all came through. You see, we were at the height of the
 dot-com boom, and everybody was a founder: Anthony Tomasic had started
 a company to build a system for automatically generating grocery
-orders from cooking recipes and wanted to connect that with Martha
-Steward's TV show, Alon Halevy just founded Nimble Technologies to
+orders from cooking recipes and wanted to connect that with Martha Stewart's TV show, Alon Halevy just founded Nimble Technologies to
 develop data integration solutions, and Dana was working for Adam
 Bosworth, who had left Microsoft with his team to found Crossgain. I
 wasn't sold on Anthony's business idea, but I had a lot of respect for
 Alon and I trusted Dana's intuition. Alon, who was the external
-examiner for my PhD thesis invited me right away for an interview at
-Nimble. Dana told her boss about me and he called me from cell phone
+examiner for my PhD thesis, invited me right away for an interview at
+Nimble. Dana told her boss about me and he called me from his cell phone
 from his morning run the next day: he explained to me his vision for
 building Web applications from simple, generic components that can be
 deployed on different servers and would talk to each other using an
@@ -121,7 +120,7 @@ It so happened that both start-ups were in Seattle so they could share
 the travel expenses for my interviews. So I got on a plane and flew to
 Seattle, all expenses paid. First, I interviewed at Crossgain: they
 had me meet with several engineers and code on the whiteboard, then
-Adam invited me in his office to offer me a software engineer job. I
+Adam invited me into his office to offer me a software engineer job. I
 told him I already have an offer for a research position from IBM but
 I took his written offer and told him I'll give him an answer soon.
 
@@ -175,14 +174,13 @@ all that much. Since we were just hastily married in City Hall before
 leaving Toronto, we started planning a wedding ceremony in church, and
 we were in the market for a wedding dress. We started looking at
 bridal catalogs and everything was in the thousands of dollars. The
-only affordable items were something called "HP", which were only a
-few hundreds. "Let's get one of these", Grațiela was saying, happy
+only affordable items were something called "HP", which were only a few hundred. "Let's get one of these", Grațiela was saying, happy
 that she found something we could afford. When we looked more
 carefully we figured out what "HP" meant: "Head Piece". So not a
 dress. Oh, well, in the end we did find a very nice cream-white dress
 at Macy's, not technically a wedding gown, but it did the job.
 
-After the New Year's day, 2001, Grațiela was due back to Toronto, for
+After the New Year's Day, 2001, Grațiela was due back to Toronto, for
 her doctoral research and also to get a proper dependent visa. She
 only stayed a couple weeks there and came back, after arranging with
 her thesis advisor that she will continue working remotely and meet
@@ -209,8 +207,7 @@ November 1st."
 
 Grațiela came out right after, in a daze. It took us a bit of time to
 process the news: we were extremely happy, of course, even though we
-didn't "plan for it". What that meant, though, was that for our church
-wedding service had to scheduled sooner than we were initially
+didn't "plan for it". What that meant, though, was that our church wedding service had to be scheduled sooner than we were initially
 thinking, and her cream-white dress from Macy's was going to be a
 little tight. No matter, though.
 
@@ -231,14 +228,13 @@ Everything was going smoothly, my new job at IBM Research was
 interesting, feeling very much like the work I was doing in graduate
 school, not necessarily content-wise, more like effort-wise: it was
 all quite laid back, with no deadlines to speak of, other than
-conference submission deadlines. In the weekends we would escape the
+conference submission deadlines. On the weekends we would escape the
 White Plains boredom by taking trips to the city, walking in Central
 Park, and all the touristy places. One such Sunday in early September
 we went to visit the World Trade Center and took the South Tower
 elevator to the top floor and strolled on the terrace, taking in the
 view. The next Tuesday morning we woke up as usual, had breakfast, and
-I got in my car to go to my office in Hawthorne. I was about half way
-there, when I turned on the radio; instead of the usual classical
+I got in my car to go to my office in Hawthorne. I was about halfway there, when I turned on the radio; instead of the usual classical
 music, though, all I could hear was a live report from the city, a
 terrible accident had just happened, the reporters were saying, a
 commercial plane had hit the North Tower. I continued driving to work.
@@ -265,7 +261,7 @@ draconic, immigration cases were subjected to heightened scrutiny.
 Luckily, my H1B visa was already issued, but the green card process
 ended up taking close to five years.
 
-Slowly things got back to some resemblance of normal, and on November
+Slowly things got back to some semblance of normal, and on November
 4th we went to the White Plains Hospital and our daughter was born.
 The first card on her crib said "Baby Girl Mihaila", and only later
 they asked her what we were going to call her. "Maria", we said, "no
