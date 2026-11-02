@@ -1,15 +1,14 @@
 Grațiela's mom stayed with us and helped with the baby for the first
 six months but then had to go back home as her visa was expiring. Once
-her mom left, Grațiela got so overwhelmed with everything that was
-seriously considering dropping off her PhD program. I encouraged her
+her mom left, Grațiela got so overwhelmed with everything that she was seriously considering dropping out of her PhD program. I encouraged her
 to take a year leave of absence instead, and she did.
 
 At the office I was busy with trying to add XML query capabilities to
 IBM's DB2 database engine, working with another fresh PhD graduate,
-Roxana. She was hired at the same time with me, and was also Romanian,
+Roxana. She was hired at the same time as me, and was also Romanian,
 as it happens. Unlike me, though, she had moved to America with her
 parents during high school. Aside from us, our research group was a
-mix of Indians, Chinese, and German. Americans were conspicuously
+mix of Indians, Chinese, and Germans. Americans were conspicuously
 missing.
 
 After about a year, our second-line manager came to us with an unusual
@@ -103,8 +102,7 @@ to generate a professional patent application.
 Once the application was submitted to the patent office we were free
 to pursue publication. Getting the paper published was a much harder
 process, involving submitting it to a conference or journal, waiting
-for the reviewers responses, responding to them, and them waiting some
-more (months) for a decision. Most of our papers were rejected, at
+for the reviewers' responses, responding to them, and then waiting some more (months) for a decision. Most of our papers were rejected, at
 least on the first attempt; we would then revise them, address
 reviewer concerns, and send back either to the original venue or a
 different one.
@@ -128,7 +126,7 @@ move." Hmm, at that time, I have to say, my work at IBM was getting a
 bit boring. Roxana had since moved to IBM Almaden in California a
 couple years back, and others had also moved on, to teaching positions
 or other labs. I was ready for a change, so I said: "Sure, why not?".
-After I hang up the phone though, I immediately wrote to Alon, who had
+After I hung up the phone though, I immediately wrote to Alon, who had
 left his professor position at the University of Washington for a
 Research Scientist position at Google in California a few years back.
 I wanted to check with him before making such a move. He replied right
