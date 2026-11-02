@@ -30,7 +30,7 @@ scheme didn’t last!
 
 It is perhaps not too surprising that this work camp situation played
 an essential role in accelerating our relationship. I was naive and
-eager to find love, especially since haven't had any luck with girls
+eager to find love, especially since I haven't had any luck with girls
 recently: my last "girlfriend" was Elena in seventh grade. One
 evening, when we were walking back from the dining hall together, we
 had a longer walk holding hands. In the distance, someone was playing
@@ -102,7 +102,7 @@ That didn't stop me from secretly liking other girls in our class. One
 of them in particular stood out. Her name was Dana and she was the
 prettiest, smartest, and most sophisticated girl in our class. No
 question about it. She was from a very highly placed family, her
-father was a member the Communist Party Central Committee, and they
+father was a member of the Communist Party Central Committee, and they
 were living in a very large downtown apartment, just steps from the
 University building, just behind the Central Committee headquarters,
 in fact. So, even though her father was a highly ranked official in
@@ -141,8 +141,7 @@ from the train.
 
 The camp schedule was pretty relaxed, other than the fixed times for
 meals we were free to do whatever we wanted. As we were the only ones
-from our school and we didn't know anyone else we naturally hang out
-together, the three of us. We ate together at the camp's cafeteria a
+from our school and we didn't know anyone else we naturally hung out together, the three of us. We ate together at the camp's cafeteria a
 few times, but the food was pretty uninspiring.
 
 "Come with me", Dana said one day, after a hike, "let me take you guys
@@ -186,7 +185,7 @@ I remember we got to the camping site late in the evening, after the
 office was closed, so we couldn't register properly until the office
 opened again in the morning. Since it was late and we couldn't go
 anywhere we found an empty spot and we pitched our tents: me and Ioana
-in one tent, her sister Ruxandra and anther girl, Claudia, in a second
+in one tent, her sister Ruxandra and another girl, Claudia, in a second
 tent, and two other students in the third. In the early morning hours,
 we get awakened by a loud call: "Hello?". It was an inspection of
 camping permits going around to all the tents. Ruxandra, half asleep,
@@ -208,8 +207,7 @@ In retrospect, I should have realized that after this camping trip
 with Ioana there was no turning back. At the time, though, I was just
 a carefree teenager, not giving any consideration to society
 conventions and expectations. In my mind, I was still free, after all,
-I didn't formally commit to anyone just yet. I could secretly like as
-many other girls I wanted and potentially find a better partner.
+I didn't formally commit to anyone just yet. I could secretly like as many other girls as I wanted and potentially find a better partner.
 Except that I wasn't.
 
 It's not that I didn't love Ioana, I just wasn't sure she's "the one"
@@ -224,16 +222,14 @@ into a quiet familiarity and we started seeing each other every day.
 
 After a few more months of this I basically gave up on the idea of
 ever pursuing anyone else, even though I was still longing for Dana.
-Ioana kept going out with me and pretended she doesn't know or she's
-not bothered by my interest in other girls. We kept seeing each other
+Ioana kept going out with me and pretended she didn't know or she wasn't bothered by my interest in other girls. We kept seeing each other
 all the time, and going on trips together to the mountains or the sea,
 always in a larger group. Eventually, on one of our trips to the beach
 I asked her if she wanted to be my wife. She agreed without the
 slightest hesitation, it was the obvious direction we were heading. I
 was sure nothing could possibly go wrong now. I was mistaken.
 
-On my twentieth birthday, my parents organized a big party for me. I
-invited many our schoolmates from college and some of my former high
+On my twentieth birthday, my parents organized a big party for me. I invited many of our schoolmates from college and some of my former high
 school friends. I had just bought my first computer, the ZX Spectrum,
 and I had it powered on in my bedroom, loaded with games (including
 the ones I implemented myself). A lot of the guests were clamoring
@@ -252,7 +248,7 @@ out later that someone saw us together and told Ioana. At the time we
 were just having a good time, oblivious to any drama. After a few
 minutes of reminiscing about high school, we left the window and I
 continued my rounds in the apartment, alone. Eventually I made it to
-my parent's bedroom (they had left us alone for the party), and
+my parents' bedroom (they had left us alone for the party), and
 towards their balcony. In the balcony, Marius, one of my close friends
 from high school was kissing Ioana! When they saw me, they stopped,
 and Ioana started making excuses, how she saw me with my former crush,
@@ -302,7 +298,7 @@ much more to my inner life that Ioana can't possibly have access to,
 right? For my part, I knew I can only observe the outward
 manifestation of a tiny fraction of Ioana's full personality, and by
 analogy I was assuming the same must be true for her, or anyone else
-by that matter, regardless of how close. But what I took from her
+for that matter, regardless of how close. But what I took from her
 words was that she was really serious about wanting to be with me. I
 suppose I was flattered by her determination, so we got back together.
 I was weak and lonely, after spending the summer alone.
@@ -328,7 +324,7 @@ some troublemakers around her building and she wanted to avoid them. I
 was, around that time, fantasizing about getting away from Ioana, so I
 volunteered.
 
-We took the subway together to her campus in Grozǎvești and I walked
+We took the subway together to her campus in Grozăvești and I walked
 her to her building. There wasn’t anyone suspicious around, so I
 started saying my goodbyes when she invited me to her room. Now, I
 have to say, I had never considered her as a potential partner, but
@@ -404,7 +400,7 @@ in the hallway talking to the remaining students. Something bad had
 happened: Ioana went in, and immediately after picking her exam
 question had panicked and had to be taken out of the room. The
 professor was kind enough and told her to come the following week to
-take the exam again. Ioana had since went home. I called her as soon
+take the exam again. Ioana had since gone home. I called her as soon
 as I got home, but she was upset with me because I wasn't there when
 she needed me and our colleagues had told her I went out with Dana to
 have ice cream. How was I supposed to know this was going to happen?
@@ -424,12 +420,12 @@ somewhere", I remember thinking, "how hard could that be?". I wasn't
 serious about the horse, but I was really thinking about my chances
 with Dana.
 
-Unfortunatelly, this is not how love works in real life. I just didn't
+Unfortunately, this is not how love works in real life. I just didn't
 have enough connection with Dana, I was just infatuated with her from
 a distance. Dana was friendly enough with me, though, she didn't have
 any problem taking me to her apartment occasionally when the
 opportunity presented itself and Ioana wasn't around. Once such
-occasion was when I participated to a coding contest and we were given
+occasion was when I participated in a coding contest and we were given
 a one hour lunch break: Dana invited me to her place, a five minute
 walk from the university building, and even cooked a chicken leg for
 me. Even though the chicken leg was slightly undercooked, I loved
@@ -441,7 +437,7 @@ The closest I ever felt Dana was at a party at one of our
 schoolmates' house. Ioana was there too, but at some point, after
 dancing with her, I invited Dana to dance with me. It was a slow
 dance, and I didn't think much of it until Dana started twisting my
-hair gently in the back of my neck, unseen by anyone, but unmistakenly
+hair gently in the back of my neck, unseen by anyone, but unmistakably
 felt by me. I didn't know what to make of this, I couldn't believe she
 was actually doing this. I tried to talk to her afterwards but she
 asked me to keep quiet, and that was that. Nothing ever came out of
@@ -497,7 +493,7 @@ join or why I wanted to join, so why are you asking me now?"
 Everyone's face turned red, nobody knew what to say to that; we all
 sat in silence for a few tense moments, until one of the older
 professors saved the day and said something about excusing Ioana's
-nervousness, understandable under such an solemn occasion, and the
+nervousness, understandable under such a solemn occasion, and the
 formalities continued without any more questions. Everyone was too
 terrified about what happened there to ever bring this up.
 
@@ -564,8 +560,7 @@ being professionally videotaped. The wedding reception was a lavish
 affair, with over 200 guests (paid for by my parents), friends and
 relatives from both families. We had music provided by my best
 childhood friend, Marian, who had been my music supplier for years
-(where was he sourcing the newest releases of Western music I would
-ever know). There were speeches, dances, wining and dining, and of
+(where was he sourcing the newest releases of Western music I would never know). There were speeches, dances, wining and dining, and of
 course gossiping. Dana was there at the students’ table together with
 all our closest friends from our class. I would later catch on to some
 of their conversations on the videotape: another girl was telling Dana
@@ -624,7 +619,7 @@ him in his very large hotel suite where he was staying with his wife
 and children. After his wife brought us coffees, he took Ioana on the
 side and proceeded to give her a lecture about how she should support
 me in my research work, just how his own wife had been supporting him,
-exempting him of all domestic chores so he could dedicate his life to
+exempting him from all domestic chores so he could dedicate his life to
 science. He was essentially asking her to make all the necessary
 sacrifices to ensure I have all the conditions to reach my full
 potential.
@@ -653,7 +648,7 @@ the role of supporting character in my supposedly shining future
 academic career.
 
 After a few more days, the honeymoon trip came to an end, and we went
-to Constanta to catch our train back. I lugged the suitcases into our
+to Constanța to catch our train back. I lugged the suitcases into our
 compartment, and, as we still had a few more minutes until the train's
 departure, Ioana stepped out to get something to drink from the
 station. I was getting anxious as the minutes passed and Ioana was
@@ -676,7 +671,7 @@ my father took pity on me and booked a hotel for the two of us in
 Venus, a modern Black Sea resort (my mom declined to join us because
 her health prevented her from going to the beach).
 
-We got back to Bucharest at the same time with Ioana's family. My
+We got back to Bucharest at the same time as Ioana's family. My
 parents invited all of them for lunch, eager to hear their travel
 impressions. Ioana's father proceeded to recount in great detail their
 visit to Istanbul Great Bazaar and market, where, I kid you not, a
@@ -697,7 +692,7 @@ father's disapproving admonitions (he was still a professor in that
 very same university and hated it when his own students were absent).
 Not a great way to start a marriage, I'll tell you that much. Looking
 back, we should have postponed that wedding at least until the
-apartment was ready, but we were impatient be officially married and
+apartment was ready, but we were impatient to be officially married and
 not have to sneak behind her parents' back, with the neighbors
 watching us from behind their curtains.
 
