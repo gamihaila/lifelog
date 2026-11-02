@@ -279,6 +279,104 @@ benefit. The rent was just a little higher than the downtown basement,
 but it was worth it: the studio was on the 10th floor, with plenty of
 light, and we even had a large balcony overlooking High Park!
 
+At work, we were getting ready to deliver our Transaction Processing
+Manager to a large customer in Halifax, Nova Scotia. The program still
+had some bugs that we were scrambling to fix before the deadline. Even
+though we were working as fast as we could, we still had some
+unexplained crashes which were hard to reproduce.
+
+I remember one of the older engineers, a guy named Ron, whose wife
+left him and was now sharig the custody of a young daughter, was
+particularily stressed out. Our manager, Rick, send me on several
+occasions to his desk to do a joint debugging session with him so we
+got pretty close. He shared an apparently trivial complication which
+was very real for his new status: whenever he was out and about with
+his daughter, which was about five year old at the time, and she
+needed to go to the bathroom he was faced with an impossible choice:
+either let her go by herself to the ladies' room (which he didn't feel
+she was old enough to be left alone), or take her with him to the
+men's room (which was inappropriate because she was too old). I hadn't
+thought about it before, but it made sense, there was no clear
+protocol for this situation, as if dads were never supposed to care
+for a young girl by themselves.
+
+Regardless of our readiness, the time for our product delivery came
+anyway. It was such an important customer that the entire team had to
+go set it up: our manager Rick, Ron, another younger guy Todd, and
+me. We all got on a plane and had our desktop computers delivered by
+courier to the customer's engineering building. We each had a hotel
+room to ourselves, which I found pretty generous of our employer.
+Knowing this I asked Ioana to come with me, but she couldn't, because
+she had some exams that week. So the next morning I all got to the
+customer's office, set up our desktop computers on their network and
+got to work, frantically racing to fix the last issues before the
+scheduled customer demo. Unfortunatelly, while we were showing off our
+system to their Director of Engineering, a fierce woman, the system
+predictably glitched right in front of her. She made a disgusted face
+and told Rick she's not signing for delivery until this is resolved.
+
+Ron was literally sweating and cursing constantly, and Todd was
+overwhelmed. Rick and I were staring at the code together, trying hard
+to figure out what the problem was. It was getting late, everybody
+else had left for the day, it was dark out already, and we were all
+hungry and tired. It was then when I told Rick:
+
+"Listen, at this point whatever new code we're going to write in this
+state is most likely wrong; we're just making the code more
+unstable. I'd say we call it a day and come back early in the
+morning, rested and with a fresh set of eyes."
+
+"Alright, George, let's have it your way. But if it fails again
+tomorrow, you explain it to the customer.", said Rick.
+
+"Fine with me", I said, and we all went to have dinner at the nearby
+restaurant and then went to our hotel rooms.
+
+Once I got back to my room I called Ioana to tell her about our
+adventures.
+
+"Listen", she interrupted me, "I received a e-mail message from Prof. 
+Cǎzǎnescu who wanted to ask you what to do with your post, since your
+one year leave of absence is ending soon. He is asking if we're
+planning to come back or not, so he knows whether to open up the
+position to potential candidates."
+
+"Oh, right, well, we're not going back anymore. Please anwer him and
+apologize on my behalf for not letting him know sooner.", I said. I
+had all but forgotten about it, I realized, in all the agitation at
+work. I had kept this option open because up until recently we weren't
+at all sure we were going to make it in Canada, but now Ioana was a
+full-time graduate student at U of T and I was a full-time software
+engineer at Ahearn & Soper. We had made it!
+
+The next morning we woke up early, had a quick breakfast and got to
+the office before everyone else. I turned on my desktop Windows PC,
+opened the source code of our program and, after a few more minutes I
+found the bug, showed it to the other engineers, and wrote a fix. Rick
+was happy, he showed it again to that lady, she was satisfied and we
+got the go-ahead to install it on the factory floor. It was a
+commercial aircraft manufacturer, a sub-contractor for Bombardier I
+believe. We loaded our desktops in a van and drove to the site. At the
+gate we encountered a group of union leaders and a picket line, the
+workers were on strike against automation taking over their jobs. "Oh,
+oh, that's just what our software does: it automates the tracking of
+manufactured parts on the various processing stations along the way to
+the finished product.", I was thinking to myself looking at the
+striking workers' stern faces: "Scab, scab!", they were yelling behind
+our van, as we passed the gate. Rick reassured us that the workers
+couldn't possibly have any idea what we were carrying in our van, and
+in any case, we were not breaking any union contract ourselves, we
+were only suppliers. I had an uneasy feeling the entire time and was
+happy to get out of there was soon as we finished setting up our
+system. "So the union actions our Party leaders were telling us about
+back in Romania were actually a real thing, not just communist
+propaganda?", I remember thinking, with a new understanding that the
+Capitalist system had its own problems, and that there were no easy
+solutions. Not to mention that the system we had just delivered was
+probably leading to some jobs being eliminated. We were all cogs in
+the machine, and we all needed to put bread on the table too, steel
+workers and software engineers alike.
+
 A few months after I started working I received the acceptance letter
 from U of T. By then I had a real paycheck coming in and a job I
 didn’t hate, but we were still just barely covering our expenses, with
