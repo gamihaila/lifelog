@@ -99,7 +99,8 @@ door, graciously accepted the flowers and invited me in.
 
 “Jenny, we have been friends for a few years now”, I started.
 
-“Yes, George, I know”, she said, smiling, clearly anticipating where I was going with this.
+“Yes, George, I know”, she said, smiling, clearly anticipating where I
+was going with this.
 
 “I wanted to ask you if by any chance our friendship could grow into
 something else”, I said, plainly.
