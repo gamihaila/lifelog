@@ -46,7 +46,7 @@ the kids off for a whole month (in Switzerland, kids have short
 vacations throughout the year instead of an extended summer vacation).
 
 Oh well, the back-up option was AirBnB: after quite a bit of looking
-around on the site, I finally found a three bedroom apartment in
+around on the site, I finally found a three-bedroom apartment in
 Küsnacht, a little town on the East shore of Lake Zurich, not too far
 from the Google office. The owner was a retired American diplomat, who
 was spending his summer in the States, and he was offering his place
@@ -63,7 +63,7 @@ wasn't interested and Xenia was too young.
 
 Before Switzerland, we went to Bucharest, rented a car, and travelled
 all around Romania with our kids. We visited my sister in Bucharest,
-my cousins in Buzǎu and Brașov and my aunt in Viișoara, we went to
+my cousins in Buzău and Brașov and my aunt in Viișoara, we went to
 Sibiu and then to the Black Sea, where we rented a villa next to
 Ceaușescu's former seaside compound, in Neptun. Even though our kids
 aren't really fluent in Romanian, they understand it well enough and
