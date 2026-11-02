@@ -27,8 +27,8 @@ apartment close to downtown because my family moved before I turned
 two to a larger apartment a little further out of the city center, on
 Calea Mosilor. That was my childhood home until 1978. It was a large
 apartment with three bedrooms and a large living room in the middle
-separated from my parents' bedroom by a retractable glass wall. It also
-featured three balconies. It was situated on the third floor of a
+separated from my parents' bedroom by a retractable glass wall. It
+also featured three balconies. It was situated on the third floor of a
 five-storey pre-war apartment building, with a large backyard where I
 was spending a lot of my free time climbing the apricot trees and
 eating the green apricots before they were ripe, or simply laying down
@@ -69,12 +69,12 @@ simply to waste, before lunch.
 
 My mother left food for me on the electric stove-top — usually soup
 and something more substantial, like mashed potatoes with a chicken
-leg. I loved the mashed potatoes but I wasn't too fond of the soup.  I
+leg. I loved the mashed potatoes but I wasn't too fond of the soup. I
 didn’t want my mom to know that, so I would pour the soup into a bowl,
 stir it well with a spoon to get the bowl dirty, then carry it to the
-bathroom and tip it into the toilet.  Then I would heat up the
-potatoes and the chicken leg, which always stuck to the pan and
-required some coaxing, eat happily, and get dressed in my uniform.
+bathroom and tip it into the toilet. Then I would heat up the potatoes
+and the chicken leg, which always stuck to the pan and required some
+coaxing, eat happily, and get dressed in my uniform.
 
 The walk to school was about ten minutes. In spring, that meant
 walking through the mud: there was construction nearby, new apartment
@@ -173,7 +173,7 @@ real possibility for anyone who knew something and stayed silent. I
 knew nothing. I had done nothing. I was one of the good students,
 quiet and studious, but none of that mattered: I was sitting in that
 room the same as everyone else, being told that my freedom was
-conditional. They let us go eventually, and nothing came of it.  But
+conditional. They let us go eventually, and nothing came of it. But
 they made sure we all got the message: at any moment, for any reason
 or no reason at all, you could be taken, and there was nothing to be
 done about it.
