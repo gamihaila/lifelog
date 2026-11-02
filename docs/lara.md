@@ -206,7 +206,7 @@ wanted. We would be together for the whole evening and suddenly she
 felt what she would describe as an "attack" and she had to leave. She
 was back the next day, happy and smiling as if nothing had happened.
 She was cycling back and forth on a ragged old bike and one day she
-took me to a used bike store and we found a fifty dollar bike for me.
+took me to a used bike store and we found a fifty-dollar bike for me.
 It never occurred to me that bicycles can be that cheap; to this day
 I'm not completely sure that store wasn't dealing in stolen bikes,
 bicycle theft being a real widespread operation in Toronto.
