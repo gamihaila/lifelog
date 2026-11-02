@@ -102,16 +102,17 @@ immediately. I wrote to all the people I knew in the States, and to my
 surprise, they all came through. You see, we were at the height of the
 dot-com boom, and everybody was a founder: Anthony Tomasic had started
 a company to build a system for automatically generating grocery
-orders from cooking recipes and wanted to connect that with Martha Stewart's TV show, Alon Halevy just founded Nimble Technologies to
+orders from cooking recipes and wanted to connect that with Martha
+Stewart's TV show, Alon Halevy just founded Nimble Technologies to
 develop data integration solutions, and Dana was working for Adam
 Bosworth, who had left Microsoft with his team to found Crossgain. I
 wasn't sold on Anthony's business idea, but I had a lot of respect for
 Alon and I trusted Dana's intuition. Alon, who was the external
 examiner for my PhD thesis, invited me right away for an interview at
-Nimble. Dana told her boss about me and he called me from his cell phone
-from his morning run the next day: he explained to me his vision for
-building Web applications from simple, generic components that can be
-deployed on different servers and would talk to each other using an
+Nimble. Dana told her boss about me and he called me from his cell
+phone from his morning run the next day: he explained to me his vision
+for building Web applications from simple, generic components that can
+be deployed on different servers and would talk to each other using an
 XML-based protocol. I was intrigued by this idea, remember, this was
 in early 2000, before anybody heard of Roy Fielding's thesis that
 formalized REST.
@@ -174,11 +175,12 @@ all that much. Since we were just hastily married in City Hall before
 leaving Toronto, we started planning a wedding ceremony in church, and
 we were in the market for a wedding dress. We started looking at
 bridal catalogs and everything was in the thousands of dollars. The
-only affordable items were something called "HP", which were only a few hundred. "Let's get one of these", Grațiela was saying, happy
-that she found something we could afford. When we looked more
-carefully we figured out what "HP" meant: "Head Piece". So not a
-dress. Oh, well, in the end we did find a very nice cream-white dress
-at Macy's, not technically a wedding gown, but it did the job.
+only affordable items were something called "HP", which were only a
+few hundred. "Let's get one of these", Grațiela was saying, happy that
+she found something we could afford. When we looked more carefully we
+figured out what "HP" meant: "Head Piece". So not a dress. Oh, well,
+in the end we did find a very nice cream-white dress at Macy's, not
+technically a wedding gown, but it did the job.
 
 After the New Year's Day, 2001, Grațiela was due back to Toronto, for
 her doctoral research and also to get a proper dependent visa. She
@@ -207,7 +209,8 @@ November 1st."
 
 Grațiela came out right after, in a daze. It took us a bit of time to
 process the news: we were extremely happy, of course, even though we
-didn't "plan for it". What that meant, though, was that our church wedding service had to be scheduled sooner than we were initially
+didn't "plan for it". What that meant, though, was that our church
+wedding service had to be scheduled sooner than we were initially
 thinking, and her cream-white dress from Macy's was going to be a
 little tight. No matter, though.
 
@@ -234,7 +237,8 @@ Park, and all the touristy places. One such Sunday in early September
 we went to visit the World Trade Center and took the South Tower
 elevator to the top floor and strolled on the terrace, taking in the
 view. The next Tuesday morning we woke up as usual, had breakfast, and
-I got in my car to go to my office in Hawthorne. I was about halfway there, when I turned on the radio; instead of the usual classical
+I got in my car to go to my office in Hawthorne. I was about halfway
+there, when I turned on the radio; instead of the usual classical
 music, though, all I could hear was a live report from the city, a
 terrible accident had just happened, the reporters were saying, a
 commercial plane had hit the North Tower. I continued driving to work.
