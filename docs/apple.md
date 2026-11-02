@@ -103,7 +103,7 @@ them was willing. At the time, my kids were also at home, doing their
 school work over Zoom meetings, and I was having trouble concentrating
 at home. So I went back to the office. I was the only one. The entire
 campus was completely empty. I really felt like that lone guy in the
-Passengers movie, before waking up Aurora from her hybernation pod. A
+Passengers movie, before waking up Aurora from her hibernation pod. A
 few more months passed, and one day another engineer showed up in the
 office. Her name was Franziska, she was a new hire in another team,
 and she had just moved from Germany. Naturally, we started spending
@@ -132,7 +132,7 @@ meeting I said:
 
 "Thank you for being supportive and allowing me to really spend some
 time figuring out what I want. When I read back the lists I sent you
-it became quite clar that I would rather be a software engineer than a
+it became quite clear that I would rather be a software engineer than a
 manager."
 
 "Well, you can, if that's what you want. You can step down and I can
