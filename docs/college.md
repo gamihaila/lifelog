@@ -127,7 +127,7 @@ would materialize in front of my eyes, I could interact with it,
 refine it, improve it, perfect it! Having instant feedback for my
 attempts was intoxicating, after struggling with a deck of punched
 cards and waiting to get the printout the next day from the computer
-lab operator. 
+lab operator.
 
 On the other hand, imagining the abstract mathematical objects of
 category theory and trying to build an intuition starting from
@@ -168,7 +168,6 @@ it seems to have played a big role in my career choices.
 
 I would only fully resolve this conflict some twenty years later, but
 let’s not jump ahead.
-
 
 [^1]: Virgil E. Cazanescu, George A. Mihaila. Partial flowchart
 schemes, In Studii si Cercetari Matematice, 43, 1-2, pp.11-23, 1991
