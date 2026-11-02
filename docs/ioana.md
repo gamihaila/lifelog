@@ -240,13 +240,13 @@ Spectrum, and I had it powered on in my bedroom, loaded with games
 clamoring around the computer, cheering for the players, who took
 turns to play.
 
-I was walking around the apartment, checking on the other guests.
-When I got to my sister's bedroom I saw there an old high school crush
-of mine, Anca: she was staring out the window, alone. Oh, how many
-times I had tried to sweet talk her on our bus rides home, without
-much luck. Anca was always laughing at my jokes, and was clearly aware
-I liked her, but she had never given me much attention. Not wanting
-her to feel left out, I went next to her by the window and started
+I was walking around the apartment, checking on the other guests. When
+I got to my sister's bedroom I saw there an old high school crush of
+mine, Anca: she was staring out the window, alone. Oh, how many times
+I had tried to sweet talk her on our bus rides home, without much
+luck. Anca was always laughing at my jokes, and was clearly aware I
+liked her, but she had never given me much attention. Not wanting her
+to feel left out, I went next to her by the window and started
 talking, asking her about her college, innocent chit-chat. She was
 much more friendly and open to me now, I was noticing. I would find
 out later that someone saw us together and told Ioana. At the time we
@@ -617,8 +617,9 @@ my research mentor, prof. Căzănescu who was also vacationing with his
 family in a nearby hotel. We had already published a paper together,
 and we were working on a second one at the time. So, we went to visit
 him in his very large hotel suite where he was staying with his wife
-and children. After his wife brought us coffees, he took Ioana aside and proceeded to give her a lecture about how she should support
-me in my research work, just how his own wife had been supporting him,
+and children. After his wife brought us coffees, he took Ioana aside
+and proceeded to give her a lecture about how she should support me in
+my research work, just how his own wife had been supporting him,
 exempting him from all domestic chores so he could dedicate his life
 to science. He was essentially asking her to make all the necessary
 sacrifices to ensure I have all the conditions to reach my full
