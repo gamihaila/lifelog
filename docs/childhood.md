@@ -31,8 +31,7 @@ separated from my parents' bedroom by a retractable glass wall. It
 also featured three balconies. It was situated on the third floor of a
 five-storey pre-war apartment building, with a large backyard where I
 was spending a lot of my free time climbing the apricot trees and
-eating the green apricots before they were ripe, or simply laying down
-in the tall grasses.
+eating the green apricots before they were ripe, or simply lying down in the tall grasses.
 
 I had a few friends from the neighboring houses, which were almost
 exclusively populated by Roma families. My sister was gently teasing
