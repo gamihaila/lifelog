@@ -62,7 +62,7 @@ said, “I am in a very similar spot with my girlfriend from Toronto”.
 So we started dating: we went to visit the Stanford University campus,
 walked around on University Avenue, spent time in the jacuzzi at my
 place in Mountain View. Meanwhile Lara was calling me almost every day
-and telling me about her twelve step meetings. “So”, she asked
+and telling me about her twelve-step meetings. “So”, she asked
 casually, “have you met anyone yet?”. “As a matter of fact, I did!”, I
 confessed, and told her about Oana. “Oh, so do you like her?”. “Well,
 I don’t know, it’s still early, but I don’t dislike her”, I said.
@@ -192,7 +192,7 @@ didn't know you're going to get a red convertible!"
 
 Oh, well, eventually she calmed down and we resumed our daily
 routines, which involved me trying to split my time between the two of
-them and take turn appeasing each of them. That was exhausting.
+them and take turns appeasing each of them. That was exhausting.
 
 In my heart I knew me and Cristina had no future together, but I
 couldn’t tell her that directly. But she understood. A few weeks later
