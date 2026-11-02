@@ -24,7 +24,7 @@ reminding her how she always answered “Yours!” for the past ten years.
 
 “I’m mine!”, Ioana replied this time. Not someone else’s, her own
 girl, standing on her own two feet. I was struck by her answer, but
-couldn’t help appreciate its truth. She was her own person, of course.
+couldn’t help but appreciate its truth. She was her own person, of course.
 Nobody owns anyone. She used to be mine by choice, all these years,
 and now she wasn’t. As simple as that! I couldn’t even be angry at
 her.
@@ -54,7 +54,7 @@ been hit by a truck. I was trying really hard not to cry; I was in
 some stranger’s house, they didn’t know anything. When I finally got
 home I got into bed and sobbed, crying myself to sleep.
 
-I awake the next day with a strange feeling: I was on my own, for the
+I awoke the next day with a strange feeling: I was on my own, for the
 first time in years. I went for a long walk downtown, and as I was
 wandering aimlessly I saw a poster for a David Copperfield magic show.
 That's when it hit me: I can just buy a ticket and go, on an impulse,
@@ -148,7 +148,7 @@ things straight with the Romanian authorities too. You see, even
 though we were already divorced in Canada, it turns out that in
 Romania we were still legally married. I suppose we could have applied
 to get our Canadian divorce papers translated and notarized in
-Romania, but that was a lengthly process. The easiest way, by far, was
+Romania, but that was a lengthy process. The easiest way, by far, was
 to file for divorce with the Bucharest Family Court, especially since
 our marriage was registered there. So we went in front of a judge for
 a preliminary hearing. I remember we were very civil to each other, to
