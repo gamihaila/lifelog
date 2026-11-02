@@ -286,12 +286,12 @@ though we were working as fast as we could, we still had some
 unexplained crashes which were hard to reproduce.
 
 I remember one of the older engineers, a guy named Ron, whose wife
-left him and was now sharig the custody of a young daughter, was
-particularily stressed out. Our manager, Rick, send me on several
+left him and was now sharing the custody of a young daughter, was
+particularly stressed out. Our manager, Rick, sent me on several
 occasions to his desk to do a joint debugging session with him so we
 got pretty close. He shared an apparently trivial complication which
 was very real for his new status: whenever he was out and about with
-his daughter, which was about five year old at the time, and she
+his daughter, which was about five years old at the time, and she
 needed to go to the bathroom he was faced with an impossible choice:
 either let her go by herself to the ladies' room (which he didn't feel
 she was old enough to be left alone), or take her with him to the
@@ -302,15 +302,15 @@ for a young girl by themselves.
 
 Regardless of our readiness, the time for our product delivery came
 anyway. It was such an important customer that the entire team had to
-go set it up: our manager Rick, Ron, another younger guy Todd, and
-me. We all got on a plane and had our desktop computers delivered by
+go set it up: our manager Rick, Ron, another younger guy Todd, and me.
+We all got on a plane and had our desktop computers delivered by
 courier to the customer's engineering building. We each had a hotel
 room to ourselves, which I found pretty generous of our employer.
 Knowing this I asked Ioana to come with me, but she couldn't, because
-she had some exams that week. So the next morning I all got to the
+she had some exams that week. So the next morning we all got to the
 customer's office, set up our desktop computers on their network and
 got to work, frantically racing to fix the last issues before the
-scheduled customer demo. Unfortunatelly, while we were showing off our
+scheduled customer demo. Unfortunately, while we were showing off our
 system to their Director of Engineering, a fierce woman, the system
 predictably glitched right in front of her. She made a disgusted face
 and told Rick she's not signing for delivery until this is resolved.
@@ -322,9 +322,9 @@ else had left for the day, it was dark out already, and we were all
 hungry and tired. It was then when I told Rick:
 
 "Listen, at this point whatever new code we're going to write in this
-state is most likely wrong; we're just making the code more
-unstable. I'd say we call it a day and come back early in the
-morning, rested and with a fresh set of eyes."
+state is most likely wrong; we're just making the code more unstable.
+I'd say we call it a day and come back early in the morning, rested
+and with a fresh set of eyes."
 
 "Alright, George, let's have it your way. But if it fails again
 tomorrow, you explain it to the customer.", said Rick.
@@ -335,13 +335,13 @@ restaurant and then went to our hotel rooms.
 Once I got back to my room I called Ioana to tell her about our
 adventures.
 
-"Listen", she interrupted me, "I received a e-mail message from Prof. 
-Cǎzǎnescu who wanted to ask you what to do with your post, since your
+"Listen", she interrupted me, "I received an e-mail message from Prof.
+Căzănescu who wanted to ask you what to do with your post, since your
 one year leave of absence is ending soon. He is asking if we're
 planning to come back or not, so he knows whether to open up the
 position to potential candidates."
 
-"Oh, right, well, we're not going back anymore. Please anwer him and
+"Oh, right, well, we're not going back anymore. Please answer him and
 apologize on my behalf for not letting him know sooner.", I said. I
 had all but forgotten about it, I realized, in all the agitation at
 work. I had kept this option open because up until recently we weren't
@@ -367,7 +367,7 @@ our van, as we passed the gate. Rick reassured us that the workers
 couldn't possibly have any idea what we were carrying in our van, and
 in any case, we were not breaking any union contract ourselves, we
 were only suppliers. I had an uneasy feeling the entire time and was
-happy to get out of there was soon as we finished setting up our
+happy to get out of there as soon as we finished setting up our
 system. "So the union actions our Party leaders were telling us about
 back in Romania were actually a real thing, not just communist
 propaganda?", I remember thinking, with a new understanding that the
