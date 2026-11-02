@@ -302,8 +302,8 @@ for a young girl by themselves.
 
 Regardless of our readiness, the time for our product delivery came
 anyway. It was such an important customer that the entire team had to
-go set it up: our manager Rick, Ron, another younger guy Todd, and
-me. We all got on a plane and had our desktop computers delivered by
+go set it up: our manager Rick, Ron, another younger guy Todd, and me.
+We all got on a plane and had our desktop computers delivered by
 courier to the customer's engineering building. We each had a hotel
 room to ourselves, which I found pretty generous of our employer.
 Knowing this I asked Ioana to come with me, but she couldn't, because
@@ -322,9 +322,9 @@ else had left for the day, it was dark out already, and we were all
 hungry and tired. It was then when I told Rick:
 
 "Listen, at this point whatever new code we're going to write in this
-state is most likely wrong; we're just making the code more
-unstable. I'd say we call it a day and come back early in the
-morning, rested and with a fresh set of eyes."
+state is most likely wrong; we're just making the code more unstable.
+I'd say we call it a day and come back early in the morning, rested
+and with a fresh set of eyes."
 
 "Alright, George, let's have it your way. But if it fails again
 tomorrow, you explain it to the customer.", said Rick.
@@ -335,7 +335,7 @@ restaurant and then went to our hotel rooms.
 Once I got back to my room I called Ioana to tell her about our
 adventures.
 
-"Listen", she interrupted me, "I received an e-mail message from Prof. 
+"Listen", she interrupted me, "I received an e-mail message from Prof.
 Căzănescu who wanted to ask you what to do with your post, since your
 one year leave of absence is ending soon. He is asking if we're
 planning to come back or not, so he knows whether to open up the
