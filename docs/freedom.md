@@ -1,5 +1,5 @@
 Now that the revolution was over, the country was beginning a dramatic
-transition to market economy. In the days that followed, the city
+transition to a market economy. In the days that followed, the city
 slowly came back to life, but it was a different city now, operating
 by different rules that nobody had quite figured out yet. The first
 private shops appeared almost overnight, and they would only accept

@@ -27,7 +27,7 @@ costs). Luckily, the letter indicated that the organizers were
 offering to cover the tuition fees which included room and board, I
 just was expected to pay for the travel. That was more manageable,
 especially if I took the train. So, with some help from my parents, I
-bought a train ticket to Munich, with a few hours stop over in Vienna.
+bought a train ticket to Munich, with a few hours stopover in Vienna.
 This would be my very first trip outside of the Eastern Bloc. The only
 other time when I traveled abroad was on a family trip to Bulgaria, in
 1986.
