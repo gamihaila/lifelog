@@ -37,7 +37,7 @@ thesis.
 
 Meanwhile, Ioana was working with prof. Allan Borodin on a Simulated
 Annealing algorithm for graph coloring, distantly related to Ramsey
-theory. The way she explained to me was this: suppose you were a
+theory. The way she explained it to me was this: suppose you were a
 middle-school teacher for an all-girls school preparing a field trip,
 and you needed to arrange the girls in rows so that no two girls in a
 row know each other, to avoid drama. Interestingly, this has many
