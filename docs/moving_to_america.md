@@ -182,7 +182,7 @@ figured out what "HP" meant: "Head Piece". So not a dress. Oh, well,
 in the end we did find a very nice cream-white dress at Macy's, not
 technically a wedding gown, but it did the job.
 
-After the New Year's Day, 2001, Grațiela was due back to Toronto, for
+After New Year's Day, 2001, Grațiela was due back to Toronto, for
 her doctoral research and also to get a proper dependent visa. She
 only stayed a couple weeks there and came back, after arranging with
 her thesis advisor that she will continue working remotely and meet
