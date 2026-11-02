@@ -70,7 +70,7 @@ Romanian-sounding last name and the apartment number. It was a girl
 named Cristina.
 
 The next day I took the train to Versailles and I showed up at the
-gate of the INRIA campus in Roquencourt. The doorman took my name and
+gate of the INRIA campus in Rocquencourt. The doorman took my name and
 the name of my host, made a phone call, and let me in, showing me the
 building where my host worked. I got placed in a shared office with
 another visiting researcher, prof. Louiqa Raschid from the University
@@ -193,7 +193,7 @@ by any chance. She hadn't. However, thanks to the Minitel again, the
 concierge was able to find her new phone number for me.
 
 I called her and left a message on her answering machine. A few days
-later she came to the Cite Universitaire and we met again. She was in
+later she came to the Cité Universitaire and we met again. She was in
 a good mood, telling me about this French guy she was now dating, how
 he has a private plane and was flying her all over France. I was over
 her by now, but was happy to see her again.
@@ -203,7 +203,7 @@ exchange programs for the summer, and I was more than happy to act as
 their chaperon on their visits to the Eiffel Tower, the Sacré-Cœur
 Basilica, the Latin Quarter, and even the Versailles castle and
 gardens. I had figured out an infallible system: whenever I would go
-for dinner at the Cite Universitaire cafeteria (which had great food
+for dinner at the Cité Universitaire cafeteria (which had great food
 at subsidized prices, by the way), I would find a table with two or
 three girls sitting by themselves, and ask them in English if I could
 join them. I figured out pretty quickly that they were much more open
@@ -217,7 +217,7 @@ on the street. It was a win-win situation!
 At INRIA too, there were several pretty girls in our research group
 and they would always go on long walks around the woods surrounding
 the campus and invite me along, either one on one or in larger groups.
-Once a week we would all go to the municipal pool in Roquencourt. One
+Once a week we would all go to the municipal pool in Rocquencourt. One
 time, the whole group went on an official offsite at the Château de
 Chamerolles in the Loire Valley! After a morning full of research
 presentations we spent the rest of the day in the gardens, lying on
@@ -266,7 +266,7 @@ the oyster restaurant Leon de Bruxelles. She was a nice girl, very
 friendly and warm, but I wasn't attracted to her, physically. This was
 a pity, because we really had connected over the phone and I could
 tell she was interested. After our meal she insisted on coming over to
-see my room at the Cite Universitaire, and once there she mentioned
+see my room at the Cité Universitaire, and once there she mentioned
 casually that the French have this expectation that if a woman lets a
 guy pay for dinner this means that she is willing to sleep with him.
 "Well, I'm not French", I said, and that settled it.
@@ -275,7 +275,7 @@ guy pay for dinner this means that she is willing to sleep with him.
 
 [^2]: "Ah, one of our residents is from Romania too."
 
-[^3]: La Cantatrice Chauve, by Eugene Ionesco, playing at the Théâtre
+[^3]: La Cantatrice Chauve, by Eugène Ionesco, playing at the Théâtre
 de la Huchette since 1957.
 
 [^4]: About Time, 2013

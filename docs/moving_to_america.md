@@ -127,7 +127,7 @@ I took his written offer and told him I'll give him an answer soon.
 
 After the Crossgain interview I still had a day before the Nimble
 interview and I decided to drive to Vancouver for the day. Once there
-I took the ferry to Victoria Island. It was a great trip, but I got
+I took the ferry to Vancouver Island. It was a great trip, but I got
 back to Seattle after midnight. I was wiped the next day at the
 interview, which may explain why I didn't get any offer from Nimble.
 
