@@ -22,9 +22,9 @@ now on the way to owning their places. A black market immediately
 emerged: the state-owned apartment swap exchange. Let me explain: you
 see, now that these apartments could be bought for cheap from the
 state, they immediately became a hot commodity. Lower income people
-living in large, desirable apartments were interested in swapping
-them with smaller places, for an under-the-table payment roughly equal
-to the difference in market value between the apartments. Apartment
+living in large, desirable apartments were interested in swapping them
+with smaller places, for an under-the-table payment roughly equal to
+the difference in market value between the apartments. Apartment
 swapping was legal as long as both parties agreed. Hearing about this,
 Ioana and I started looking for available units in nicer areas. We
 eventually found a nice three-bedroom apartment and we went to a
@@ -97,7 +97,8 @@ We ruled out Australia (too far) and South Africa (too many problems).
 We even thought about Venezuela at some point, but dismissed it pretty
 quickly since we didn't speak Spanish.
 
-After asking around some more, we heard that Canada had a well-established immigration system, one that uses an objective point
+After asking around some more, we heard that Canada had a
+well-established immigration system, one that uses an objective point
 system to determine eligibility: this many points for speaking English
 and French (check, check), this many points for university diploma
 (check), this many points for years of work experience (check), and so
