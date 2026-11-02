@@ -66,7 +66,7 @@ After this first date, we started seeing each other regularly, and
 talking every day on the phone. Naturally, I told Lara about it.
 First, she didn’t really pay much attention to this, it wasn’t the
 first time I had told her I met someone else. When she understood that
-I was being serious, she adopted her tried and true sabotage
+I was being serious, she adopted her tried-and-true sabotage
 techniques, and was stunned that they had no effect on Grațiela. You
 see, Grațiela was already fully aware of the nature of my relationship
 with Lara. It was as if she had been inoculated and was now immune to
