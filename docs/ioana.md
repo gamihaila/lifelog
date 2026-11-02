@@ -80,8 +80,9 @@ dorm, listen to Alphaville's "Forever Young" on repeat, and just hang
 out, our bond getting stronger every day, despite or rather because of
 all the hardships of communal farm living. In the mornings, one of the
 few performative politically-aligned professors, would wake us up with
-his portable radio blasting the Radio Romania One news on the harvest's wonderful accomplishments as well as the straggler counties, ours
-being one of the latter.
+his portable radio blasting the Radio Romania One news on the
+harvest's wonderful accomplishments as well as the straggler counties,
+ours being one of the latter.
 
 Eventually, the grape harvesting camp came to an end and we got back
 to Bucharest. I remember clearly that even though we had some
