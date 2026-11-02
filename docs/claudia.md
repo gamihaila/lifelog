@@ -15,11 +15,11 @@ either at their place, or after we got married, at our place which was
 still walking distance from Ioana's childhood home. We were all good
 friends, talking for hours, playing Monopoly, watching the Soccer
 World Cup, and just enjoying each other's company. I had received a
-German Monopoly version from my sister's mother in law (the one I had
+German Monopoly version from my sister's mother-in-law (the one I had
 visited in Munich), and even though none of us spoke any German, we
 figured out enough of it with a dictionary to be able to play the
 game. Over time, we were recognizing the cards by sight. I remember
-Ioana and Claudia got so vested into this game that after a
+Ioana and Claudia got so invested in this game that after a
 particularly competitive round, they stopped talking to each other for
 a couple of weeks. Luckily, they didn't hold the grudge and all four
 of us got back together after a month or so.
@@ -54,7 +54,7 @@ Everybody had already left from the beach, while we were all combing
 the sand with our hands, literally looking for the needle in the
 haystack. We had all but lost all hope when, after a last
 absent-minded hand sweep through the sand next to her, Claudia
-actually found them: they have been there all along, while we were
+actually found them: they had been there all along, while we were
 looking everywhere else![^1]
 
 Being around Claudia always brought with it an element of excitement
@@ -117,8 +117,7 @@ happier time, a simpler time, before leaving everything behind only to
 end up alone in a foreign country. I was going through some difficult
 times in Toronto at the time, to the point that I was seriously asking
 myself what was the point of emigrating in the first place, maybe I
-would be better off returning. As Claudia was working for a head
-hunter agency at the time, I asked her for advice: would I be able to
+would be better off returning. As Claudia was working for a headhunter agency at the time, I asked her for advice: would I be able to
 find work if I came back? To my surprise her answer was a definite no:
 
 "George, there is nothing here for you. Sure, there are plenty of
@@ -182,7 +181,7 @@ dinner at a nice outdoor terrace by the lake, and then we rented a
 rowboat and I took her on a lovely boat ride under the willow branches
 perched over the lake. After we got back on land, she took my hand and
 we walked like that for a long time. I was so happy I was afraid it
-was all a dream, one that I didn't ever wanted to wake up from.
+was all a dream, one that I didn't ever want to wake up from.
 
 Eventually, we went back to her apartment and she invited me in.
 Everything had been so wonderful, I couldn't believe it.
@@ -211,8 +210,7 @@ I did continue to visit her after that, and we had many more beautiful
 moments together, but the boundary was always there, and I never
 pushed it.
 
-We remained friends to this day. In fact, we just had an hours long
-phone conversation as I was working on this chapter, and trying to put
+We remained friends to this day. In fact, we just had an hours-long phone conversation as I was working on this chapter, and trying to put
 some order into my memories. I had initially shared an early draft
 with her by email and she replied with an audio recording attached,
 explaining to me that she finds it tiresome to write and prefers to
