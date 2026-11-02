@@ -8,14 +8,14 @@ After Google, it was a bit of a shock to have to build software
 without any of the technologies I had come to depend on. But the
 hardest change for me was no longer being able to see my code running
 at scale, in a production environment. This being a research lab, all
-the code we wrote were of the proof-of-concept variety, which is a
-very different animal. Still, the projects were interesting: for a
-starter project I got to build a query language compiler and execution
-engine for a system that extracted entities from text; then I worked
-on a text classifier for a real estate application, a chatbot
-assisting a hotel concierge with typical questions from guests, and
-another one for ranking restaurants, hotels and tourist attractions on
-subjective criteria.
+the code we wrote was of the proof-of-concept variety, which is a very
+different animal. Still, the projects were interesting: for a starter
+project I got to build a query language compiler and execution engine
+for a system that extracted entities from text; then I worked on a
+text classifier for a real estate application, a chatbot assisting a
+hotel concierge with typical questions from guests, and another one
+for ranking restaurants, hotels and tourist attractions on subjective
+criteria.
 
 A few months into my new job, Alon mentioned that the lab was going to
 get a new name: they had involved an external company specialized in
@@ -52,21 +52,21 @@ including Maria, and had a great time.
 Pretty soon after we came back from Brazil I realized that one of the
 major initiatives was developing a chatbot aiming to apply positive
 psychology techniques to improve wellbeing. Alon's vision was to build
-a chatbot that learned about you and gently nudges to do more
-activities that are known to make you happier: excercise, socialize,
+a chatbot that learned about you and gently nudges you to do more
+activities that are known to make you happier: exercise, socialize,
 get involved in your community, eat healthy, spend time in nature,
 etc. Back in 2016, years before ChatGPT, this was a very ambitious
 goal, and we just didn't have the critical mass to pull it off.
 
-The chatbot user interface and backend was being outsourced to
+The chatbot user interface and backend were being outsourced to
 contractors overseas, while the researchers onsite were focusing on
 the natural language understanding component. Both were advancing
 quite slowly at the time. I remember we were having a team lunch and I
 couldn't keep quiet anymore and I said:
 
-"The overseas developers are moving at a snail-pace, they deliver low
-quality code, badly designed and buggy, and at this pace, we'll never
-have a chatbot ready to release."
+"The overseas developers are moving at a snail's pace, they deliver
+low quality code, badly designed and buggy, and at this pace, we'll
+never have a chatbot ready to release."
 
 Everybody got quiet: they were all aware of this, but nobody dared to
 put it so bluntly. I was new to the team, and I didn't know the full
@@ -80,7 +80,7 @@ someone to help me build the iPhone app; and that person would need to
 work here, on-site, side by side with me", I said.
 
 "Very well", Alon said, "we'll hire an iOS developer onsite and ditch
-the contractors. You have six months to build everyting, can you do
+the contractors. You have six months to build everything, can you do
 it?"
 
 "Definitely!", I replied, even though I only had a high-level idea of
