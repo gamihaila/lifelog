@@ -220,7 +220,8 @@ the campus and invite me along, either one on one or in larger groups.
 Once a week we would all go to the municipal pool in Roquencourt. One
 time, the whole group went on an official offsite at the Château de
 Chamerolles in the Loire Valley! After a morning full of research
-presentations we spent the rest of the day in the gardens, lying on the grass, and just enjoying each other's company; it was the best
+presentations we spent the rest of the day in the gardens, lying on
+the grass, and just enjoying each other's company; it was the best
 offsite I ever had!
 
 I was sharing an office with two American visiting researchers:
@@ -234,7 +235,7 @@ research. I say sort of because she was not officially a member of my
 PhD committee. Regardless, she invited me to the University of
 Maryland several times after that summer and I got to meet her other
 students, among whom Maria-Esther from Brazil and Vladimir from
-Russia. All due to the invitation from Dana! 
+Russia. All due to the invitation from Dana!
 
 During my stay I also had the opportunity to learn some of the
 subtleties of the French language, the hard way. First one: I told one
@@ -252,10 +253,10 @@ At some point during my second summer in Paris I received an unusual
 email from Ioana's father: he was writing to me to offer to set me up
 with a Romanian medical school graduate who was continuing her studies
 in Paris! Imagine that, my ex-father-in-law felt bad for me for his
-daughter's behavior and he wanted to make it up to me, in his own
-way. I wasn't too thrilled by the idea of blind dates (never was a
-fan), but I agreed, reluctantly. Turns out her name was also Cristina
-and she actually knew my Cristina, they were enrolled in the same
+daughter's behavior and he wanted to make it up to me, in his own way.
+I wasn't too thrilled by the idea of blind dates (never was a fan),
+but I agreed, reluctantly. Turns out her name was also Cristina and
+she actually knew my Cristina, they were enrolled in the same
 post-graduate program. She was specializing in psychology, and I have
 to say, was a good conversationalist (it was her specialty, after
 all). We spoke at length on the phone a few times, she asked me about
@@ -266,19 +267,19 @@ friendly and warm, but I wasn't attracted to her, physically. This was
 a pity, because we really had connected over the phone and I could
 tell she was interested. After our meal she insisted on coming over to
 see my room at the Cite Universitaire, and once there she mentioned
-casually that the French have this expectation that if a woman lets
-a guy pay for dinner this means that she is willing to sleep with
-him. "Well, I'm not French", I said, and that settled it. 
+casually that the French have this expectation that if a woman lets a
+guy pay for dinner this means that she is willing to sleep with him.
+"Well, I'm not French", I said, and that settled it.
 
 [^1]: "Oh, wow, your girlfriend is really pretty!"
 
 [^2]: "Ah, one of our residents is from Romania too."
 
-[^3]: La Cantatrice Chauve, by Eugene Ionesco, playing at the
-Théâtre de la Huchette since 1957.
+[^3]: La Cantatrice Chauve, by Eugene Ionesco, playing at the Théâtre
+de la Huchette since 1957.
 
 [^4]: About Time, 2013
 
-[^5]: "Oh, but I like you too, George!" ("like", not "love").
-"I'm looking for my next wife". "You mean to say: I'm looking
-for my future wife, not my next wife!"
+[^5]: "Oh, but I like you too, George!" ("like", not "love"). "I'm
+looking for my next wife". "You mean to say: I'm looking for my future
+wife, not my next wife!"
