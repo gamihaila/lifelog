@@ -1,7 +1,8 @@
 Grațiela's mom stayed with us and helped with the baby for the first
 six months but then had to go back home as her visa was expiring. Once
-her mom left, Grațiela got so overwhelmed with everything that she was seriously considering dropping out of her PhD program. I encouraged her
-to take a year leave of absence instead, and she did.
+her mom left, Grațiela got so overwhelmed with everything that she was
+seriously considering dropping out of her PhD program. I encouraged
+her to take a year leave of absence instead, and she did.
 
 At the office I was busy with trying to add XML query capabilities to
 IBM's DB2 database engine, working with another fresh PhD graduate,
@@ -102,8 +103,9 @@ to generate a professional patent application.
 Once the application was submitted to the patent office we were free
 to pursue publication. Getting the paper published was a much harder
 process, involving submitting it to a conference or journal, waiting
-for the reviewers' responses, responding to them, and then waiting some more (months) for a decision. Most of our papers were rejected, at
-least on the first attempt; we would then revise them, address
+for the reviewers' responses, responding to them, and then waiting
+some more (months) for a decision. Most of our papers were rejected,
+at least on the first attempt; we would then revise them, address
 reviewer concerns, and send back either to the original venue or a
 different one.
 
