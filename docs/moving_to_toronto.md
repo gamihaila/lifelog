@@ -101,7 +101,8 @@ though, why haven’t I helped her on the test so we could go together?
 So, week after week I went to class and left her home, and she did the
 same for her classes. Unbeknownst to me at the time, while I was away
 for class she was spending more and more time with one of our
-neighbors, a Romanian guy our age called Jan. Jan had arrived in Canada a year before us, and although he had an aerospace engineering
+neighbors, a Romanian guy our age called Jan. Jan had arrived in
+Canada a year before us, and although he had an aerospace engineering
 degree, was not able to find a job yet. He was however on government
 assistance, because that was the norm when he arrived, even though now
 that program was no longer automatic for all newcomers. By limiting
@@ -218,7 +219,8 @@ the security deposit, and for the first two months, but at the
 beginning of the third month, we only had a couple hundred dollars
 left. It was very embarrassing, I was going to work in the morning and
 avoiding the superintendent for a few days. Eventually he came
-knocking on our door. I explained that my salary was going to come in a few weeks’ time, but he said that the owner needs the money on time
+knocking on our door. I explained that my salary was going to come in
+a few weeks’ time, but he said that the owner needs the money on time
 and he had collected it from the other tenants already, and he was
 just waiting on us. We had to do something. So I went to the Social
 Insurance Office and explained our situation to a social worker. She
@@ -258,7 +260,8 @@ so much from the pain as from the horror at being left with permanent
 scars on her face. Thankfully, with a lot of care to stay out of the
 sun for the next year the scars disappeared completely, but at the
 time she was miserable. As this was the second burning incident in the
-same house in the span of six months, the police conducted an investigation, interrogating the neighbors about possible foul play:
+same house in the span of six months, the police conducted an
+investigation, interrogating the neighbors about possible foul play:
 what if our neighbor actually wanted to get rid of her baby boy
 because she couldn’t feed it (they were unemployed too, just like
 everybody else in that house). In the end, of course, they concluded
