@@ -99,7 +99,7 @@ illegal migrants who were getting in trouble with the law. We had
 experienced this first-hand a couple of years earlier, when we were
 vacationing in Paris and we got approached by a well-meaning French
 old lady as we were getting out of the Place Pigalle Metro station:
-"Faites attention aux pickpockets Roumains, il sont partout!". We
+"Faites attention aux pickpockets Roumains, ils sont partout!". We
 looked her in the eyes and said: "Mais nous sommes Roumains aussi!".
 She stared at us in disbelief: "Non, avec ces yeux clairs?"[^1] Well,
 it's true that right after that we identified a Roma young boy who was
