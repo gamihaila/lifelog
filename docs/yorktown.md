@@ -53,7 +53,7 @@ our growing family. We couldn't afford any of the Southern Westchester
 towns, not even White Plains, so we had to look further away. We
 narrowed our search around Yorktown Heights, the home of IBM
 Research's main campus (my office was in a satellite building, in
-Hawthorne). We ended up buying a four bedroom house in Yorktown, not
+Hawthorne). We ended up buying a four-bedroom house in Yorktown, not
 too far from the "downtown area". The quotes are needed, because
 outside of a single Starbucks and a few department and grocery stores,
 there wasn't much of a downtown. However, we had a backyard where our
@@ -86,7 +86,7 @@ committee that would decide whether the idea was novel enough to
 submit a patent application. Most of the ideas were novel enough,
 because otherwise they wouldn't have been publishable in the first
 place. After preparing enough of these disclosures for my own work, my
-second line manager nominated me to join the evaluation committee. I
+second-line manager nominated me to join the evaluation committee. I
 learned a lot about the work going on in other research groups by
 listening to their presentations and helping them tease out the novel
 parts and think about their discoverability (how would we design a
@@ -115,7 +115,7 @@ over the years I presented my papers in places like Hong Kong,
 Bangalore, Honolulu, Santa Barbara, and other large cities. For most
 of those I had Grațiela come with me, sometimes with the kids too.
 This was the best part of the job, almost justifying the dreariness of
-all the years spent working in that window-less, fluorescent lit,
+all the years spent working in that window-less, fluorescent-lit,
 depressing office, craving a real-world impact that just didn't seem
 to materialize. Almost worth it, but not really, at least not for me.
 

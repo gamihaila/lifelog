@@ -9,7 +9,7 @@ following morning. I remember we were quite impressed: even though
 Poland was part of the former Eastern Bloc, it looked nothing like our
 country. The buildings and highways were modern, and a lot of the
 shops and restaurants had well-known Western names. We saw a large,
-elegant McDonalds downtown. The old city architecture was impressive,
+elegant McDonald’s downtown. The old city architecture was impressive,
 and everything was so clean and civilized!
 
 We got back to our hotel late that evening. That’s when it hit me: I
@@ -55,7 +55,7 @@ to all the Canadian government services, including free health care.
 
 As soon as we stepped out of the international area of the airport, we
 saw our Romanian acquaintance waiting for us with our name written on
-a hand made sign. He took us to his car, and drove us to the city. We
+a handmade sign. He took us to his car, and drove us to the city. We
 were eagerly taking in the scenery. The way from the airport wasn’t
 especially impressive, he took us through some rather run-down areas,
 and we waited quite a bit in traffic, staring at the billboards that
@@ -80,7 +80,7 @@ going to be there to sleep, right?
 It was the middle of the coldest winter of the decade. Aside from the
 weather, the job market was equally frozen at the time. Immigrants who
 had arrived there one or two years before me were still looking for
-jobs. I made the rounds at all the major head hunter agencies, handing
+jobs. I made the rounds at all the major headhunter agencies, handing
 in my resume and talking to recruiters about potential opportunities.
 Everybody was asking for “Canadian experience”. How was I supposed to
 have any, I had just arrived!
@@ -101,7 +101,7 @@ though, why haven’t I helped her on the test so we could go together?
 So, week after week I went to class and left her home, and she did the
 same for her classes. Unbeknownst to me at the time, while I was away
 for class she was spending more and more time with one of our
-neighbors, a Romanian guy our age called Jan. Jan had arrived to
+neighbors, a Romanian guy our age called Jan. Jan had arrived in
 Canada a year before us, and although he had an aerospace engineering
 degree, was not able to find a job yet. He was however on government
 assistance, because that was the norm when he arrived, even though now
@@ -173,7 +173,7 @@ of Toronto. Meanwhile, though, our money was running out, and we still
 had no source of income. We were starting to get worried: how were we
 going to make ends meet? I started cold-calling companies from the
 Yellow Pages: nobody seemed to have any job openings. I also started
-visiting head hunter agencies, they at least were willing to meet with
+visiting headhunter agencies, they at least were willing to meet with
 me and take my resume. One such agency sent me to a screening
 interview at a software company, I forgot which one. I dressed up
 nicely and went there. To my surprise, they didn’t ask me any
@@ -186,7 +186,7 @@ talk about baseball all the time around the office.” That’s
 unfortunate, I was thinking, was this what was standing between me and
 a job? Oh, well, I would probably not enjoy working there either.
 
-Eventually, after two months of cold calling and head hunter
+Eventually, after two months of cold calling and headhunter
 appointments, one of these agencies finally got me a job interview. It
 was for a Windows programmer position at an industrial equipment
 supplier company called Ahearn & Soper. Armed with my Master’s diploma
@@ -220,7 +220,7 @@ beginning of the third month, we only had a couple hundred dollars
 left. It was very embarrassing, I was going to work in the morning and
 avoiding the superintendent for a few days. Eventually he came
 knocking on our door. I explained that my salary was going to come in
-a few weeks time, but he said that the owner needs the money on time
+a few weeks’ time, but he said that the owner needs the money on time
 and he had collected it from the other tenants already, and he was
 just waiting on us. We had to do something. So I went to the Social
 Insurance Office and explained our situation to a social worker. She
@@ -234,7 +234,7 @@ work, which was an hour away by public transport. Ioana would stay
 home and continue going to the ESL classes at the Welcome House a few
 times a week, and the rest of the time she would spend with Jan and
 our other unemployed Romanian neighbors. One of these families, the
-ones who waited for us at the airport in fact, had a four year old son
+ones who waited for us at the airport in fact, had a four-year-old son
 which had suffered from an unfortunate accident when his mom dropped a
 pot of boiling water and he happened to be playing underneath. He was
 rushed to the ER and came back in bandages all over his tiny body.
@@ -260,7 +260,7 @@ so much from the pain as from the horror at being left with permanent
 scars on her face. Thankfully, with a lot of care to stay out of the
 sun for the next year the scars disappeared completely, but at the
 time she was miserable. As this was the second burning incident in the
-same house in the span of six months, the police made an
+same house in the span of six months, the police conducted an
 investigation, interrogating the neighbors about possible foul play:
 what if our neighbor actually wanted to get rid of her baby boy
 because she couldn’t feed it (they were unemployed too, just like

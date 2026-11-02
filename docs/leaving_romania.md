@@ -9,7 +9,7 @@ different titles now, but they were largely the same people, and the
 state media they controlled made sure that any alternative was
 discredited before it could take root. It became clear that the
 trajectory was not going to change, not soon enough to matter for us.
-We had good jobs by Romanian standards and a paid off apartment.
+We had good jobs by Romanian standards and a paid-off apartment.
 However, our salaries were modest and the apartment was clearly too
 small to raise a family. We needed to look for something larger.
 
@@ -22,9 +22,9 @@ now on the way to owning their places. A black market immediately
 emerged: the state-owned apartment swap exchange. Let me explain: you
 see, now that these apartments could be bought for cheap from the
 state, they immediately became a hot commodity. Lower income people
-living in large, desirable apartments, were interested in swapping
-them with smaller places, for an under-the-table payment roughly equal
-to the difference in market value between the apartments. Apartment
+living in large, desirable apartments were interested in swapping them
+with smaller places, for an under-the-table payment roughly equal to
+the difference in market value between the apartments. Apartment
 swapping was legal as long as both parties agreed. Hearing about this,
 Ioana and I started looking for available units in nicer areas. We
 eventually found a nice three-bedroom apartment and we went to a
@@ -97,8 +97,8 @@ We ruled out Australia (too far) and South Africa (too many problems).
 We even thought about Venezuela at some point, but dismissed it pretty
 quickly since we didn't speak Spanish.
 
-After asking around some more, we heard that Canada had a well
-established immigration system, one that uses an objective point
+After asking around some more, we heard that Canada had a
+well-established immigration system, one that uses an objective point
 system to determine eligibility: this many points for speaking English
 and French (check, check), this many points for university diploma
 (check), this many points for years of work experience (check), and so
@@ -111,7 +111,7 @@ See, they were so hoping that now with the dictator out of the way,
 things were going to improve in Romania, and they wanted us to
 contribute to building a better country. We had similar views right
 after the Revolution, but had become disillusioned pretty quickly. The
-political landscape at the time was dominated with former Communist
+political landscape at the time was dominated by former Communist
 Party members, now re-branded as Social Democrats. When I raised this
 during a dinner party my Mom organized with a few of their friends,
 one of them told me, bluntly:
@@ -171,7 +171,7 @@ together.
 So of course, when she came home that night I showed her the letter.
 She was overjoyed! Not a trace of doubt in her mind that we needed to
 take this offer. I wasn’t so sure. After all, we were leaving stable
-careers, a paid off apartment, family and friends, and were jumping
+careers, a paid-off apartment, family and friends, and were jumping
 into the unknown. Outside of a family of friends of my in-laws who was
 going to wait for us at the airport and reserve a rental unit in their
 building for us, we had no acquaintances, and certainly no job

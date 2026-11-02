@@ -156,7 +156,7 @@ At first, I thought that was quite sketchy and I was afraid that the
 shadow payments will dry up eventually, but they kept coming, month
 after month, each month more than the previous one. They weren't large
 amounts, in absolute terms, on the order of a hundred dollars a month,
-but they were more dollars that I had ever seen in my life, and the
+but they were more dollars than I had ever seen in my life, and the
 exchange rate was insanely favorable, what with the national currency
 in free fall and all. We were living it up, very soon I was making
 more money than my parents combined.
@@ -282,7 +282,7 @@ credit cards was when we watched a pirated VHS copy of Trading Places
 at a friend's place! And even there, the impression we got was that
 these things could be revoked and your accounts frozen if your
 employer wanted to mess with you, for no reason at all other than
-turning you in a guinea pig for a silly bet dressed as "behavioural
+turning you into a guinea pig for a silly bet dressed as "behavioural
 science experiment". So we walked away from that movie with a deep
 distrust in banks. Now, this is not to say that nobody had any
 deposits, we did, but the only institution that was available was the

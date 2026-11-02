@@ -94,13 +94,13 @@ on the way to buy a large bouquet of flowers. I was nervous, but
 determined. I didn’t want to prolong the uncertainty any longer, and I
 thought (correctly) that I had nothing to lose by asking.
 
-So, I finally got to her door and ringed the bell. Jenny opened the
+So, I finally got to her door and rang the bell. Jenny opened the
 door, graciously accepted the flowers and invited me in.
 
 “Jenny, we have been friends for a few years now”, I started.
 
 “Yes, George, I know”, she said, smiling, clearly anticipating where I
-going with this.
+was going with this.
 
 “I wanted to ask you if by any chance our friendship could grow into
 something else”, I said, plainly.
@@ -122,7 +122,7 @@ had ever faced and I am grateful for it. It was certainly better than
 not asking her and living with the regret as I had done so many times
 in the past, during my college years.
 
-The next year continued in similar way, with Lara coming and going,
+The next year continued in a similar way, with Lara coming and going,
 but I was getting used to the idea of not getting too attached to her.
 I started attending the gatherings of the Romanian Students Club at
 the university, with the not so secret agenda of perhaps meeting

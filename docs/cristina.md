@@ -62,7 +62,7 @@ questions about where I'm from and what brings me to Paris. I was
 happy to practice my French with her and I mentioned that I'm
 originally from Romania.
 
-"Ah, oui? Une des nos résidentes viens du Roumanie aussi!"[^2]
+"Ah, oui? Une de nos résidentes vient de Roumanie aussi!"[^2]
 
 She didn't have to say anything more than that; the list of residents
 was posted outside her office. I quickly scanned it and found the only

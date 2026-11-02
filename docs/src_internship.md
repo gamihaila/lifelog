@@ -80,7 +80,7 @@ This wasn’t the first time Lara had marked her territory this way: a
 few months before I left Toronto, a Romanian friend of mine who was
 married to an Englishwoman had introduced me to one of his wife’s girl
 friends, a nurse who was visiting from London. We made plans to go
-together to the revolving restaurant on the top of Manulife Center,
+together to the revolving restaurant on the top of Manulife Centre,
 just next to our university’s graduate family housing where we were
 both staying. Lara and I were on one of our off periods at the time,
 so I stupidly mentioned to her about my evening plans. So, sure
