@@ -6,8 +6,7 @@ buildings, occasionally a burned car here and there, sometimes traces
 of blood on the sidewalks. It was like in a post-apocalyptic movie,
 only it was all too real. Ioana's former bedroom, in her parents'
 apartment, had a bullet hole in the window and a chipped wall next to
-her bed. That was the very bed we used to spend Sunday afternoons
-together not that long before. It was a chilling sight.
+her bed. That was the very bed we used to spend Sunday afternoons in together not that long before. It was a chilling sight.
 
 One morning, while Ioana and I were drinking our coffees in our new
 apartment, we heard our doorbell. We were not expecting anyone, so we
