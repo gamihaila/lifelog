@@ -23,7 +23,7 @@ started planning my trip.
 
 I remembered that back in 1999, during the SRC internship, I had
 participated in a brainstorming session for internet startup ideas. At
-the time, well before AirBnB, I came up with an idea of a website for
+the time, well before Airbnb, I came up with an idea of a website for
 vacation house swapping: suppose someone from New York wanted to visit
 Paris; they would post their preferred travel dates and details about
 their home on this website; then, the system would match them with
@@ -45,8 +45,8 @@ had to cancel because his kids' school rejected his request to pull
 the kids off for a whole month (in Switzerland, kids have short
 vacations throughout the year instead of an extended summer vacation).
 
-Oh well, the back-up option was AirBnB: after quite a bit of looking
-around on the site, I finally found a three bedroom apartment in
+Oh well, the back-up option was Airbnb: after quite a bit of looking
+around on the site, I finally found a three-bedroom apartment in
 Küsnacht, a little town on the East shore of Lake Zurich, not too far
 from the Google office. The owner was a retired American diplomat, who
 was spending his summer in the States, and he was offering his place
@@ -63,7 +63,7 @@ wasn't interested and Xenia was too young.
 
 Before Switzerland, we went to Bucharest, rented a car, and travelled
 all around Romania with our kids. We visited my sister in Bucharest,
-my cousins in Buzǎu and Brașov and my aunt in Viișoara, we went to
+my cousins in Buzău and Brașov and my aunt in Viișoara, we went to
 Sibiu and then to the Black Sea, where we rented a villa next to
 Ceaușescu's former seaside compound, in Neptun. Even though our kids
 aren't really fluent in Romanian, they understand it well enough and
@@ -99,7 +99,7 @@ illegal migrants who were getting in trouble with the law. We had
 experienced this first-hand a couple of years earlier, when we were
 vacationing in Paris and we got approached by a well-meaning French
 old lady as we were getting out of the Place Pigalle Metro station:
-"Faites attention aux pickpockets Roumains, il sont partout!". We
+"Faites attention aux pickpockets Roumains, ils sont partout!". We
 looked her in the eyes and said: "Mais nous sommes Roumains aussi!".
 She stared at us in disbelief: "Non, avec ces yeux clairs?"[^1] Well,
 it's true that right after that we identified a Roma young boy who was

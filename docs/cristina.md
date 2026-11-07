@@ -62,7 +62,7 @@ questions about where I'm from and what brings me to Paris. I was
 happy to practice my French with her and I mentioned that I'm
 originally from Romania.
 
-"Ah, oui? Une des nos résidentes viens du Roumanie aussi!"[^2]
+"Ah, oui? Une de nos résidentes vient de Roumanie aussi!"[^2]
 
 She didn't have to say anything more than that; the list of residents
 was posted outside her office. I quickly scanned it and found the only
@@ -70,10 +70,10 @@ Romanian-sounding last name and the apartment number. It was a girl
 named Cristina.
 
 The next day I took the train to Versailles and I showed up at the
-gate of the INRIA campus in Roquencourt. The doorman took my name and
+gate of the INRIA campus in Rocquencourt. The doorman took my name and
 the name of my host, made a phone call, and let me in, showing me the
 building where my host worked. I got placed in a shared office with
-another visiting researcher, prof. Louiqa Rashid from the University
+another visiting researcher, prof. Louiqa Raschid from the University
 of Maryland College Park. Together with the only other American on
 site, Anthony Tomasic, my official internship mentor, we started
 fleshing out a research topic for my internship.
@@ -186,14 +186,14 @@ we started, which had since become the main topic of my doctoral
 research: WebSemantics, a system of publishing, locating and querying
 Web-accessible data sources.
 
-Naturally, as soon as I arrived to the Résidence André Honnorat, I
+Naturally, as soon as I arrived at the Résidence André Honnorat, I
 looked for Cristina but she wasn't living there anymore. The concierge
 to the rescue: I asked her if Cristina had left a forwarding address
 by any chance. She hadn't. However, thanks to the Minitel again, the
 concierge was able to find her new phone number for me.
 
 I called her and left a message on her answering machine. A few days
-later she came to the Cite Universitaire and we met again. She was in
+later she came to the Cité Universitaire and we met again. She was in
 a good mood, telling me about this French guy she was now dating, how
 he has a private plane and was flying her all over France. I was over
 her by now, but was happy to see her again.
@@ -203,7 +203,7 @@ exchange programs for the summer, and I was more than happy to act as
 their chaperon on their visits to the Eiffel Tower, the Sacré-Cœur
 Basilica, the Latin Quarter, and even the Versailles castle and
 gardens. I had figured out an infallible system: whenever I would go
-for dinner at the Cite Universitaire cafeteria (which had great food
+for dinner at the Cité Universitaire cafeteria (which had great food
 at subsidized prices, by the way), I would find a table with two or
 three girls sitting by themselves, and ask them in English if I could
 join them. I figured out pretty quickly that they were much more open
@@ -217,10 +217,10 @@ on the street. It was a win-win situation!
 At INRIA too, there were several pretty girls in our research group
 and they would always go on long walks around the woods surrounding
 the campus and invite me along, either one on one or in larger groups.
-Once a week we would all go to the municipal pool in Roquencourt. One
+Once a week we would all go to the municipal pool in Rocquencourt. One
 time, the whole group went on an official offsite at the Château de
 Chamerolles in the Loire Valley! After a morning full of research
-presentations we spent the rest of the day in the gardens, laying on
+presentations we spent the rest of the day in the gardens, lying on
 the grass, and just enjoying each other's company; it was the best
 offsite I ever had!
 
@@ -232,10 +232,10 @@ me, had been given this name by her father, who had invented it just
 for her. After working together in INRIA, Louiqa included me on a
 research grant proposal and became a sort of co-advisor on my PhD
 research. I say sort of because she was not officially a member of my
-PdD committee. Regardless, she invited me to the University of
+PhD committee. Regardless, she invited me to the University of
 Maryland several times after that summer and I got to meet her other
-students, among which Maria-Esther from Brazil and Vladimir from
-Russia. All due to the invitation from Dana! 
+students, among whom Maria-Esther from Brazil and Vladimir from
+Russia. All due to the invitation from Dana!
 
 During my stay I also had the opportunity to learn some of the
 subtleties of the French language, the hard way. First one: I told one
@@ -253,11 +253,11 @@ At some point during my second summer in Paris I received an unusual
 email from Ioana's father: he was writing to me to offer to set me up
 with a Romanian medical school graduate who was continuing her studies
 in Paris! Imagine that, my ex-father-in-law felt bad for me for his
-daughter's behavior and he wanted to make it up to me, in his own
-way. I wasn't too thrilled by the idea of blind dates (never was a
-fan), but I agreed, reluctantly. Turns out her name was also Cristina
-and she actually knew my Cristina, they were enrolled in the same
-post-graduate program. She was specializing in pshychology, and I have
+daughter's behavior and he wanted to make it up to me, in his own way.
+I wasn't too thrilled by the idea of blind dates (never was a fan),
+but I agreed, reluctantly. Turns out her name was also Cristina and
+she actually knew my Cristina, they were enrolled in the same
+post-graduate program. She was specializing in psychology, and I have
 to say, was a good conversationalist (it was her specialty, after
 all). We spoke at length on the phone a few times, she asked me about
 my breakup, and managed to make me open up to her quite a bit. After a
@@ -266,20 +266,20 @@ the oyster restaurant Leon de Bruxelles. She was a nice girl, very
 friendly and warm, but I wasn't attracted to her, physically. This was
 a pity, because we really had connected over the phone and I could
 tell she was interested. After our meal she insisted on coming over to
-see my room at the Cite Universitaire, and once there she mentioned
-casually that the French have this expectation that if a woman lets
-a guy pay for dinner this means that she is willing to sleep with
-him. "Well, I'm not French", I said, and that settled it. 
+see my room at the Cité Universitaire, and once there she mentioned
+casually that the French have this expectation that if a woman lets a
+guy pay for dinner this means that she is willing to sleep with him.
+"Well, I'm not French", I said, and that settled it.
 
 [^1]: "Oh, wow, your girlfriend is really pretty!"
 
 [^2]: "Ah, one of our residents is from Romania too."
 
-[^3]: La Cantatrice Chauve, by Eugene Ionesco, playing at the
-Théâtre de la Huchette since 1957.
+[^3]: La Cantatrice Chauve, by Eugène Ionesco, playing at the Théâtre
+de la Huchette since 1957.
 
 [^4]: About Time, 2013
 
-[^5]: "Oh, but I like you too, George!" ("like", not "love").
-"I'm looking for my next wife". "You mean to say: I'm looking
-for my future wife, not my next wife!"
+[^5]: "Oh, but I like you too, George!" ("like", not "love"). "I'm
+looking for my next wife". "You mean to say: I'm looking for my future
+wife, not my next wife!"

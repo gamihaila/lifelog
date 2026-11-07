@@ -63,23 +63,23 @@ I did not feel bad about charging them. They were mostly from well-off
 families, already on track for Medical School or Law School.
 
 Every year we were taken off of regular classes for "volunteering",
-the quotes are needed because is was mandatory. The official term for
+the quotes are needed because it was mandatory. The official term for
 it was "patriotic labor". Some of it was working on a construction
-site, helping to clear contruction debris or move bricks. One of these
-sites was the new Bucharest Hotel which was being built right next to
-our high school building, on Calea Victoriei. In the fall periods we
-had to go help with the harvest, in one of the villages surrounding
-the capital. I remember one of these vividly, when we were picking
-corn in the Otopeni village, right next to the international airport.
-The corn was a black variety used for popcorn. Of course we all
-brought some home and made delicious popcorn. But the most interesting
-part was watching the planes take off and land right over our heads,
-at very low altitude. None of us had ever flown on a plane anywhere,
-much less to the far countries we knew these planes were coming from.
-"One day, I will be in a plane, going to a far land, too", I clearly
-remember thinking. That memory stayed with me after all these years,
-resurfacing every time I fly back to Bucharest Otopeni, looking down
-at the corn fields.
+site, helping to clear construction debris or move bricks. One of
+these sites was the new Bucharest Hotel which was being built right
+next to our high school building, on Calea Victoriei. In the fall
+periods we had to go help with the harvest, in one of the villages
+surrounding the capital. I remember one of these vividly, when we were
+picking corn in the Otopeni village, right next to the international
+airport. The corn was a black variety used for popcorn. Of course we
+all brought some home and made delicious popcorn. But the most
+interesting part was watching the planes take off and land right over
+our heads, at very low altitude. None of us had ever flown on a plane
+anywhere, much less to the far countries we knew these planes were
+coming from. "One day, I will be in a plane, going to a far land,
+too", I clearly remember thinking. That memory stayed with me after
+all these years, resurfacing every time I fly back to Bucharest
+Otopeni, looking down at the corn fields.
 
 The last year of high school came soon enough, and with it the looming
 university admissions exam. By now I was used to preparing for Math
@@ -105,36 +105,35 @@ Abstract Algebra! On top of that, my parents bought all the Ministry
 of Education official publications with the past twenty years
 university admission exams, and every Saturday and Sunday morning I
 would sit down at my desk with a clock for exactly three hours and
-work through one exam at the time, carefully writing each solution
-with formal explanations of my work in the format expected at the
-exam, simulating the exam conditions faithfully. No breaks, no
-distractions, no rushing through the easy problems, nothing. My tutor
-would then grade each of my complete exams paying extra attention to
-the format, guiding me through the proper conventions for math prose.
-Finally, in the last few months before the exam, the Math Department
-in the University of Bucharest was offering free exam preparation
-every Sunday morning, in a large amphitheater, led by the same
-university professors who were going to grade our written admission
-tests. I registered for those and attended regularly, never missing
-any. The professors would write typical exam problems on the huge
-blackboards and invite us to solve them in front of our peers, guiding
-us whenever we needed help and helping us polish the solutions. As an
-ambitious high school student, eager to prove myself, I volunteered to
-solve problems on the blackboard almost every time. It was wonderful!
+work through one exam at a time, carefully writing each solution with
+formal explanations of my work in the format expected at the exam,
+simulating the exam conditions faithfully. No breaks, no distractions,
+no rushing through the easy problems, nothing. My tutor would then
+grade each of my complete exams paying extra attention to the format,
+guiding me through the proper conventions for math prose. Finally, in
+the last few months before the exam, the Math Department in the
+University of Bucharest was offering free exam preparation every
+Sunday morning, in a large amphitheater, led by the same university
+professors who were going to grade our written admission tests. I
+registered for those and attended regularly, never missing any. The
+professors would write typical exam problems on the huge blackboards
+and invite us to solve them in front of our peers, guiding us whenever
+we needed help and helping us polish the solutions. As an ambitious
+high school student, eager to prove myself, I volunteered to solve
+problems on the blackboard almost every time. It was wonderful!
 
-Finally, the admission exams days came. For the
-Mathematics-Informatics major the exam was the same as for pure
-Mathematics, a three-day affair, each one with a three-hour exam, for
-Algebra, Analysis, and Trigonometry. I was ready! However, just a few
-days before the exam I caught a cold, so I walked into the first exam
-with a fever and brain fog. That didn’t matter, as soon as I opened
-the sealed envelope with the problems I forgot all about the fever and
-I proceeded to write down the solutions in the manner I had prepared
-for all the past months. Same for the second day. By the third day,
-the fever had subsided significantly, and so had the brain fog, so it
-was a breeze going through the exam, which consisted of problems of
-the exact same kind as the ones I had been drilling all this time, no
-surprises.
+Finally, the admission exam days came. For the Mathematics-Informatics
+major the exam was the same as for pure Mathematics, a three-day
+affair, each one with a three-hour exam, for Algebra, Analysis, and
+Trigonometry. I was ready! However, just a few days before the exam I
+caught a cold, so I walked into the first exam with a fever and brain
+fog. That didn’t matter, as soon as I opened the sealed envelope with
+the problems I forgot all about the fever and I proceeded to write
+down the solutions in the manner I had prepared for all the past
+months. Same for the second day. By the third day, the fever had
+subsided significantly, and so had the brain fog, so it was a breeze
+going through the exam, which consisted of problems of the exact same
+kind as the ones I had been drilling all this time, no surprises.
 
 Once the exam was over, I went home and waited for the results. It
 took about a week for the grading to be complete. Every day, anxious
@@ -178,8 +177,8 @@ pursuing.
 
 “Oh, we’re just going into the twelfth grade”, she said sheepishly.
 
-“Do you girls want to go with us to Luna Park and try the
-roller-coasts there?”, Marian offered.
+“Do you girls want to go with us to Luna Park and try the roller
+coasters there?”, Marian offered.
 
 “Sure, that sounds like fun!”, they both agreed in unison.
 
@@ -232,7 +231,7 @@ socialist country just like ours, it was way more developed and
 modernized, with well maintained freeways, clean restaurants and
 better stores. I remember seeing Western music in the state music
 stores, something that was unheard of in Romania. I even bought a
-couple of Rod Steward LPs there. The apartment we were staying in was
+couple of Rod Stewart LPs there. The apartment we were staying in was
 very nice, it was a university-owned place for visiting researchers,
 and had access to a closed-circuit grocery store, just like the
 Communist leaders had in Romania. I quickly discovered a new favorite
@@ -245,6 +244,6 @@ Werther”, and I read the whole book while I was there. I was also
 killing time by playing with a typewriter that was installed there,
 even though it had Slavonic letters. I was somehow fascinated with
 keyboards from childhood, typing on them every chance I got whenever I
-found one in my parents’ friends apartments. By then I had already
+found one in my parents’ friends’ apartments. By then I had already
 learned Fortran and I was trying to type programs on that Bulgarian
 typewriter, for fun.

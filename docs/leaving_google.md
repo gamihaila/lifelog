@@ -45,7 +45,7 @@ love for you to join us. What is your current level at Google?"
 
 "OK, I know from my own experience that leaving Google is not an easy
 decision, but if you join, we'll promote you to Level 5 and raise your
-compensation by 40%. Interested?
+compensation by 40%. Interested?"
 
 "Thank you, Alon! I'll give you my answer before the end of the
 week.", I said.

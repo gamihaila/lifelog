@@ -2,18 +2,19 @@ Now that I had passed the university admission exam, you'd think I
 would go to college right away, but that's not how things worked at
 the time. You see, after high school, all boys were required to enroll
 in full-time military training first. The only difference the
-university admission made was that instead of going for a one and a
-half years of training, as future students we were assigned to a
-"reduced term" unit, that was only nine months long. We were assigned
-to specific units according to our major: for Mathematics, that meant
-an Artillery unit.
+university admission made was that instead of going for one and a half
+years of training, as future students we were assigned to a "reduced
+term" unit, that was only nine months long. We were assigned to
+specific units according to our major: for Mathematics, that meant an
+Artillery unit.
 
-So after spending the summer with my family (we went on trip to Sofia,
-Bulgaria, following my dad who was sent there for research by the
-university), I had to pack and get ready to join the Army. That meant
-a wood suitcase, with a lock, packed with essentials, but not clothes.
-My father went with me by train to Focșani, a small town three hours
-North-East of home, where I was scheduled to report for duty.
+So after spending the summer with my family (we went on a trip to
+Sofia, Bulgaria, following my dad who was sent there for research by
+the university), I had to pack and get ready to join the Army. That
+meant a wood suitcase, with a lock, packed with essentials, but not
+clothes. My father went with me by train to Focșani, a small town
+three hours North-East of home, where I was scheduled to report for
+duty.
 
 Once at the unit, I said goodbye to him, and joined my fellow
 recruits, who were all Math and CS students admitted that year at the
@@ -26,7 +27,7 @@ day, he lives in New York).
 We were all getting buzz haircuts and new uniforms, including
 underwear, socks, boots and caps. On the caps we were all fighting to
 get the largest ones to cover our newly bald heads. People would steal
-each others caps, whenever we were indoors and left the caps on the
+each other's caps, whenever we were indoors and left the caps on the
 tables. So we quickly started signing our cap inside with markers, but
 not before I managed to swap my cap for a larger one from an
 unsuspecting recruit. Sorry, but extreme situations call for extreme
@@ -98,7 +99,7 @@ stay open, I had an overpowering sleepiness but I had to stay awake
 and alert. It was torture. I would trade that for the tower anytime.
 
 After a few months of theoretical training, we went into the mountains
-and actually fired some canons at targets, using our new skills. We
+and actually fired some cannons at targets, using our new skills. We
 failed miserably, all our projectiles fell far away from the targets,
 to the great embarrassment of our commanding officers in front of
 their superiors.

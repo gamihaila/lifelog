@@ -62,7 +62,7 @@ said, “I am in a very similar spot with my girlfriend from Toronto”.
 So we started dating: we went to visit the Stanford University campus,
 walked around on University Avenue, spent time in the jacuzzi at my
 place in Mountain View. Meanwhile Lara was calling me almost every day
-and telling me about her twelve step meetings. “So”, she asked
+and telling me about her twelve-step meetings. “So”, she asked
 casually, “have you met anyone yet?”. “As a matter of fact, I did!”, I
 confessed, and told her about Oana. “Oh, so do you like her?”. “Well,
 I don’t know, it’s still early, but I don’t dislike her”, I said.
@@ -80,7 +80,7 @@ This wasn’t the first time Lara had marked her territory this way: a
 few months before I left Toronto, a Romanian friend of mine who was
 married to an Englishwoman had introduced me to one of his wife’s girl
 friends, a nurse who was visiting from London. We made plans to go
-together to the revolving restaurant on the top of Manulife Center,
+together to the revolving restaurant on the top of Manulife Centre,
 just next to our university’s graduate family housing where we were
 both staying. Lara and I were on one of our off periods at the time,
 so I stupidly mentioned to her about my evening plans. So, sure
@@ -192,7 +192,7 @@ didn't know you're going to get a red convertible!"
 
 Oh, well, eventually she calmed down and we resumed our daily
 routines, which involved me trying to split my time between the two of
-them and take turn appeasing each of them. That was exhausting.
+them and take turns appeasing each of them. That was exhausting.
 
 In my heart I knew me and Cristina had no future together, but I
 couldn’t tell her that directly. But she understood. A few weeks later

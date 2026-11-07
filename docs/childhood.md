@@ -16,7 +16,7 @@ clearly how our family, all the other vacationers as well as the host
 family had gathered for dinner at a large table under the grape vines
 and were watching a black and white TV set on a window: I remember
 vividly everyone's excitement as the TV was showing a live broadcast
-of the moonlanding! Since I later found out that happened in July
+of the moon landing! Since I later found out that happened in July
 1969, I must have been two at the time. I definitely didn't realize
 the significance of the event, but I could sense that it must have
 been extraordinary from everyone's reaction, enough to engrave it in
@@ -27,11 +27,11 @@ apartment close to downtown because my family moved before I turned
 two to a larger apartment a little further out of the city center, on
 Calea Mosilor. That was my childhood home until 1978. It was a large
 apartment with three bedrooms and a large living room in the middle
-separated from my parents bedroom by a retractable glass wall. It also
-featured three balconies. It was situated on the third floor of a
+separated from my parents' bedroom by a retractable glass wall. It
+also featured three balconies. It was situated on the third floor of a
 five-storey pre-war apartment building, with a large backyard where I
 was spending a lot of my free time climbing the apricot trees and
-eating the green apricots before they were ripe, or simply laying down
+eating the green apricots before they were ripe, or simply lying down
 in the tall grasses.
 
 I had a few friends from the neighboring houses, which were almost
@@ -69,15 +69,15 @@ simply to waste, before lunch.
 
 My mother left food for me on the electric stove-top — usually soup
 and something more substantial, like mashed potatoes with a chicken
-leg. I loved the mashed potatoes but I wasn't too fond of the soup.  I
+leg. I loved the mashed potatoes but I wasn't too fond of the soup. I
 didn’t want my mom to know that, so I would pour the soup into a bowl,
 stir it well with a spoon to get the bowl dirty, then carry it to the
-bathroom and tip it into the toilet.  Then I would heat up the
-potatoes and the chicken leg, which always stuck to the pan and
-required some coaxing, eat happily, and get dressed in my uniform.
+bathroom and tip it into the toilet. Then I would heat up the potatoes
+and the chicken leg, which always stuck to the pan and required some
+coaxing, eat happily, and get dressed in my uniform.
 
 The walk to school was about ten minutes. In spring, that meant
-walking though the mud: there was construction nearby, new apartment
+walking through the mud: there was construction nearby, new apartment
 buildings going up all around. My solution was to wrap my shoes in
 plastic bags before setting out, walk carefully through the worst of
 it, and then remove the bags and throw them in a bin at the edge of
@@ -85,7 +85,7 @@ the mud, arriving at school with clean shoes. It worked perfectly.
 
 My father was in charge of reading a bedtime story to me most every
 night. When I was very little he was picking from classic Romanian
-stories by Ion Creangǎ but as soon as I got a little older he switched
+stories by Ion Creangă but as soon as I got a little older he switched
 to Ion Luca Caragiale's short stories, his favorite. These were turn
 of the century satires of Romanian society's morals that still
 resonate to this day. After a while he'd gone through all of them but
@@ -173,7 +173,7 @@ real possibility for anyone who knew something and stayed silent. I
 knew nothing. I had done nothing. I was one of the good students,
 quiet and studious, but none of that mattered: I was sitting in that
 room the same as everyone else, being told that my freedom was
-conditional. They let us go eventually, and nothing came of it.  But
+conditional. They let us go eventually, and nothing came of it. But
 they made sure we all got the message: at any moment, for any reason
 or no reason at all, you could be taken, and there was nothing to be
 done about it.
@@ -226,7 +226,7 @@ system of private tutoring quietly filled the gap, paid out of pocket
 by families who could manage it. The system is apparently still going
 strong today.
 
-I had to go to the tutors apartments twice a week for two hours at a
+I had to go to the tutors' apartments twice a week for two hours at a
 time, and of course the tutors assigned me homework too, on top of the
 school assignments. The Romanian tutor just made me transcribe and
 memorize her own literary analysis essays on the topics from the exam
@@ -268,7 +268,7 @@ us the nerves were not affected and that it would heal. I was admitted
 and spent the next week among children who were fire victims, some
 with third-degree burns over their tiny bodies. Being the oldest, they
 begged me to tell them bedtime stories at night. I did. It was
-gutwrenching.
+gut-wrenching.
 
 At some point, medical students came to visit us and started asking me
 Math questions. I remember one of them asking: what is a² - b²? I

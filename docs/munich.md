@@ -3,7 +3,7 @@ TA-ing at the university, I walked by the bulletin board on my way.
 One brightly colored poster caught my attention: "Algebra and
 Computation Summer School, June 15-19 1992, Marktoberdorf, Germany.
 Sponsored by NATO. To apply, use one of the application forms below.
-If there is no application form left, send a self addressed envelope
+If there is no application form left, send a self-addressed envelope
 at this address".
 
 You guessed it, all application forms were gone. So I wrote a letter
@@ -17,7 +17,7 @@ rewritten using algebraic equivalence rules. I was working on these
 for a couple of years together with my professor, Virgil Căzănescu. I
 mailed the application package and waited. Mind you, I didn't have
 much hope, given how all the application forms were already exhausted
-when I saw the poster and knowing that there will be applicants from
+when I saw the poster and knowing that there would be applicants from
 all over the world. So you can imagine how thrilled I was when I got
 the acceptance letter a few weeks later!
 
@@ -27,7 +27,7 @@ costs). Luckily, the letter indicated that the organizers were
 offering to cover the tuition fees which included room and board, I
 just was expected to pay for the travel. That was more manageable,
 especially if I took the train. So, with some help from my parents, I
-bought a train ticket to Munich, with a few hours stop over in Vienna.
+bought a train ticket to Munich, with a few hours stopover in Vienna.
 This would be my very first trip outside of the Eastern Bloc. The only
 other time when I traveled abroad was on a family trip to Bulgaria, in
 1986.
