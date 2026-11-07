@@ -1,13 +1,13 @@
 In the first few days after the Revolution, in January 1990, there
 were checkpoints at every street corner and every subway entrance,
 staffed by civilians with Kalashnikov rifles and tricolored arm bands.
-Everywhere we went we could see bullet holes in the apartment buildings,
-occasionally a burned car here and there, sometimes traces of blood on
-the sidewalks. It was like in a post-apocalyptic movie, only it was
-all too real. Ioana's former bedroom, in her parents' apartment, had a
-bullet hole in the window and a chipped wall next to her bed. That was
-the very bed we used to spend Sunday afternoons together not that long
-before. It was a chilling sight.
+Everywhere we went we could see bullet holes in the apartment
+buildings, occasionally a burned car here and there, sometimes traces
+of blood on the sidewalks. It was like in a post-apocalyptic movie,
+only it was all too real. Ioana's former bedroom, in her parents'
+apartment, had a bullet hole in the window and a chipped wall next to
+her bed. That was the very bed we used to spend Sunday afternoons
+together not that long before. It was a chilling sight.
 
 One morning, while Ioana and I were drinking our coffees in our new
 apartment, we heard our doorbell. We were not expecting anyone, so we
@@ -36,12 +36,12 @@ anything wrong.", Ioana said.
 We did our best to reassure Dana, even though at the time nobody had
 any idea how things were going to turn out. Dana called her mom, and
 eventually went back home. A few days later her dad was released. In
-all the confusion, the civilian vigilantes were not apprised of the political reality: the former party leaders were still in power, many
+all the confusion, the civilian vigilantes were not apprised of the
+political reality: the former party leaders were still in power, many
 of them running for office through the National Salvation Front, which
 went on to win election after election.
 
 ...
-
 
 Now that the revolution was over, the country was beginning a dramatic
 transition to a market economy. In the days that followed, the city
