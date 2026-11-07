@@ -1,3 +1,49 @@
+In the first few days after the Revolution, in January 1990, there
+were checkpoints at every street corner and every subway entrance,
+staffed by civilians with Kalashnikov rifles and tricolored arm bands.
+Everywhere we went we could see bullet holes in the apartment buildings,
+occasionally a burned car here and there, sometimes traces of blood on
+the sidewalks. It was like in a post-apocalyptic movie, only it was
+all too real. Ioana's former bedroom, in her parents' apartment, had a
+bullet hole in the window and a chipped wall next to her bed. That was
+the very bed we used to spend Sunday afternoons together not that long
+before. It was a chilling sight.
+
+One morning, while Ioana and I were drinking our coffees in our new
+apartment, we heard our doorbell. We were not expecting anyone, so we
+looked at each other confused for a few seconds. Then we opened the
+door. It was Dana, with a terrified look on her face.
+
+"Dana, what's wrong, what happened?", Ioana said, while closing the
+door after Dana got in.
+
+"Dad was arrested! We got out of our apartment this morning for a
+walk, and we got stopped at a checkpoint. They asked to see our papers
+and when they saw my Dad's ID, one of them recognized his name and
+started yelling: Brothers, here, this is a Communitst Party Central
+Committee member, arrest him!", said Dana, breathless. "They let me
+go, and I came straight here, I don't know where else to go, I don't
+know if they stormed our apartment, my Mom and my sister are there..."
+
+"Oh, Dana, everything is going to be alright, it's probably a
+misunderstanding. You're welcome to stay here for as long as you need,
+of course. Call your Mom from our phone.", I said, with Ioana backing
+me up with her eyes.
+
+"Yes, Dana, they'll have to let him go, you'll see. He didn't do
+anything wrong.", Ioana said.
+
+We did our best to reassure Dana, even though at the time nobody had
+any idea how things were going to turn out. Dana called her mom, and
+eventually went back home. A few days later her dad was released. In
+all the confusion, the civilian vigilantes were not appraised on the
+political reality: the former party leaders were still in power, many
+of them running for office through the National Salvation Front, which
+went on to win election after election.
+
+...
+
+
 Now that the revolution was over, the country was beginning a dramatic
 transition to market economy. In the days that followed, the city
 slowly came back to life, but it was a different city now, operating
@@ -15,7 +61,7 @@ of bread, 2,000. Not long before, a decent monthly salary had been
 At the university, where I was working as a TA alongside my final year
 of studies, payday brought its own particular absurdity. The
 hyperinflation had outpaced the supply of banknotes, and one month the
-cashier paid us in bills that had sand on them — they had been pulled
+cashier paid us in bills that had sand on them, they had been pulled
 from a batch already set aside for recycling, destined to be pulped or
 burned. That was our salary: stacks of nearly worthless notes that
 smelled of the furnace they had narrowly escaped.
