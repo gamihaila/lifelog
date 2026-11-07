@@ -20,7 +20,7 @@ door after Dana got in.
 "Dad was arrested! We got out of our apartment this morning for a
 walk, and we got stopped at a checkpoint. They asked to see our papers
 and when they saw my Dad's ID, one of them recognized his name and
-started yelling: Brothers, here, this is a Communitst Party Central
+started yelling: Brothers, here, this is a Communist Party Central
 Committee member, arrest him!", said Dana, breathless. "They let me
 go, and I came straight here, I don't know where else to go, I don't
 know if they stormed our apartment, my Mom and my sister are there..."
@@ -36,8 +36,7 @@ anything wrong.", Ioana said.
 We did our best to reassure Dana, even though at the time nobody had
 any idea how things were going to turn out. Dana called her mom, and
 eventually went back home. A few days later her dad was released. In
-all the confusion, the civilian vigilantes were not appraised on the
-political reality: the former party leaders were still in power, many
+all the confusion, the civilian vigilantes were not apprised of the political reality: the former party leaders were still in power, many
 of them running for office through the National Salvation Front, which
 went on to win election after election.
 
