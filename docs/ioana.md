@@ -1,20 +1,20 @@
 I met my first wife, Ioana, in the first week of classes at the
 university. I took a seat in the first row by habit and she did too
-because she didn’t see that well from the back with her glasses. I was
-19 and she was 18. I can’t say it was love at first sight, but we were
+because she didn't see that well from the back with her glasses. I was
+19 and she was 18. I can't say it was love at first sight, but we were
 definitely open to each other. It also helped that we shared most of
 our route home by bus, which provided more time to talk.
 
 Funny anecdote I heard later from her: She had told her sister that
 two guys were interested in her, and she asked for advice on whom to
 pick: one is tall and not that funny (me), and the other (my friend
-Radu) is sparklingly funny but shorter than her. “Pick the tall one,”
+Radu) is sparklingly funny but shorter than her. "Pick the tall one,"
 her sister said. So that was that.
 
 Two weeks after school started, all students were sent to help with
 the harvest. The government needed cheap labor, especially after most
 of the able-bodied people in the villages migrated to the cities
-following the Communist Party’s push for large-scale
+following the Communist Party's push for large-scale
 industrialization. We were assigned to a vineyard next to a village
 called Nazarcea, in Dobrogea County, close to the Black Sea coast.
 
@@ -25,8 +25,8 @@ matter; we were young and happy to be with each other, away from home.
 We were also finding ways to cut corners on fulfilling the quotas,
 filling up the buckets with branches on the bottom so we could
 increase our tallies faster and finish early. The problem was, the
-tallies were growing but the wagons weren’t filling up, so our little
-scheme didn’t last!
+tallies were growing but the wagons weren't filling up, so our little
+scheme didn't last!
 
 It is perhaps not too surprising that this work camp situation played
 an essential role in accelerating our relationship. I was naive and
@@ -322,15 +322,15 @@ where the young university graduate goes to his post in the
 countryside and marries the beautiful young veterinary doctor.
 
 I remember one day in junior year at college, when Ioana was absent
-for some reason, one of the three Danas in our group (nicknamed “The
-Cat” because of her feline personality) mentioned that she would like
+for some reason, one of the three Danas in our group (nicknamed "The
+Cat" because of her feline personality) mentioned that she would like
 it if someone walked her home to her dorm, because lately there were
 some troublemakers around her building and she wanted to avoid them. I
 was, around that time, fantasizing about getting away from Ioana, so I
 volunteered.
 
 We took the subway together to her campus in Grozăvești and I walked
-her to her building. There wasn’t anyone suspicious around, so I
+her to her building. There wasn't anyone suspicious around, so I
 started saying my goodbyes when she invited me to her room. Now, I
 have to say, I had never considered her as a potential partner, but
 something in the way she looked at me intrigued me so I went in with
@@ -341,29 +341,29 @@ she was responding playfully. The tension was palpable. It was at this
 point when she suddenly stopped me, and said, with a serious look on
 her face:
 
-“George, I want you to think really hard if this is what you really
-want. I mean, are you sure you’d rather have me than Ioana?”
+"George, I want you to think really hard if this is what you really
+want. I mean, are you sure you'd rather have me than Ioana?"
 
-“I’m not sure of anything anymore, Dana. Ioana and I are kind of on
-the outs at the moment” (this was after the birthday incident)
+"I'm not sure of anything anymore, Dana. Ioana and I are kind of on
+the outs at the moment" (this was after the birthday incident)
 
-“I think you’ll get back together, George. She loves you. I wouldn’t
-want to come between you, unless you’re really sure” she continued,
+"I think you'll get back together, George. She loves you. I wouldn't
+want to come between you, unless you're really sure" she continued,
 calmly.
 
-“I understand, Dana. You’re right”, I conceded, and kissed her
+"I understand, Dana. You're right", I conceded, and kissed her
 goodbye.
 
 On the way home I thought really hard about Ioana. Sure, we had our
 issues, but I was very attached to her, every time I thought of
-breaking up I couldn’t go through with it. I had become so used to
+breaking up I couldn't go through with it. I had become so used to
 her, we had all this history together, it seemed impossible to get
 away. I remember one Sunday afternoon I called her to say I was not
 sure if I can come over this time (we were seeing each other every
 weekend, usually just hanging out in her bedroom, while her parents
 were taking an afternoon nap in their room). Ioana got really sad and
-started telling me that of course I shouldn’t feel obligated to visit,
-if I didn’t feel like it anymore. She was hurt. What was I thinking?
+started telling me that of course I shouldn't feel obligated to visit,
+if I didn't feel like it anymore. She was hurt. What was I thinking?
 We were definitely past that.
 
 This wasn't the last hiccup we had on the way to our eventual
@@ -562,7 +562,7 @@ relatives from both families. We had music provided by my best
 childhood friend, Marian, who had been my music supplier for years
 (where was he sourcing the newest releases of Western music I would
 never know). There were speeches, dances, wining and dining, and of
-course gossiping. Dana was there at the students’ table together with
+course gossiping. Dana was there at the students' table together with
 all our closest friends from our class. I would later catch on to some
 of their conversations on the videotape: another girl was telling Dana
 that Ioana will have priority on the governmental job assignments to
@@ -577,7 +577,7 @@ standing on the dance floor, Dana and her best friend (also called
 Dana, by the way), were plotting together something. Moments later,
 they both came to me and wrapped their arms around my neck, as a joke,
 of course, while the videographer was getting it all on tape. This
-other Dana, by the way, later recounted at the students’ table how she
+other Dana, by the way, later recounted at the students' table how she
 had once sat next to me in our freshman year and was half-jokingly
 trying to persuade me to dump Ioana and marry her instead, assuring me
 that her family would be best positioned to provide me with the best
@@ -589,11 +589,11 @@ decisions. Everybody was laughing, including Ioana, who had nothing to
 fear anymore from any of them.
 
 Eventually, the reception was over, everybody left, and we went to her
-parents’ place to get ready for our honeymoon trip to Mamaia on the
+parents' place to get ready for our honeymoon trip to Mamaia on the
 Black Sea Coast. We had an early train, and we were not done packing,
-so we didn’t sleep at all. At one point, Ioana was so overwhelmed that
+so we didn't sleep at all. At one point, Ioana was so overwhelmed that
 she suggested I go by myself to secure our hotel room and that she
-would follow with an afternoon train! Of course I couldn’t agree to
+would follow with an afternoon train! Of course I couldn't agree to
 that, how could she think to send me to our honeymoon alone, I
 remember thinking, and I had a first twinge of anxiety about our just
 a few hours old marriage. In the end I helped her pack and we made our

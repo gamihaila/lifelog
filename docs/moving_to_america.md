@@ -15,21 +15,21 @@ research staff members and research engineers, all reporting to the
 same manager. One of the people I met with was Stu Feldman, who turned
 out to be Vice President for Computer Science across all of IBM
 Research, though I only half-grasped at the time what that meant. He
-was also, as I’d later learn, one of the people who had helped build
+was also, as I'd later learn, one of the people who had helped build
 Unix itself at Bell Labs, had written the first Fortran 77 compiler,
 and had created make. None of that came up in the room. He was
-remarkably relaxed about the whole thing. “I’m not going to make you
-jump through any more hoops,” he told me. “The other interviewers
-already did that. I’m just here to tell you what the expectations are
+remarkably relaxed about the whole thing. "I'm not going to make you
+jump through any more hoops," he told me. "The other interviewers
+already did that. I'm just here to tell you what the expectations are
 like here: we understand that you will have your strong years and your
 weaker years, and you will not be penalized for that as long as you
-keep doing good work.”
+keep doing good work."
 
 During my internship at the Systems Research Center in Palo Alto in
 1999, I had worked with a researcher named Krishna Bharat on something
 we called the Hilltop algorithm, a way of identifying authoritative
 pages on the web for the purposes of ranking search results. I
-remember seeing a cloth banner with Google’s logo hanging from one of
+remember seeing a cloth banner with Google's logo hanging from one of
 the buildings on University Avenue that summer, back when the name
 still meant nothing to most people. A group of Google people invited
 Krishna out for lunch while I was still his intern, and not long
@@ -45,7 +45,7 @@ Then, in the early summer, Krishna invited me out for an interview at
 Google for a Research Scientist position. I flew out and presented my
 actual PhD thesis work, on publishing, locating, and querying
 networked information sources, rather than Hilltop, which would have
-interested them far more. I didn’t know it at the time, but Google was
+interested them far more. I didn't know it at the time, but Google was
 already in the process of acquiring the Hilltop patent from HP, the
 parent company of SRC.
 
@@ -53,17 +53,17 @@ After the interview I flew back to Romania for a visit. While I was
 there, an email arrived from Google asking me to come back for another
 round, a full day of back-to-back coding and systems design
 interviews. They paid for the trip. I remember one interviewer in
-particular, Urs Hölzle (who would go on to become Google’s eighth
+particular, Urs Hölzle (who would go on to become Google's eighth
 employee of record and eventually Senior Vice President of Technical
-Infrastructure, one of the most senior engineers in the company’s
+Infrastructure, one of the most senior engineers in the company's
 history), who asked me to choose between working on Search or working
 on Ads. When it was all over, I received an offer, for a Software
-Engineer position, a role I hadn’t even realized I was being
+Engineer position, a role I hadn't even realized I was being
 considered for. I had been interviewing the whole time for Research
 Scientist.
 
 With the IBM offer already in hand, I could compare them directly.
-Google’s cash offer was lower than IBM’s, and the Bay Area cost of
+Google's cash offer was lower than IBM's, and the Bay Area cost of
 living was considerably higher than Westchester County. To compensate,
 the offer from Google came with twenty thousand stock options, priced
 at eighty-five cents a share. At the time, those options meant nothing
@@ -81,7 +81,7 @@ somewhere to live while my US work visa, the one for IBM, was still
 being processed with no end in sight. After a lot of searching we
 found a furnished studio on Isabella Street for $1,500 a month, nearly
 triple what we had been paying as students. We had no income to speak
-of, only Grațiela’s PhD stipend, but we had no real choice, so we took
+of, only Grațiela's PhD stipend, but we had no real choice, so we took
 it and started dipping into my credit cards to cover the difference.
 
 The visa process was no faster then than it is now. There was exactly
@@ -89,7 +89,7 @@ one path that could get someone across the border quickly: a NAFTA
 visa, available to citizens of Canada working in a defined list of
 professions. Software engineer was on that list. Computer science
 researcher was not. My job at IBM had been classified as research,
-which meant the fast path wasn’t available to me, no matter how
+which meant the fast path wasn't available to me, no matter how
 qualified I was. It reminded me, in a way, of the Canadian immigration
 officer years before who had rejected my application the moment I
 called myself a computer scientist, and approved it the moment I said
@@ -140,19 +140,19 @@ That got their attention. Within a day or two, IBM had made a few
 calls to their immigration lawyers and come back with a solution: they
 would issue me a new offer letter, identical in salary and
 responsibilities to the one I already had, but with one change. My
-title would read “Software Engineer” instead of “Researcher.” On
+title would read "Software Engineer" instead of "Researcher." On
 paper, nothing about my actual work would change. On paper was exactly
 what mattered. I drove to the border with the new letter in December,
-and the visa was issued on the spot. I worked as a “software engineer”
+and the visa was issued on the spot. I worked as a "software engineer"
 for the first few months, doing exactly the research I had been hired
 to do, until the paperwork caught up and they quietly switched my
 title back. It was absurd, and it was also exactly the kind of
-absurdity that, after Romania, didn’t strike me as particularly
+absurdity that, after Romania, didn't strike me as particularly
 strange.
 
 Once the visa finally came through, Grațiela and I got married at City
 Hall. I drove down to White Plains alone to start the job. She
-followed by train a few weeks later, and nearly didn’t make it across
+followed by train a few weeks later, and nearly didn't make it across
 the border: when the customs officer asked the purpose of her visit
 and she said she was going to see her husband, the officer told her
 flatly that visiting a husband was not what a tourist visa was for,

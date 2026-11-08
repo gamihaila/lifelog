@@ -60,7 +60,7 @@ old Roma man had taught me when I was four!
 In third grade, our class had afternoon sessions — the school was so
 overcrowded they had to split the years, with the younger children
 going in the morning and us in the afternoon. My mother had to be at
-her editor’s desk at the Romanian Academy Publishing House by 7:30
+her editor's desk at the Romanian Academy Publishing House by 7:30
 every morning, so she was gone before I was properly awake. My father,
 whose university schedule gave him more flexibility, was the one who
 woke me up and made breakfast for both of us. After he left, I had the
@@ -70,7 +70,7 @@ simply to waste, before lunch.
 My mother left food for me on the electric stove-top — usually soup
 and something more substantial, like mashed potatoes with a chicken
 leg. I loved the mashed potatoes but I wasn't too fond of the soup. I
-didn’t want my mom to know that, so I would pour the soup into a bowl,
+didn't want my mom to know that, so I would pour the soup into a bowl,
 stir it well with a spoon to get the bowl dirty, then carry it to the
 bathroom and tip it into the toilet. Then I would heat up the potatoes
 and the chicken leg, which always stuck to the pan and required some
