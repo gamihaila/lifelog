@@ -175,18 +175,18 @@ by a network database called dbVista.
 
 There were tools for designing the GUI visually and converting it to
 runnable assets accessible from C code. I also started learning C++
-there, from Bjarne Stroustrup’s book. I needed that for the next
+there, from Bjarne Stroustrup's book. I needed that for the next
 project, a research GUI for analyzing proteins. There were some
-edge-detection algorithms there, but I don’t remember much about that
+edge-detection algorithms there, but I don't remember much about that
 project other than the fact we were using graphical workstations
 running X11 and the mice were optical with a special mouse pad with a
 grid on it. I also had my first contact there with running remote
 sessions over the LAN on my colleagues' workstations. We were playing
-pranks on each other by opening windows on someone else’s screen. It
+pranks on each other by opening windows on someone else's screen. It
 was there I first heard of telnet and ftp. No email just yet, since
 our LAN was not permanently connected to any external network. There
 was an occasional connection through a modem and a leased telephone
-line, I heard, but that wasn’t part of my day-to-day work.
+line, I heard, but that wasn't part of my day-to-day work.
 
 I was working two jobs at this point: full time software engineer at
 Omnis Group and part-time teaching assistant at the University. I was
@@ -310,7 +310,7 @@ and I will rewrite one of these applications completely from scratch
 in Windows, as a proof of concept." He hired me on the spot.
 
 There I worked on porting to Windows an old text-mode Clipper
-accounting application called “Ciel! Dossiers Analytiques”. One thing
+accounting application called "Ciel! Dossiers Analytiques". One thing
 I remember about that was the trouble caused by rounding for
 accounting applications, where the monetary amounts had to match
 precisely, down to cents.

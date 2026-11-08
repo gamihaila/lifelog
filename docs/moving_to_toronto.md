@@ -9,13 +9,13 @@ following morning. I remember we were quite impressed: even though
 Poland was part of the former Eastern Bloc, it looked nothing like our
 country. The buildings and highways were modern, and a lot of the
 shops and restaurants had well-known Western names. We saw a large,
-elegant McDonald’s downtown. The old city architecture was impressive,
+elegant McDonald's downtown. The old city architecture was impressive,
 and everything was so clean and civilized!
 
-We got back to our hotel late that evening. That’s when it hit me: I
-was moving to a new country with a wife I didn’t quite feel I could
+We got back to our hotel late that evening. That's when it hit me: I
+was moving to a new country with a wife I didn't quite feel I could
 rely on. I had a mini panic attack. I took a long time to fall asleep.
-Of course I didn’t bring this up with Ioana, but I could sense she was
+Of course I didn't bring this up with Ioana, but I could sense she was
 scared too.
 
 We got to the airport the next morning and checked in for our flight.
@@ -48,15 +48,15 @@ Belgian francs, all in small notes, whatever our relatives gave us. It
 amounted to just about the ten thousand Canadian dollars we promised.
 Then, she made us aware that we may need to upgrade our education as
 our diplomas may not be completely equivalent with the Canadian
-education system. That’s just what we wanted too, we said, we were
+education system. That's just what we wanted too, we said, we were
 excited to apply to graduate school. Finally, she stamped our papers:
-we were now officially “landed permanent residents”, with full rights
+we were now officially "landed permanent residents", with full rights
 to all the Canadian government services, including free health care.
 
 As soon as we stepped out of the international area of the airport, we
 saw our Romanian acquaintance waiting for us with our name written on
 a handmade sign. He took us to his car, and drove us to the city. We
-were eagerly taking in the scenery. The way from the airport wasn’t
+were eagerly taking in the scenery. The way from the airport wasn't
 especially impressive, he took us through some rather run-down areas,
 and we waited quite a bit in traffic, staring at the billboards that
 were promoting public transportation alternatives to driving.
@@ -69,12 +69,12 @@ families. We were offered a small studio on the second floor, facing
 St. George St, for $500 a month.
 
 Our new studio was a definite downgrade from our old one-bedroom
-Bucharest apartment. It didn’t even have a proper kitchen, just a
-stove and sink in one corner of the room! We didn’t last long there.
+Bucharest apartment. It didn't even have a proper kitchen, just a
+stove and sink in one corner of the room! We didn't last long there.
 After a couple of weeks another unit opened up in the same house: a
 much larger one-bedroom apartment, same rent. The catch? It was down
 in the basement! Just one tiny window near the bedroom ceiling, and
-none in the living room/kitchen area. Oh, well, we thought, we’re just
+none in the living room/kitchen area. Oh, well, we thought, we're just
 going to be there to sleep, right?
 
 It was the middle of the coldest winter of the decade. Aside from the
@@ -82,7 +82,7 @@ weather, the job market was equally frozen at the time. Immigrants who
 had arrived there one or two years before me were still looking for
 jobs. I made the rounds at all the major headhunter agencies, handing
 in my resume and talking to recruiters about potential opportunities.
-Everybody was asking for “Canadian experience”. How was I supposed to
+Everybody was asking for "Canadian experience". How was I supposed to
 have any, I had just arrived!
 
 All newcomers were given the opportunity to take free ESL classes at
@@ -91,13 +91,13 @@ to determine the appropriate level, from Level 1 to Level 7. Ioana and
 I went together to take this test. During the test Ioana kept asking
 me questions, but after I helped her discreetly with a few, I reminded
 her in Romanian that the whole point of the test was to place us in
-the best level, so she shouldn’t try to ace it by cheating. She gave
+the best level, so she shouldn't try to ace it by cheating. She gave
 me an angry look and stopped asking. When the results came back she
 got assigned to Level 6, which was very good. The problem was that I
-made it to Level 7. That meant we couldn’t go together to classes, as
+made it to Level 7. That meant we couldn't go together to classes, as
 they were scheduled on different weekdays. We started attending the
-classes right away, and I didn’t think much of it. Ioana was mad,
-though, why haven’t I helped her on the test so we could go together?
+classes right away, and I didn't think much of it. Ioana was mad,
+though, why haven't I helped her on the test so we could go together?
 So, week after week I went to class and left her home, and she did the
 same for her classes. Unbeknownst to me at the time, while I was away
 for class she was spending more and more time with one of our
@@ -109,14 +109,14 @@ that program was no longer automatic for all newcomers. By limiting
 his spending to the bare minimum he even saved enough to buy a broken
 Toyota Corolla, which he repaired himself. Jan quickly became our best
 friend, driving us to stores and everywhere else we needed to go, as I
-didn’t yet have a Canadian driver’s license and definitely no money to
+didn't yet have a Canadian driver's license and definitely no money to
 buy a car.
 
-Speaking of driver’s license, the DMV was so backed up with the
+Speaking of driver's license, the DMV was so backed up with the
 massive influx of immigrants that the waiting line for the road test
 was multiple months long. I registered for the test as soon as I could
 as I already had a Romanian license and had been driving for three
-years already in Romania, but was scheduled in a few months’ time. In
+years already in Romania, but was scheduled in a few months' time. In
 the meantime we traveled by subway and buses everywhere, unless, that
 is, we were going somewhere with Jan, which happened more often than I
 wanted.
@@ -128,10 +128,10 @@ a stipend while you studied English, called Labor Market Language
 Training, I went and took that placement test too, hoping for some
 income while we figured things out. I did as well as I could. Too
 well, as it turned out. They told me the same thing, only more
-bluntly: I didn’t qualify, there was nothing to teach me, and the
+bluntly: I didn't qualify, there was nothing to teach me, and the
 money was meant for people who actually needed the instruction. Twice
 rejected for being too good at English. It would have been funny if we
-hadn’t needed the money so badly.
+hadn't needed the money so badly.
 
 Meanwhile, we started wiring back the money to our relatives back
 home, as promised. We kept our expenses to a minimum, but we were
@@ -139,34 +139,34 @@ steadily exhausting our reserves, with no job prospects on the
 horizon.
 
 Naturally, we befriended all our neighbors, including the
-superintendent’s family, also Romanian. It turned out that his son was
+superintendent's family, also Romanian. It turned out that his son was
 an undergraduate at the University of Toronto. Hearing that we were
 interested in applying to graduate school he offered to make an
 appointment for me with his academic counsellor.
 
 So one fine March morning I dressed up in my only suit and went to
 meet with the counsellor. He listened to me carefully, and when I was
-done he said: “Well, you know, I’m just an Undergraduate Admissions
+done he said: "Well, you know, I'm just an Undergraduate Admissions
 counsellor. However, I think I can help you. Let me call the Computer
-Science Graduate Admissions office.” So he did. I could hear him
+Science Graduate Admissions office." So he did. I could hear him
 summarize my University of Bucharest credentials. Afterwards, he told
-me: “I spoke with Professor Holt from the Computer Science department.
-He is waiting for you in his office. It’s a five minute walk from
-here: here is a campus map for you. Best of luck!”
+me: "I spoke with Professor Holt from the Computer Science department.
+He is waiting for you in his office. It's a five minute walk from
+here: here is a campus map for you. Best of luck!"
 
-I couldn’t believe it, this was so efficient: not an appointment on a
+I couldn't believe it, this was so efficient: not an appointment on a
 future date, right now! I walked as fast as I could and got to the CS
-professor’s office. He was a distinguished looking scientist, with a
+professor's office. He was a distinguished looking scientist, with a
 long grey beard, and glasses. He examined my transcripts from
 Bucharest carefully, and asked me a few questions about my research.
-In the end he said: “Well, George, I can tell you, unofficially of
+In the end he said: "Well, George, I can tell you, unofficially of
 course, that you have a very good chance of being admitted for
 graduate studies with a full scholarship. Go home and apply right
 away. Even though our application deadline has passed on February 28,
 if you apply in the next few days you will still be considered for
-this academic year”. I was overjoyed! Before leaving, I told him my
+this academic year". I was overjoyed! Before leaving, I told him my
 wife also graduated from the same program and had very good grades
-too. “Well, then, you should both apply!”.
+too. "Well, then, you should both apply!".
 
 So we both applied for admission for graduate school at the University
 of Toronto. Meanwhile, though, our money was running out, and we still
@@ -176,22 +176,22 @@ Yellow Pages: nobody seemed to have any job openings. I also started
 visiting headhunter agencies, they at least were willing to meet with
 me and take my resume. One such agency sent me to a screening
 interview at a software company, I forgot which one. I dressed up
-nicely and went there. To my surprise, they didn’t ask me any
+nicely and went there. To my surprise, they didn't ask me any
 technical questions, at this point they were just trying to get an
 idea if I would fit their culture, I guess. They even asked about
 sports, they were all big fans of the Toronto Blue Jays. I confessed
-my complete ignorance on baseball. “Well”, they exclaimed, “you need
-to understand that you wouldn’t fit in our team, then. You see, we
-talk about baseball all the time around the office.” That’s
+my complete ignorance on baseball. "Well", they exclaimed, "you need
+to understand that you wouldn't fit in our team, then. You see, we
+talk about baseball all the time around the office." That's
 unfortunate, I was thinking, was this what was standing between me and
 a job? Oh, well, I would probably not enjoy working there either.
 
 Eventually, after two months of cold calling and headhunter
 appointments, one of these agencies finally got me a job interview. It
 was for a Windows programmer position at an industrial equipment
-supplier company called Ahearn & Soper. Armed with my Master’s diploma
+supplier company called Ahearn & Soper. Armed with my Master's diploma
 I went to the interview, solved some coding problems on the
-whiteboard, and found out that the hiring manager couldn’t care less
+whiteboard, and found out that the hiring manager couldn't care less
 about degrees, only about whether I could actually write code for
 Windows. I was hired for a two month trial period and converted to
 full-time afterwards.
@@ -220,12 +220,12 @@ beginning of the third month, we only had a couple hundred dollars
 left. It was very embarrassing, I was going to work in the morning and
 avoiding the superintendent for a few days. Eventually he came
 knocking on our door. I explained that my salary was going to come in
-a few weeks’ time, but he said that the owner needs the money on time
+a few weeks' time, but he said that the owner needs the money on time
 and he had collected it from the other tenants already, and he was
 just waiting on us. We had to do something. So I went to the Social
 Insurance Office and explained our situation to a social worker. She
 was able to offer us a $1000 loan, payable in 12 months with low
-interest. We were lucky she didn’t ask us how we managed to spend the
+interest. We were lucky she didn't ask us how we managed to spend the
 $10,000 we supposedly brought with us in just two months.
 
 Life was settling into some sort of rhythm after I started working: I
@@ -248,13 +248,13 @@ slow cooking it was time to open the pot. The cover was screwed in and
 it had a steam valve which had stopped blowing steam after she took
 the pot off the stove. She tried to open it herself but it was stuck.
 She put it in the sink and poured cold water on it, and it still
-wouldn’t budge. She called me for help, and I held the bottom while
+wouldn't budge. She called me for help, and I held the bottom while
 she tried again to unscrew the top. With both our forces combined, we
 managed to turn it around little by little. As soon as it was loose
 enough though, the inside pressure blew the top all the way to the
 ceiling, with boiling hot cabbage flying everywhere. Some of it fell
-on my wrist but most of it landed on Ioana’s forehead. We both got
-pretty bad burns and had to be taken to the ER, just like neighbor’s
+on my wrist but most of it landed on Ioana's forehead. We both got
+pretty bad burns and had to be taken to the ER, just like neighbor's
 kid, thankfully a lot less severe than his. Ioana was panicking, not
 so much from the pain as from the horror at being left with permanent
 scars on her face. Thankfully, with a lot of care to stay out of the
@@ -263,7 +263,7 @@ time she was miserable. As this was the second burning incident in the
 same house in the span of six months, the police conducted an
 investigation, interrogating the neighbors about possible foul play:
 what if our neighbor actually wanted to get rid of her baby boy
-because she couldn’t feed it (they were unemployed too, just like
+because she couldn't feed it (they were unemployed too, just like
 everybody else in that house). In the end, of course, they concluded
 these have just been accidents, but that was quite stressful for
 everyone.
@@ -271,7 +271,7 @@ everyone.
 Soon after the burn accident we got tired of living in that basement
 and started looking for another place, especially since now I had a
 stable income. I was also secretly hoping that by moving away from Jan
-we would see less of him. We didn’t have to look too much, pretty soon
+we would see less of him. We didn't have to look too much, pretty soon
 we found a large studio apartment in a new high-rise building close to
 High Park, a few subway stops away from downtown, on the Bloor line,
 which meant my commute would be a little shorter too, as an added
@@ -379,19 +379,19 @@ workers and software engineers alike.
 
 A few months after I started working I received the acceptance letter
 from U of T. By then I had a real paycheck coming in and a job I
-didn’t hate, but we were still just barely covering our expenses, with
+didn't hate, but we were still just barely covering our expenses, with
 nothing left over for savings. I had also started to question the
 trade-off itself: four to six years in graduate school versus building
 experience and earning promotions on the job. My hiring manager had
-told me, more or less in passing, that they couldn’t care less about
+told me, more or less in passing, that they couldn't care less about
 degrees. In fact, he said, they had once rejected a candidate with a
-PhD because the man couldn’t code his way out of a paper bag. Years
+PhD because the man couldn't code his way out of a paper bag. Years
 later, interviewing candidates myself at Google, I would learn just
 how often that turns out to be true. At the time, though, it was
 enough to make me write back to the department, not to defer, but to
-decline outright. I didn’t even hedge with “postpone.” I said no.
+decline outright. I didn't even hedge with "postpone." I said no.
 
-Ioana’s acceptance letter came just after I declined mine, and with
+Ioana's acceptance letter came just after I declined mine, and with
 one income now covering us, it made sense for her to go. She started
 that fall, and in the evenings she would come home and show me her
 assignments and lecture notes, talking through whatever she had
@@ -400,11 +400,11 @@ and asked nothing more of me, and watched her doing something
 genuinely interesting. It was hard to ignore. So I dug out my year-old
 acceptance letter and went back to the admissions office, half
 expecting to be turned away. Instead they told me I could still come,
-if I wanted to. I went to my manager and gave him a month’s notice. He
+if I wanted to. I went to my manager and gave him a month's notice. He
 asked me to give him a minute, walked into another office, and came
 back fifteen minutes later with an offer to raise my pay by 40 percent
-if I would stay. I asked him, half joking, why they hadn’t thought I
-was worth that much the day before. He didn’t really have an answer,
+if I would stay. I asked him, half joking, why they hadn't thought I
+was worth that much the day before. He didn't really have an answer,
 only that they valued me and wanted to keep me. I thanked him, told
 him I appreciated it, and said I was still going. To his credit, he
 told me to go follow my dream. So I went.

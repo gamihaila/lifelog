@@ -100,24 +100,24 @@ page!
 After that initial launch euphoria passed though, I was confronted
 with an unexpected bump in the road: my manager told me that the level
 I had been hired at was provisional, as all new hires need to go
-through a “leveling process” which is the same as a regular promotion
+through a "leveling process" which is the same as a regular promotion
 process. That meant that a promotion committee had to review my Google
 accomplishments to date and reach a decision. This being Google, the
 promotion committee consisted of engineers outside of our department,
 who had to review and rank hundreds of promotion packages for people
-they didn’t interact with, solely based on their files. This was
-intentionally designed this way in an effort to reduce bias. “Alright,
-sounds good to me, even though the recruiter didn’t mention anything
-about that.” It may have been buried in some fine print in my hiring
+they didn't interact with, solely based on their files. This was
+intentionally designed this way in an effort to reduce bias. "Alright,
+sounds good to me, even though the recruiter didn't mention anything
+about that." It may have been buried in some fine print in my hiring
 contract, but who reads the fine print? Regardless, my manager
-prepared my “promotion package”, submitted it to the committee, and a
-few weeks later the decision came: “Insufficient evidence of impact”.
+prepared my "promotion package", submitted it to the committee, and a
+few weeks later the decision came: "Insufficient evidence of impact".
 My manager said he was going to appeal the decision.
 
 The next morning, after my regular two-hour commute by car, Metro
 North train, and two subway trains, I got to my desk in a bad mood:
-what did they mean “insufficient”? I was in no condition to work, I
-couldn’t face my colleagues, I felt like they were all judging me
+what did they mean "insufficient"? I was in no condition to work, I
+couldn't face my colleagues, I felt like they were all judging me
 (they had no idea, of course, it was all in my head). On an impulse, I
 went on the intranet and submitted a vacation request for one day, and
 left. Now my teammates looked surprised, but I mumbled something about
@@ -130,27 +130,27 @@ running in production and measuring its impact in real time. At IBM we
 were just talking about key performance indicators, here I was seeing
 them in action. So after a while I calmed down and focused on enjoying
 the city, making the best of my day off. I called Grațiela and told
-her what I’m doing and promised to be home early. She understood
+her what I'm doing and promised to be home early. She understood
 perfectly what I was going through and encouraged me to just take all
 the time I needed, no need to rush home.
 
 The next morning I was back in the office, this time with a clear
 head, and went back to work. Not too long after, my level was
-confirmed, my manager’s appeal had worked. By then I had already
-realized that it didn’t actually matter: our experimental question
+confirmed, my manager's appeal had worked. By then I had already
+realized that it didn't actually matter: our experimental question
 answering system was going to be turned into a prominent feature and
 launched on the desktop version too (it was only available on mobile
 initially).
 
-“We are going to join the big leagues now”, I remember our Technical
-Lead announcing, “we need to make our system production-ready,
+"We are going to join the big leagues now", I remember our Technical
+Lead announcing, "we need to make our system production-ready,
 including our deployment, monitoring and alerting systems. We also
-need to set up an on-call rotation.”
+need to set up an on-call rotation."
 
 Exciting times! Scary, but exciting. I remember watching the memory
 usage graphs and noticing how they were trending upwards over several
 days: our code had a memory leak somewhere. Luckily we also had the
-profiling tools to narrow down the list of suspects. It didn’t take
+profiling tools to narrow down the list of suspects. It didn't take
 long and the bug was found and fixed. Phew, we could now sleep without
 fear of getting paged at night!
 
@@ -158,7 +158,7 @@ Another year had passed. In the meantime we started working with
 another team from the Mountain View office who had developed a
 research prototype for scoring answer candidates using signals from
 the surrounding text. Our TL realized we could benefit from combining
-their score with ours by using what is known as an “ensemble system”.
+their score with ours by using what is known as an "ensemble system".
 Curious about the contribution of each scoring system I ran an
 analysis on our internal benchmark of factual short-answer queries.
 The results were striking: their system alone was close to the
@@ -168,7 +168,7 @@ the ensemble but it was clear which one was better.
 Everything was going great, except the commute: I had tried all the
 combinations of car, train, subway, buses and every single one was
 taking about two hours each way and was just as exhausting. I remember
-the precise moment when I decided this wasn’t sustainable: I had just
+the precise moment when I decided this wasn't sustainable: I had just
 gotten off the train in the White Plains station, walking in the dark
-to my car. We had to move! And if we were going to move, let’s move to
+to my car. We had to move! And if we were going to move, let's move to
 California and escape the winter too!

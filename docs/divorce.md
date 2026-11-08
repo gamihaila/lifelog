@@ -3,44 +3,44 @@ with my wife in Lakeshore Park in Toronto, I asked her, for the
 millionth time, if there was anything going on between her and our
 friend Jan.
 
-“What if there was?” was her answer.
+"What if there was?" was her answer.
 
-“Oh, that’s new,” I thought to myself, “she always denied before.” “So
-it is true, after all?” I asked.
+"Oh, that's new," I thought to myself, "she always denied before." "So
+it is true, after all?" I asked.
 
-“Yes,” she finally admitted.
+"Yes," she finally admitted.
 
-“Okay, so now what? Where do we go from here?”
+"Okay, so now what? Where do we go from here?"
 
-“I don’t quite know,” she said, “I still have feelings for you.”
+"I don't quite know," she said, "I still have feelings for you."
 
-“Well, then, can’t you break up with him and we try to fix our
-marriage?”
+"Well, then, can't you break up with him and we try to fix our
+marriage?"
 
-“Unfortunately, no, I don’t think I can,” she replied.
+"Unfortunately, no, I don't think I can," she replied.
 
-“Come on, whose girl are you?”, I tried to lighten up the mood,
-reminding her how she always answered “Yours!” for the past ten years.
+"Come on, whose girl are you?", I tried to lighten up the mood,
+reminding her how she always answered "Yours!" for the past ten years.
 
-“I’m mine!”, Ioana replied this time. Not someone else’s, her own
+"I'm mine!", Ioana replied this time. Not someone else's, her own
 girl, standing on her own two feet. I was struck by her answer, but
-couldn’t help but appreciate its truth. She was her own person, of
+couldn't help but appreciate its truth. She was her own person, of
 course. Nobody owns anyone. She used to be mine by choice, all these
-years, and now she wasn’t. As simple as that! I couldn’t even be angry
+years, and now she wasn't. As simple as that! I couldn't even be angry
 at her.
 
 Thinking about it now, I realize she was right, I never truly loved
 her, I was simply used to her and too scared of being alone. All these
-years I didn’t give her what she needed and that was what created the
+years I didn't give her what she needed and that was what created the
 cracks in our union, which slowly deepened right before my eyes. Her
 affair was never the cause of our troubles, it was its consequence.
 
-Only later did I realize that I was well into the classic “five stages
-of grief.” Having finished the denial and anger stages, I was entering
+Only later did I realize that I was well into the classic "five stages
+of grief." Having finished the denial and anger stages, I was entering
 the bargaining stage. I actually pleaded with her to stay with me:
-“Take some time to reflect on this, please.” I took the Greyhound bus
+"Take some time to reflect on this, please." I took the Greyhound bus
 to Hamilton to stay with her sister and her husband for a few days, in
-order to give her some space. It didn’t help.
+order to give her some space. It didn't help.
 
 When I came back, she was already packed and ready to move out. We sat
 down on the couch in our living room and hugged for a long time. Then
@@ -51,7 +51,7 @@ next day, and I was in complete shock. Life was continuing its course
 but I felt completely disoriented. Although I had been expecting this
 for a long time already, when it finally happened it felt as if I had
 been hit by a truck. I was trying really hard not to cry; I was in
-some stranger’s house, they didn’t know anything. When I finally got
+some stranger's house, they didn't know anything. When I finally got
 home I got into bed and sobbed, crying myself to sleep.
 
 I awoke the next day with a strange feeling: I was on my own, for the
@@ -68,7 +68,7 @@ After a few more days, as I was adjusting to my new status, I tried
 really hard to see the bright side of this: now that it had happened
 it was no longer a looming threat, and it felt easier to bear,
 somehow. I started thinking of the positives: I was no longer required
-to tell anybody what time I’d be home, I could go and do whatever I
+to tell anybody what time I'd be home, I could go and do whatever I
 wanted, I could meet whomever I wanted, make new friends and even date
 again.
 
@@ -94,19 +94,19 @@ University of Bucharest schoolmate Dana, who was doing a PhD in Paris.
 So I wrote her an email to let her know Ioana had left me and asked
 her if we could talk. In 1996 international phone calls were expensive
 and there was no WhatsApp. But there was a live chat terminal-based
-Unix program called “talk,” and it was free. So Dana wrote back to me
+Unix program called "talk," and it was free. So Dana wrote back to me
 and we set up a time when we could both log in and have a live text
 session. This was an exciting new development at the time, being able
 to text in real time for free over the Atlantic!
 
-So, at the appointed time we started our “talk” session. After a few
+So, at the appointed time we started our "talk" session. After a few
 pleasantries, I went straight into the heart of the matter:
 
-“Dana, did you know that I had a big crush on you all through
-college?”
+"Dana, did you know that I had a big crush on you all through
+college?"
 
-“Yes, I know,” she said, “it was hard not to notice, but what did you
-expect me to do about it? You were always with Ioana.”
+"Yes, I know," she said, "it was hard not to notice, but what did you
+expect me to do about it? You were always with Ioana."
 
 She was right. Even though I was very attracted to her I never dared
 to tell her. She seemed completely out of reach for me. She had a
@@ -117,21 +117,21 @@ What happened later took me by surprise, to say the least. After we
 exhausted the subject of my infatuation with her, Dana said out of the
 blue:
 
-“Why don’t you come over to Paris for an internship at INRIA? It would
-take your mind off of things.”
+"Why don't you come over to Paris for an internship at INRIA? It would
+take your mind off of things."
 
-“How would I do that?” I asked. “I don’t know anyone there.”
+"How would I do that?" I asked. "I don't know anyone there."
 
-“No, but they know you.”
+"No, but they know you."
 
-“Huh, you’re kidding, right?”
+"Huh, you're kidding, right?"
 
-“No, I’m not. It so happens that your PhD advisor came last month and
+"No, I'm not. It so happens that your PhD advisor came last month and
 gave a talk about your research at INRIA. I was there in the room, and
 my advisor asked a lot of questions. I can let him know that you are
-available for a possible internship, if you want.”
+available for a possible internship, if you want."
 
-“Wow, that would be fantastic, thanks Dana!” I said.
+"Wow, that would be fantastic, thanks Dana!" I said.
 
 A few weeks later I got an official invitation letter from Patrick
 Valduriez, and I started booking my flights and accommodation in

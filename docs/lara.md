@@ -99,7 +99,7 @@ goodbyes, she invited me in. She lived by herself in a large mansion
 close to the Cedarvale Ravine, complete with a large indoor stairway
 and jacuzzi. Seeing my surprised face, she clarified she was
 housesitting for a wealthy friend who just bought this house as an
-investment property but didn’t rent it out yet.
+investment property but didn't rent it out yet.
 
 She cooked a pasta dish for us, and we ate it sitting on the floor.
 All the time she kept talking and asking me about my life. She was an
@@ -110,11 +110,11 @@ spell!
 Late at night, in her bedroom, we heard noises at the door. Lara
 jumped up and said it was someone she used to go out with and that I
 should better leave by the back door, because otherwise this guy would
-“go berserk”. She needed to handle him by herself, she said. There was
+"go berserk". She needed to handle him by herself, she said. There was
 nothing I could do but comply. I left through some back streets in the
-middle of the night, always looking back to make sure I wasn’t
+middle of the night, always looking back to make sure I wasn't
 followed. Luckily, no one was after me, but I was confused and scared,
-not knowing what Lara’s situation was, and thinking it was probably
+not knowing what Lara's situation was, and thinking it was probably
 not going to work out between us.
 
 To my surprise, though, the next day Lara came over and told me she
@@ -129,7 +129,7 @@ And indeed, a few weeks later, John invited both of us to a party he
 threw at his home for his employees (he owned a profitable business,
 with about thirty employees), so we went. It was a sumptuous party,
 with a chef cooking naan bread in the backyard in a clay oven over an
-open fire, and an extensive array of hors d’oeuvres and drinks. John
+open fire, and an extensive array of hors d'oeuvres and drinks. John
 was a good natured, generous guy, and he was surprisingly friendly to
 me, under the circumstances. It was as if he wanted to make sure I
 will take good care of Lara, of whom he was obviously still very fond
@@ -138,11 +138,11 @@ history together, but John had since moved on, and was now engaged
 with another woman. At that party, I remember his employees were
 talking openly among themselves about how they hated the immigrants
 that kept coming and taking their jobs, quite the opposite of the
-official governmental line of a “multicultural society”. I mentioned
-to them I was an immigrant too, but that didn’t make any difference. I
+official governmental line of a "multicultural society". I mentioned
+to them I was an immigrant too, but that didn't make any difference. I
 remember John intervened and changed the subject to his favorite
-businessman, Donald Trump. “Mark my words, this man will one day
-become the president of the United States”, he kept saying. This was
+businessman, Donald Trump. "Mark my words, this man will one day
+become the president of the United States", he kept saying. This was
 in 1996.
 
 After the party, John invited us again to his home a few times, every
@@ -215,15 +215,15 @@ We would go for bike rides by the lake shore, go visit her mom (I had
 my first bacon and eggs there, her mom was a fantastic cook), or visit
 her dad (they were divorced for many years).
 
-During one of these visits, her dad told me the story behind Lara’s
+During one of these visits, her dad told me the story behind Lara's
 name: it turns out that she was born right after the movie Doctor
 Zhivago came out, and they were so touched by the beautiful love story
-and especially by the haunting “Lara’s Theme” piece that they decided
+and especially by the haunting "Lara's Theme" piece that they decided
 to name their firstborn daughter Lara. I was flabbergasted because
-this was also my mom’s favorite movie, so much so that when she went
+this was also my mom's favorite movie, so much so that when she went
 to Venice with my dad they bought a small gondola souvenir with a
 music box that played that exact piece. I had played that music box so
-many times as a child that I ended up breaking the gondolier’s plastic
+many times as a child that I ended up breaking the gondolier's plastic
 oar. Later, my parents also obtained an original soundtrack LP from
 Russia that I also grew up listening to. When I told my mom the story,
 she was immediately pro-Lara, even before meeting her.
@@ -237,8 +237,8 @@ to persuade Lara to go for it, but she declined.
 At some point I got an email from Dana, who was now working at Bell
 Labs with Alon Halevy, and living with her husband in a townhouse in
 New Jersey. She was inviting us to spend the winter vacation at her
-house: “You can go to the city anytime by train, we’re only half an
-hour away”, she said. When I told Lara, she was initially excited to
+house: "You can go to the city anytime by train, we're only half an
+hour away", she said. When I told Lara, she was initially excited to
 go visit New York, but then she started worrying if she will be able
 to handle being together for that long, given her attacks. Up until we
 got into the train she was going back and forth, not sure whether she
@@ -257,28 +257,28 @@ around and filming with my brand new camcorder. I recorded our
 conversations where she was telling me that just half a pill of
 Rivotril was all it takes for her to love me. She was serious. We went
 to Central Park and sat on a bench and talked. She told me she would
-not be able to marry me, but that she’s happy to hang out for as long
-as I wanted, until I found someone to marry. “Even after”, she said,
-“I would move across the street from you and your wife and you can
-come and see me whenever you want”.
+not be able to marry me, but that she's happy to hang out for as long
+as I wanted, until I found someone to marry. "Even after", she said,
+"I would move across the street from you and your wife and you can
+come and see me whenever you want".
 
-For the New Year’s party, we all went to New York, thinking we’ll see
+For the New Year's party, we all went to New York, thinking we'll see
 the ball drop in Times Square. Little did we know that people were
 camping there since the morning and the police had cordoned off the
 entire area. It was also bitter cold and Lara was wearing a black
 velvet dress, elegant, but not very warm. So cold that Lara and I
 spent most of the night in a nearby diner. Dana and Luis ventured on
-the streets but couldn’t get anywhere near Times Square so they
+the streets but couldn't get anywhere near Times Square so they
 eventually joined us. So did Alon and his wife. We all ended up
 celebrating the New Year in that dingy diner, still fun, but not worth
 the trip to the city, and especially the trip back, in an overcrowded
-train. We got to Dana’s place late that night, laughing at our own
+train. We got to Dana's place late that night, laughing at our own
 stupidity for not planning it better.
 
 Our train back to Toronto was scheduled on January 3rd, at 8 in the
 morning. This time, we wanted to plan better so we decided to go the
 day before and stay with a friend of mine who had a small apartment
-midtown. His name was Bogdan, and he was a schoolmate of Jan’s (yes,
+midtown. His name was Bogdan, and he was a schoolmate of Jan's (yes,
 that Jan), with an Aerospace degree from Bucharest, but now working as
 a software engineer in the city. We went together for dinner at the
 fancy Russian Samovar Restaurant and Piano Bar on 52nd street, and we
@@ -287,7 +287,7 @@ late at night and then we finally went to sleep around midnight. He
 generously offered us his bedroom while he slept on the couch in the
 living room. We set an alarm for the next morning and crashed.
 Predictably, we slept through the alarm and woke up less than an hour
-before the train’s scheduled departure from Penn Station. We scrambled
+before the train's scheduled departure from Penn Station. We scrambled
 to get ready and stormed out, in the freezing cold and hailed a cab.
 We told the driver our situation, and he beat all records and zoomed
 us through to the station barely in time to check in, but we made it!
@@ -298,11 +298,11 @@ exhausting. I had no choice, however; I was smitten with her. Many
 years later, when I watched a movie[^2] I identified with the main
 character.
 
-When I met her, Lara had been a Teachers’ College student for a long
+When I met her, Lara had been a Teachers' College student for a long
 time, taking just the minimum required credits every quarter so she
 would stay enrolled. In the fall of 1998, though, her program included
-a so-called “practicum”, a quarter spent in an elementary school,
-working as a teacher’s assistant. Lara, proud of her Native American
+a so-called "practicum", a quarter spent in an elementary school,
+working as a teacher's assistant. Lara, proud of her Native American
 heritage, chose an elementary school in Deseronto, Ontario, where most
 students were from the adjacent Tyendinaga Mohawk Territory. I
 remember how happy I was for her, even though that meant she would
@@ -327,12 +327,12 @@ that matter.
 We got there in the evening, during a heavy rain, only to find the
 house locked and the landlord missing. We drove to a phone booth and I
 called the landlord, putting my most professionally demanding tone,
-despite my accent: “This is unacceptable, we are here at the agreed
-time, and we cannot get into the house.” By the time we drove back to
+despite my accent: "This is unacceptable, we are here at the agreed
+time, and we cannot get into the house." By the time we drove back to
 the house, he was there with the keys. I helped her unload everything,
 and just crashed next to her on the mattress.
 
-Lara couldn’t sleep though, and before the sun rose the next morning
+Lara couldn't sleep though, and before the sun rose the next morning
 she woke me up to complain about another attack and ask me to leave. I
 was still tired and barely awake, and in the moment I thought she was
 unfair and selfish, so I stormed out and got into the truck. Seeing
@@ -347,12 +347,12 @@ I spent the next few weeks trying to adjust to her absence. She was
 calling me several times a day, she was struggling to get along with
 the main teacher. I was trying to encourage her to stick with her
 program, but she kept saying she was getting ready to quit. After a
-while she started asking me to borrow her dad’s car and come pick her
+while she started asking me to borrow her dad's car and come pick her
 up for the weekends. I did, happy to see her again, but then on
 Mondays she would sleep in and not go back, then on Tuesdays. She was
-sleeping at my place because she didn’t have her own apartment in the
+sleeping at my place because she didn't have her own apartment in the
 city anymore. It was sad watching her slowly slip away from her
-mandatory training. It wasn’t that she was lazy, she was just not in
+mandatory training. It wasn't that she was lazy, she was just not in
 the best frame of mind to face the challenges of a teaching position.
 Eventually she accumulated too many absences and she had to drop out
 of the practicum. I helped her move her stuff out of Deseronto, and

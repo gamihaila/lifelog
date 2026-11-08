@@ -1,8 +1,8 @@
-When I met her in 1996, Lara had been a Teachers’ College student for
+When I met her in 1996, Lara had been a Teachers' College student for
 a long time, taking just the minimum required credits every quarter so
 she would stay enrolled. In the fall of 1998, though, her program
-included a so-called “practicum”, a quarter spent in an elementary
-school, working as a teacher’s assistant. Lara, proud of Native
+included a so-called "practicum", a quarter spent in an elementary
+school, working as a teacher's assistant. Lara, proud of Native
 American heritage, chose an elementary school in Deseronto, Ontario,
 where most students were from the adjacent Tyendanega Mohawk
 Territory. I remember how happy I was for her, even though that meant
@@ -27,12 +27,12 @@ that matter.
 We got there in the evening, during a heavy rain, only to find the
 house locked and the landlord missing. We drove to a phone booth and I
 called the landlord, putting my most professionally demanding tone,
-despite my accent: “This is unacceptable, we are here at the agreed
-time, and we cannot get into the house.” By the time we drove back to
+despite my accent: "This is unacceptable, we are here at the agreed
+time, and we cannot get into the house." By the time we drove back to
 the house, he was there with the keys. I helped her unload everything,
 and just crashed next to her on the mattress.
 
-Lara couldn’t sleep though, and before the sun rose the next morning
+Lara couldn't sleep though, and before the sun rose the next morning
 she woke me up to complain about another attack and ask me to leave. I
 was still tired and barely awake, and in the moment I thought she was
 unfair and selfish, so I stormed out and got into the truck. Seeing
@@ -47,12 +47,12 @@ I spent the next few weeks trying to adjust to her absence. She was
 calling me several times a day, she was struggling to get along with
 the main teacher. I was trying to encourage her to stick with her
 program, but she kept saying she was getting ready to quit. After a
-while she started asking me to borrow her dad’s car and come pick her
+while she started asking me to borrow her dad's car and come pick her
 up for the weekends. I did, happy to see her again, but then on
 Mondays she would sleep in and not go back, then on Tuesdays. She was
-sleeping at my place because she didn’t have her own apartment in the
+sleeping at my place because she didn't have her own apartment in the
 city anymore. It was sad watching her slowly slip away from her
-mandatory training. It wasn’t that she was lazy, she was just not in
+mandatory training. It wasn't that she was lazy, she was just not in
 the best frame of mind to face the challenges of a teaching position.
 Eventually she accumulated too many absences and she had to drop out
 of the practicum. I helped her move her stuff out of Deseronto, and

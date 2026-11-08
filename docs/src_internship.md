@@ -1,14 +1,14 @@
 It was at some point during spring 1999 when a visiting researcher
 from SRC came over to U of T to meet with people from the CS
-department. I’m not sure why, but my PhD advisor sent him to my office
+department. I'm not sure why, but my PhD advisor sent him to my office
 to talk to me. He asked me what my research was currently, and what I
 was working on during my undergraduate research. He got excited
 hearing me talk about my early work on using abstract algebra to model
 recursive flowcharts, even though he pointed out the disconnect with
 research done elsewhere in Europe around the same time.
 
-“Yeah,” I said, “we didn’t have much access to current research done
-in the West before the Cold War ended.”
+"Yeah," I said, "we didn't have much access to current research done
+in the West before the Cold War ended."
 
 Regardless, he invited me to apply to an internship opportunity at his
 lab, the Systems Research Center in Palo Alto, California.
@@ -20,11 +20,11 @@ View. Naturally, I invited Lara to come with me for the three months
 in California, but she declined, citing her attacks. Not only that,
 but she said I should consider myself free to date other women,
 because she was not the marrying type. I was sad about that but I
-respected her decision. We didn’t formally break up, though; we just
+respected her decision. We didn't formally break up, though; we just
 put the relationship on hold. She asked though to be kept updated if
 someone else came into the picture and promised to do the same. I was
 still emotionally attached to her, but was beginning to realize we
-didn’t have a future together.
+didn't have a future together.
 
 I went to Bucharest for a short vacation before my internship, meeting
 with old friends. Everybody was talking about my imminent trip to
@@ -36,68 +36,68 @@ started chatting. It was not that surprising that she was Romanian,
 since our flight from Bucharest had just landed. The unexpected part
 was her destination: Palo Alto, California. She was a green card
 lottery winner and had decided to go to Palo Alto because she had some
-Romanian friends there and was hoping to find a job in IT. “What a
-coincidence”, I said, “I’m on my way to California myself, for my
-internship in Palo Alto, no less! I’m just going to swing by Toronto,
-pack and will fly to San Francisco in a week!”. Of course, we
+Romanian friends there and was hoping to find a job in IT. "What a
+coincidence", I said, "I'm on my way to California myself, for my
+internship in Palo Alto, no less! I'm just going to swing by Toronto,
+pack and will fly to San Francisco in a week!". Of course, we
 exchanged contact information and promised to meet up. Now, she was
-not exactly my type, but she wasn’t unattractive either. Plus, we had
+not exactly my type, but she wasn't unattractive either. Plus, we had
 a pleasant conversation on that shuttle, no awkward moments.
 
 When I arrived in Mountain View, after I settled in, I called her up
 and she invited me on a day trip to Santa Cruz with her friends who
 had a nice SUV. On the way there we shared the backseat bench and
 before long she took my hand in hers. Now, keep in mind, this was the
-first time we had met after that shuttle in London. I wasn’t going to
+first time we had met after that shuttle in London. I wasn't going to
 object to that, now, why would I? After all, Lara had told me that I
 should consider myself unattached. So, we went to the Santa Cruz
 Boardwalk, rode the roller coasters, ate cotton candy, and went to the
 beach. On the beach she told me she was feeling quite stressed about
-her job prospects, she didn’t really have a strong engineering
+her job prospects, she didn't really have a strong engineering
 background, just some certification classes. Also, she told me she had
-a boyfriend back in Bucharest, a young officer, but that she wasn’t
-too sure about that relationship’s future. “Yeah, I understand”, I
-said, “I am in a very similar spot with my girlfriend from Toronto”.
+a boyfriend back in Bucharest, a young officer, but that she wasn't
+too sure about that relationship's future. "Yeah, I understand", I
+said, "I am in a very similar spot with my girlfriend from Toronto".
 
 So we started dating: we went to visit the Stanford University campus,
 walked around on University Avenue, spent time in the jacuzzi at my
 place in Mountain View. Meanwhile Lara was calling me almost every day
-and telling me about her twelve-step meetings. “So”, she asked
-casually, “have you met anyone yet?”. “As a matter of fact, I did!”, I
-confessed, and told her about Oana. “Oh, so do you like her?”. “Well,
-I don’t know, it’s still early, but I don’t dislike her”, I said.
-“Alright”, she said, not sounding too worried. However, the next
+and telling me about her twelve-step meetings. "So", she asked
+casually, "have you met anyone yet?". "As a matter of fact, I did!", I
+confessed, and told her about Oana. "Oh, so do you like her?". "Well,
+I don't know, it's still early, but I don't dislike her", I said.
+"Alright", she said, not sounding too worried. However, the next
 evening, when Oana was visiting me, she called again and asked if Oana
 was there. I was caught by surprise. Looking back I should have
-unplugged the phone but it didn’t cross my mind. Oana figured it out
-immediately and asked for the phone. “Hi, is that Lara?”, she said. I
-don’t know what Lara had told her, but after a few minutes of silence
-Oana replied: “Don’t worry about a thing, I have no intention to steal
-your boyfriend”. After they ended the conversation, Oana left promptly
-and stopped answering my phone calls, so that was that. I wasn’t too
+unplugged the phone but it didn't cross my mind. Oana figured it out
+immediately and asked for the phone. "Hi, is that Lara?", she said. I
+don't know what Lara had told her, but after a few minutes of silence
+Oana replied: "Don't worry about a thing, I have no intention to steal
+your boyfriend". After they ended the conversation, Oana left promptly
+and stopped answering my phone calls, so that was that. I wasn't too
 upset about that, if anything I was kind of happy Lara still cared.
-This wasn’t the first time Lara had marked her territory this way: a
+This wasn't the first time Lara had marked her territory this way: a
 few months before I left Toronto, a Romanian friend of mine who was
-married to an Englishwoman had introduced me to one of his wife’s girl
+married to an Englishwoman had introduced me to one of his wife's girl
 friends, a nurse who was visiting from London. We made plans to go
 together to the revolving restaurant on the top of Manulife Centre,
-just next to our university’s graduate family housing where we were
+just next to our university's graduate family housing where we were
 both staying. Lara and I were on one of our off periods at the time,
 so I stupidly mentioned to her about my evening plans. So, sure
-enough, just as we were enjoying the view and each other’s company,
+enough, just as we were enjoying the view and each other's company,
 who should show up but Lara, all smiles and grabbing my arm lovingly,
-and telling the English nurse: “Don’t believe anything George tells
-you, he’s mine!”. It was like in a poorly written sitcom, only it was
+and telling the English nurse: "Don't believe anything George tells
+you, he's mine!". It was like in a poorly written sitcom, only it was
 all too real. Oh well, I guess no English girlfriend for me. Too bad,
-it seemed like we were hitting it off too, but it wasn’t meant to be.
+it seemed like we were hitting it off too, but it wasn't meant to be.
 
 I was working on my internship project at SRC when I got an email from
 Jenny, the girl I had met at the International Student Center in
 Toronto a few years before. We had kept in touch as friends but we
 were not very close. She was writing to tell me about her plans to
 visit California: she had some friends in San Francisco and was
-wondering if she could spend a night in Mountain View. “Of course”, I
-said, “anytime!”. So on the agreed day, her friend drove her to my
+wondering if she could spend a night in Mountain View. "Of course", I
+said, "anytime!". So on the agreed day, her friend drove her to my
 place in the evening. I was alone at the time, my French apartment
 mate was visiting his girlfriend in Paris. It was on a Friday, so we
 had the entire weekend ahead of us. We spent the morning swimming in
@@ -106,36 +106,36 @@ restaurant and walked around Mountain View.
 
 A few weeks later I received an unexpected email from Cristina in
 which she was saying how she found an old letter from me and she just
-now realized how much I cared for her three years earlier. “Give me a
-call,” she ended her email. So I called her.
+now realized how much I cared for her three years earlier. "Give me a
+call," she ended her email. So I called her.
 
-On the phone, she sounded terrible. “What’s going on?” I asked.
+On the phone, she sounded terrible. "What's going on?" I asked.
 
 She told me she was recently abandoned by her French fiancé just
 before their wedding. She said she would love to visit me in Toronto.
-“Oh-oh,” I thought, “so basically she wants me to be her rebound guy.”
-Well, okay, why not, I thought; it’s not that my relationship with
+"Oh-oh," I thought, "so basically she wants me to be her rebound guy."
+Well, okay, why not, I thought; it's not that my relationship with
 Lara was going anywhere. So I told her that I was in California for
 the summer and she was welcome to visit me if she wants. She agreed
 enthusiastically and booked her flight for the following week.
 
 Happy about this turn of events I mentioned this to Lara on our next
 phone call, as we agreed. She was still calling me two or three times
-a week. “Oh, yeah? Then I’m coming too!” she replied, and she booked a
-flight for the next day. There wasn’t much I could do to stop her.
-“What about your attacks?” I asked. “Oh, I’ll look for a short-term
-rental close to you, I won’t stay with you.”
+a week. "Oh, yeah? Then I'm coming too!" she replied, and she booked a
+flight for the next day. There wasn't much I could do to stop her.
+"What about your attacks?" I asked. "Oh, I'll look for a short-term
+rental close to you, I won't stay with you."
 
-On the next phone call with Cristina I told her about Lara’s plans. I
+On the next phone call with Cristina I told her about Lara's plans. I
 was completely honest. I told her Lara and I were basically over, she
 was just visiting and getting her own place. I was prepared for
-Cristina to cancel her trip, but to my surprise she didn’t. So now I
+Cristina to cancel her trip, but to my surprise she didn't. So now I
 was facing the prospect of having both of them visiting at the same
 time! Well, they both knew what they were getting into, so who was I
 to stop them?
 
 Lara arrived a week before Cristina. As promised, she rented a room in
-a woman’s apartment that was walking distance from me, in Mountain
+a woman's apartment that was walking distance from me, in Mountain
 View. She came to breakfast every morning. She even found a job with
 an agency called Visiting Angels, providing companionship services for
 the elderly. In the evenings, we would stroll on University Avenue in
@@ -158,27 +158,27 @@ At home Lara was waiting for us. She greeted Cristina politely, sized
 her up briefly, and left us alone for the night. She was back promptly
 in the morning, though. We had breakfast, all three of us; Lara
 cooked. From the outside we could have looked like old friends
-enjoying each other’s company. Then I had to leave for work. Lara
+enjoying each other's company. Then I had to leave for work. Lara
 stayed behind. When I came back, Cristina was crying alone.
 
-“What happened?” I asked.
+"What happened?" I asked.
 
-“Lara and I had a talk. She asked me if I like you. I said I do. Then
-she said, take him, if you can, I don’t mind, he’s yours.”
+"Lara and I had a talk. She asked me if I like you. I said I do. Then
+she said, take him, if you can, I don't mind, he's yours."
 
 I realized then that it was over for Cristina, and she knew it too.
 
 The remaining weeks were just as bad, pretty much a repeat of the
 first day. We did take a trip to Hollywood, just me and Cristina, but
-we didn’t have much to say on the long car ride. I wanted to give the
+we didn't have much to say on the long car ride. I wanted to give the
 relationship a fair chance. I gently reminded her what she had said to
-me when we first met, back in Paris: “You think you love me, but
-you’re on a rebound. It feels real to you, I understand, but it’s not,
-trust me.” Now that the roles were reversed, she couldn’t believe she
+me when we first met, back in Paris: "You think you love me, but
+you're on a rebound. It feels real to you, I understand, but it's not,
+trust me." Now that the roles were reversed, she couldn't believe she
 was making the same mistake. She kept telling me that she was ready to
 give up her medical career in France and move to Canada to be with me.
 
-“I can’t have you do that, it’s too risky for your career,” I told
+"I can't have you do that, it's too risky for your career," I told
 her.
 
 When we got back to Mountain View we found the apartment turned
@@ -195,9 +195,9 @@ routines, which involved me trying to split my time between the two of
 them and take turns appeasing each of them. That was exhausting.
 
 In my heart I knew me and Cristina had no future together, but I
-couldn’t tell her that directly. But she understood. A few weeks later
+couldn't tell her that directly. But she understood. A few weeks later
 I drove her to the airport and she was gone forever[^1]. Lara left
-soon after, I guess she figured there wasn’t any more reason for her
+soon after, I guess she figured there wasn't any more reason for her
 to stay.
 
 After Lara went back to Toronto I had a lot of time to reflect on my
