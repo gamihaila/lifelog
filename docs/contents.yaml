@@ -62,6 +62,9 @@ chapters:
   - file: lara.md
     title: Single in Toronto
     
+  - file: lara_music.md
+    title: The Unbearable Beauty of Music
+    
   - file: exploring.md
     title: A Bouquet of Flowers
 
