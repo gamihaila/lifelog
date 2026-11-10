@@ -1,5 +1,3 @@
-# Lara and Music
-
 It was completely unexpected. I just approached a girl that looked
 like another at a Thanksgiving church dinner.
 
