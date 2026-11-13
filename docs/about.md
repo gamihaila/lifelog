@@ -1,6 +1,10 @@
 ![George A. Mihaila](../author.jpg)
 
-[Placeholder: the author blurb will go here. George is brainstorming
-the wording in the main chat, starting from his LinkedIn profile.
-This page, the photo, and the Contents link are ready; only the
-blurb text is missing.]
+[Draft blurb: the wording is not final yet. George is settling it
+in the main chat.]
+
+George Mihaila was born in Romania and trained as a mathematician,
+with a PhD in computer science. His career has run from IBM Research
+to Google to Megagon Labs to Apple, where he works on traffic for
+Apple Maps. He lives in Mountain View, California, with his wife,
+Grațiela; they have four daughters.
