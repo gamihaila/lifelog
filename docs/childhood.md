@@ -145,29 +145,29 @@ In sixth grade we had classes in the afternoon, again. That meant I
 had the mornings to myself: parents were at work and my sister at
 school. What's a boy to do when his sister is not around? Why, go into
 her room and rummage in her drawers, of course, what else? I must have
-overheard her talking to her friends that she's keeping a diary, and I
-was curious. I didn't have to search for too long: I found a notebook
-sitting in plain sight, in the top-most drawer of desk. I couldn't
-believe she just left it there. Eager to read her secrets, I opened
-it, and surprise, instead of words, it was covered with numbers,
-neatly written in long paragraphs, with punctuation between them! Ah,
-a challenge, I thought to myself, how fun. I started looking for
-clues, any regularity that could help me decode it. I figured the
-conjunctions and prepositions pretty quickly, but that wasn't
-enough. Then, I noticed some letters at the top of each entry: it was
-the date, and my sister used the inverse of the code, replacing each
+overheard her talking to her friends that she was keeping a diary, and
+I was curious. I didn't have to search for too long: I found a
+notebook sitting in plain sight, in the topmost drawer of the desk. I
+couldn't believe she just left it there. Eager to read her secrets, I
+opened it, and surprise, instead of words, it was covered with
+numbers, neatly written in long paragraphs, with punctuation between
+them! Ah, a challenge, I thought to myself, how fun. I started looking
+for clues, any regularity that could help me decode it. I figured the
+conjunctions and prepositions pretty quickly, but that wasn't enough.
+Then, I noticed some letters at the top of each entry: it was the
+date, and my sister used the inverse of the code, replacing each
 number in the date with the corresponding letter. Even though some
 dates were missing, it didn't take long to compile the full alphabet
-encoding. It was many years later, when I learned about Caesar codes,
-that I recongnized this was what it was. Once the code was fully
-broken, though, I quickly lost interest in decoding her diary entries,
-there really wasn't anything there that was worth the trouble, at
-least for the 6th grade me. To this day, I'm not completely sure
-diary I found was purposlessly left there to throw me off, epecially
-since I knew my sister had burried a bunch of notebooks in triple
-plastig bags under the walnut tree in our grandparent's yard. Years
-later, she told me, she recovered them and placed them in a locked
-drawer in her apartment, where they still sit today.
+encoding. It was many years later, when I learned about substitution
+ciphers, that I recognized this was what it was. Once the code was
+fully broken, though, I quickly lost interest in decoding her diary
+entries; there really wasn't anything there that was worth the
+trouble, at least for the sixth grade me. To this day, I'm not
+completely sure the diary I found was purposely left there to throw me
+off, especially since I knew my sister had buried a bunch of notebooks
+in triple plastic bags under the walnut tree in our grandparents'
+yard. Years later, she told me, she recovered them and placed them in
+a locked drawer in her apartment, where they still sit today.
 
 Life at Școala Generală Nr. 205 was in most respects like life
 anywhere else: homework, teachers, friendships, the usual problems of
