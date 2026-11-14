@@ -163,11 +163,12 @@ ciphers, that I recognized this was what it was. Once the code was
 fully broken, though, I quickly lost interest in decoding her diary
 entries; there really wasn't anything there that was worth the
 trouble, at least for the sixth grade me. To this day, I'm not
-completely sure the diary I found was purposely left there to throw me
-off, especially since I knew my sister had buried a bunch of notebooks
-in triple plastic bags under the walnut tree in our grandparents'
-yard. Years later, she told me, she recovered them and placed them in
-a locked drawer in her apartment, where they still sit today.
+completely sure that the diary I found was not purposely left there to
+throw me off, especially since I knew my sister had buried a bunch of
+notebooks in triple plastic bags under the walnut tree in our
+grandparents' yard. Years later, she told me, she recovered them and
+placed them in a locked drawer in her apartment, where they still sit
+today.
 
 Life at Școala Generală Nr. 205 was in most respects like life
 anywhere else: homework, teachers, friendships, the usual problems of
