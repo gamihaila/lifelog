@@ -107,5 +107,6 @@ chapters:
   - file: apple.md
     title: Apple Cupertino
 
+back_matter:
   - file: about.md
     title: About the Author
