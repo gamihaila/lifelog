@@ -16,36 +16,56 @@ import markdown
 
 
 def parse_contents(path='contents.yaml'):
-    """Parse the simple, tailored contents.yaml into (meta, chapters).
+    """Parse the simple, tailored contents.yaml into (meta, chapters, back_matter).
 
     The `metadata:` block is a list of single-key items (`- key: value`)
     rather than nested mappings, so its entries are flattened straight
     into the same `meta` dict as the top-level `title`/`author`/etc. keys.
+
+    `back_matter:` lists standalone pages (About the Author, etc.)
+    that are not chapters: they are built as pages of their own
+    but stay out of the Contents listing.
     """
     meta = {}
     chapters = []
+    back_matter = []
     cur = None
-    section = None  # None | 'metadata' | 'chapters'
+    cur_list = None
+    section = None  # None | 'metadata' | 'chapters' | 'back_matter'
+
+    def flush():
+        nonlocal cur
+        if cur is not None and cur_list is not None:
+            cur_list.append(cur)
+        cur = None
+
     with open(path, encoding='utf-8') as f:
         for raw in f:
             line = raw.rstrip('\n')
             if not line.strip():
                 continue
             if line.startswith('metadata:'):
+                flush()
                 section = 'metadata'
                 continue
             if line.startswith('chapters:'):
+                flush()
                 section = 'chapters'
+                cur_list = chapters
+                continue
+            if line.startswith('back_matter:'):
+                flush()
+                section = 'back_matter'
+                cur_list = back_matter
                 continue
             if section == 'metadata':
                 m = re.match(r'\s*-\s*(\w+):\s*(.*)', line)
                 if m:
                     meta[m.group(1).strip()] = m.group(2).strip()
-            elif section == 'chapters':
+            elif section in ('chapters', 'back_matter'):
                 m = re.match(r'\s*-\s*file:\s*(.+)', line)
                 if m:
-                    if cur:
-                        chapters.append(cur)
+                    flush()
                     cur = {'file': m.group(1).strip()}
                 else:
                     m2 = re.match(r'\s*title:\s*(.+)', line)
@@ -54,12 +74,14 @@ def parse_contents(path='contents.yaml'):
             elif ':' in line:
                 k, v = line.split(':', 1)
                 meta[k.strip()] = v.strip()
-        if cur:
-            chapters.append(cur)
-    return meta, chapters
+        flush()
+    return meta, chapters, back_matter
 
 def build(contents_path='contents.yaml', out_path='index.html'):
-    meta, chapters = parse_contents(contents_path)
+    # The one-page edition renders chapters only; back matter lives
+    # on its own pages in the multipage edition, linked below the
+    # Contents rather than listed in it.
+    meta, chapters, back_matter = parse_contents(contents_path)
 
     title = meta.get('title', 'Untitled')
     author = meta.get('author', '')
@@ -104,6 +126,18 @@ def build(contents_path='contents.yaml', out_path='index.html'):
             
     toc = '\n'.join(toc_items)
     chapters_joined = '\n'.join(chapter_html)
+
+    backmatter_html = ''
+    if back_matter:
+        links = '\n'.join(
+            f'  <a href="html/{html.escape(bm["file"].rsplit(".", 1)[0])}.html">'
+            f'{html.escape(bm.get("title", bm["file"]))}</a>'
+            for bm in back_matter)
+        backmatter_html = f'''
+<nav class="backmatter">
+{links}
+</nav>
+'''
 
     cover_html = ''
     if cover:
@@ -245,6 +279,14 @@ def build(contents_path='contents.yaml', out_path='index.html'):
   }}
   nav.toc .toc-title {{ flex: 1; }}
 
+  nav.backmatter {{
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 32px 6vh;
+    text-align: center;
+  }}
+  nav.backmatter a {{ margin: 0 14px; white-space: nowrap; }}
+
   main {{
     max-width: 720px;
     margin: 0 auto;
@@ -307,7 +349,7 @@ def build(contents_path='contents.yaml', out_path='index.html'):
 {toc}
   </ol>
 </nav>
-
+{backmatter_html}
 <main>
 {chapters_joined}
 </main>
