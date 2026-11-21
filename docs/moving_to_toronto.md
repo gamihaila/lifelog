@@ -425,12 +425,12 @@ have made much of a difference in the end.
 We had a nice time on that road trip: a spacious rental car, nice
 hotel rooms, a generous per-diem for our restaurant meals, and an
 opportunity to visit Northern Ontario for free. On the way we listened
-to a lot of Francis Cabrel on the high-end car stereo, and enjoyed
-the snow-covered pine trees flanking the road. It was magical!
+to a lot of Francis Cabrel on the high-end car stereo, and enjoyed the
+snow-covered pine trees flanking the road. It was magical!
 
 The next morning, Jan drove me to the plant; I installed the printer
-and my software and made some last-minute adjustments to the label layout
-at the factory owner's request. This made him very grateful!
+and my software and made some last-minute adjustments to the label
+layout at the factory owner's request. This made him very grateful!
 
 ...
 
