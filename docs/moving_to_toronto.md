@@ -377,6 +377,63 @@ probably leading to some jobs being eliminated. We were all cogs in
 the machine, and we all needed to put bread on the table too, steel
 workers and software engineers alike.
 
+...
+
+Back in Toronto, a few weeks later, my manager Rick came to me with a
+one-off custom application development assignment:
+
+"You see, George, our company doesn't sell just barcode scanners and
+transaction processors, we also sell barcode printers. We don't
+manufacture them, but we sell them as part of a complete solution. We
+got a contract from a large Canadian shoe manufacturer called
+Naturalizer to develop a system to print shipping barcodes for their
+shoe shipments. The addresses and shipping information are stored in a
+text file and they need an application to take each line and generate
+a shipping label for it. Here is the user manual for the barcode
+printer, you'd need to figure out how to format the information on the
+label in the printer's protocol. And here is a barcode printer you can
+use for testing."
+
+"OK, no problem. I've never had to generate printer commands, but I'll
+figure it out."
+
+Aside from talking to the printer, the first half of the problem was
+parsing the text file, and extracting the relevant fields. The format
+was somewhat variable, but there was enough structure there to extract
+the information unambigously. After a few weeks I had the application
+ready, and my shipping labels were matching the layout we got from the
+customer. It was time to deliver the solution. The customer's plant
+was somewhere in Northern Ontario and I needed to drive there with my
+computer to set it up on the factory floor.
+
+All good, except that I didn't have a license. My driving test
+examiner had failed me after the handbrake in Jan's old Toyota came
+loose during the test (Jan had lent it to me for the driving exam). I
+was counting on getting my license before my business trip, but it was
+not to be. Once I shared my predicament with Rick, he came up with a
+practical solution:
+
+"The company will pay for a rental car and hotel room and a per-diem
+for both you and your friend, if he's available to drive you"
+
+Of course he was available, he was still looking for a job at the
+time. Ioana came along too, it didn't make sense for her to stay home
+alone. At the time I was still clinging on to the official story that
+Jan was just our best friend, so I didn't object, not that it would
+have made much of a difference in the end.
+
+We had a nice time on that road trip: a spatious rental car, nice
+hotel rooms, a generous per-diem for our restaurant meals, and an
+opportunity to visit Northern Ontario for free. On the way we listened
+to a lot of Francis Cabrel on the performant car stereo, and enjoyed
+the snow-covered pine trees flanking the road. It was magical!
+
+The next morning, Jan drove me to the plant, I installed the printer
+and my software and made some last minute adjustments to the label layout
+at the factory owner's request. This made him very grateful!
+
+...
+
 A few months after I started working I received the acceptance letter
 from U of T. By then I had a real paycheck coming in and a job I
 didn't hate, but we were still just barely covering our expenses, with
