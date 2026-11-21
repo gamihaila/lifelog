@@ -400,7 +400,7 @@ figure it out."
 Aside from talking to the printer, the first half of the problem was
 parsing the text file, and extracting the relevant fields. The format
 was somewhat variable, but there was enough structure there to extract
-the information unambigously. After a few weeks I had the application
+the information unambiguously. After a few weeks I had the application
 ready, and my shipping labels were matching the layout we got from the
 customer. It was time to deliver the solution. The customer's plant
 was somewhere in Northern Ontario and I needed to drive there with my
@@ -414,7 +414,7 @@ not to be. Once I shared my predicament with Rick, he came up with a
 practical solution:
 
 "The company will pay for a rental car and hotel room and a per-diem
-for both you and your friend, if he's available to drive you"
+for both you and your friend, if he's available to drive you."
 
 Of course he was available, he was still looking for a job at the
 time. Ioana came along too, it didn't make sense for her to stay home
@@ -422,14 +422,14 @@ alone. At the time I was still clinging on to the official story that
 Jan was just our best friend, so I didn't object, not that it would
 have made much of a difference in the end.
 
-We had a nice time on that road trip: a spatious rental car, nice
+We had a nice time on that road trip: a spacious rental car, nice
 hotel rooms, a generous per-diem for our restaurant meals, and an
 opportunity to visit Northern Ontario for free. On the way we listened
-to a lot of Francis Cabrel on the performant car stereo, and enjoyed
+to a lot of Francis Cabrel on the high-end car stereo, and enjoyed
 the snow-covered pine trees flanking the road. It was magical!
 
-The next morning, Jan drove me to the plant, I installed the printer
-and my software and made some last minute adjustments to the label layout
+The next morning, Jan drove me to the plant; I installed the printer
+and my software and made some last-minute adjustments to the label layout
 at the factory owner's request. This made him very grateful!
 
 ...
