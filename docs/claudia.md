@@ -188,7 +188,7 @@ More blank stares from the receptionist, and then Claudia pulled me
 aside and told me she would be sharing the room with her friend, that
 was the plan all along, before they invited me. I had not expected
 that, I had completely misread the situation, and I was hurt, but of
-course I pretended to not care and go along with it. What else could I
+course I pretended not to care and go along with it. What else could I
 have done at that point?
 
 Regardless of this misunderstanding, the three of us had a great time
