@@ -147,24 +147,24 @@ snuggled next to each other on her bed, our hands touching, sharing a
 moment together, neither of us wanting to be anywhere else, wishing
 this could last forever.
 
-"Say, George, what are you doing next week?", she asked me, after the
+"Say, George, what are you doing next week?" she asked me, after the
 movie.
 
-"I don't have anything planned", I confessed.
+"I don't have anything planned," I confessed.
 
-"Why don't your come with us to the beach? My former roomate and I
+"Why don't you come with us to the beach? My former roommate and I
 were planning to drive to Eforie Nord in his car and spend a few days
-there.", she said.
+there.," she said.
 
-"Oh, I wouldn't want to impose", I politely objecting even though I
+"Oh, I wouldn't want to impose," I politely objected even though I
 was really happy she thought to invite me.
 
 "No, no, it's fine, we could all go, the three of us, as old friends
-do.", she insisted.
+do.," she insisted.
 
-"Sure, then, I'll come with you", I enthusiatically agreed, really
+"Sure, then, I'll come with you," I enthusiastically agreed, really
 hoping this will give us a chance to get closer to each other. I
-wasn't worried about her former roomate: Claudia had always made it
+wasn't worried about her former roommate: Claudia had always made it
 very clear they were never a couple, even though he had always been
 courting her.
 
@@ -173,16 +173,16 @@ to the Black Sea, stopping on the way in the middle of a gorgeous
 field filled with wild poppies in bloom. We all got out of the car and
 took pictures in the field. I even shot a few minutes on my camcorder
 with Claudia sitting in between the poppies. I still have that
-recording in an unlisted video on YouTube, it truly is a beautifully
-serene scene, just like the one in the Wizzard of Oz movie.
+recording in an unlisted video on YouTube; it truly is a beautifully
+serene scene, just like the one in the Wizard of Oz movie.
 
 Finally, we got to Eforie Nord and picked a hotel next to the
 beach. At the reception, I completely misread the scene, in my
 complete naivete, and I asked for a three-bed room. The receptionist
 made a long face at me and said all the rooms are doubles.
 
-"Allright, no problem, then", I said, "we'll take two doubles: one for
-the two of us and one for our lady friend", I said, confidently.
+"All right, no problem, then," I said, "we'll take two doubles: one for
+the two of us and one for our lady friend," I said, confidently.
 
 More blank stares from the receptionist, and then Claudia pulled me
 aside and told me she'll be sharing the room with her friend, that was
