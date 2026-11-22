@@ -194,7 +194,6 @@ have done at that point?
 Regardless of this misunderstanding, the three of us had a great time
 that week, going everywhere together, with Claudia in the middle. It was the reverse situation of that Sinaia camp ten years earlier when I was walking between Ioana and Dana. *O, tempora, o mores!*
 
-
 Every day we would go to the beach in the morning, then have lunch at
 Acapulco, the fanciest restaurant in Eforie Nord, with a large terrace
 overlooking the Black Sea and great food (the restaurant is still
