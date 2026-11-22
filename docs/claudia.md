@@ -179,7 +179,7 @@ serene scene, just like the one in the Wizard of Oz movie.
 Finally, we got to Eforie Nord and picked a hotel next to the beach.
 At the reception, I completely misread the scene, in my complete
 naivete, and I asked for a three-bed room. The receptionist made a
-long face at me and said all the rooms are doubles.
+long face at me and said all the rooms were doubles.
 
 "All right, no problem, then," I said, "we'll take two doubles: one
 for the two of us and one for our lady friend," I said, confidently.
