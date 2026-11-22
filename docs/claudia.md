@@ -147,6 +147,59 @@ snuggled next to each other on her bed, our hands touching, sharing a
 moment together, neither of us wanting to be anywhere else, wishing
 this could last forever.
 
+"Say, George, what are you doing next week?", she asked me, after the
+movie.
+
+"I don't have anything planned", I confessed.
+
+"Why don't your come with us to the beach? My former roomate and I
+were planning to drive to Eforie Nord in his car and spend a few days
+there.", she said.
+
+"Oh, I wouldn't want to impose", I politely objecting even though I
+was really happy she thought to invite me.
+
+"No, no, it's fine, we could all go, the three of us, as old friends
+do.", she insisted.
+
+"Sure, then, I'll come with you", I enthusiatically agreed, really
+hoping this will give us a chance to get closer to each other. I
+wasn't worried about her former roomate: Claudia had always made it
+very clear they were never a couple, even though he had always been
+courting her.
+
+So the next Monday we all got into his car, and drove the four hours
+to the Black Sea, stopping on the way in the middle of a gorgeous
+field filled with wild poppies in bloom. We all got out of the car and
+took pictures in the field. I even shot a few minutes on my camcorder
+with Claudia sitting in between the poppies. I still have that
+recording in an unlisted video on YouTube, it truly is a beautifully
+serene scene, just like the one in the Wizzard of Oz movie.
+
+Finally, we got to Eforie Nord and picked a hotel next to the
+beach. At the reception, I completely misread the scene, in my
+complete naivete, and I asked for a three-bed room. The receptionist
+made a long face at me and said all the rooms are doubles.
+
+"Allright, no problem, then", I said, "we'll take two doubles: one for
+the two of us and one for our lady friend", I said, confidently.
+
+More blank stares from the receptionist, and then Claudia pulled me
+aside and told me she'll be sharing the room with her friend, that was
+the plan all along, before they invited me. I had not expected that, I
+had completely misread the situation, and I was hurt, but of course I
+pretended to not care and go along with it. What else could I have
+done at that point?
+
+Regardless of this misunderstanding, the three of us had a great time
+that week, going everywhere together, with Claudia in the
+middle. Every day we would go to the beach in the morning, then have
+lunch at Acapulco, the fanciest restaurant in Eforie Nord, with a
+large terrace overlooking the Black Sea and great food (the restaurant
+is still there to this day, and it's still the best).
+
+...
+
 On my 30th birthday, my parents had a small party for me in their
 apartment. Other than my sister Ileana and her son Mihai, only my
 childhood friend Marian and his wife Ana-Maria were coming. Most of my

@@ -430,7 +430,24 @@ the snow-covered pine trees flanking the road. It was magical!
 
 The next morning, Jan drove me to the plant, I installed the printer
 and my software and made some last minute adjustments to the label layout
-at the factory owner's request. This made him very grateful!
+at the factory owner's request. This made him very happy. So happy, in
+fact, that he said:
+
+"George, feel free to browse our showroom and pick any pair of boots
+ for yourself and your wife. I can sell them to you at 50% off the
+ retail price."
+
+So I did, and Ioana and I wore those nice Naturalizer boots for a long
+time. After I got back into my office at Ahearn & Soper in Markham,
+though, the Naturalizer boss kept asking for more and more
+customizations for his labels. At first, I did them and didn't say
+anything, but after a while Rick told me to stop doing extra work for
+them outside of the contract. I don't know, those half-off boots made
+me feel I had an obligation to him, and I felt really bad, like hiding
+some terrible secret, but eventually he stopped. Thinking back, I was
+obviously paranoid, there was nothing illegal in accepting a factory
+discount when buying directly from the factory, but I was new to the
+country and didn't want to get caught into any shady scheme...
 
 ...
 
