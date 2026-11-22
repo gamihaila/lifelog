@@ -156,8 +156,8 @@ movie.
 were planning to drive to Eforie Nord in his car and spend a few days
 there.," she said.
 
-"Oh, I wouldn't want to impose," I politely objected even though I
-was really happy she thought to invite me.
+"Oh, I wouldn't want to impose," I politely objected even though I was
+really happy she thought to invite me.
 
 "No, no, it's fine, we could all go, the three of us, as old friends
 do.," she insisted.
@@ -176,13 +176,13 @@ with Claudia sitting in between the poppies. I still have that
 recording in an unlisted video on YouTube; it truly is a beautifully
 serene scene, just like the one in the Wizard of Oz movie.
 
-Finally, we got to Eforie Nord and picked a hotel next to the
-beach. At the reception, I completely misread the scene, in my
-complete naivete, and I asked for a three-bed room. The receptionist
-made a long face at me and said all the rooms are doubles.
+Finally, we got to Eforie Nord and picked a hotel next to the beach.
+At the reception, I completely misread the scene, in my complete
+naivete, and I asked for a three-bed room. The receptionist made a
+long face at me and said all the rooms are doubles.
 
-"All right, no problem, then," I said, "we'll take two doubles: one for
-the two of us and one for our lady friend," I said, confidently.
+"All right, no problem, then," I said, "we'll take two doubles: one
+for the two of us and one for our lady friend," I said, confidently.
 
 More blank stares from the receptionist, and then Claudia pulled me
 aside and told me she'll be sharing the room with her friend, that was
@@ -192,11 +192,11 @@ pretended to not care and go along with it. What else could I have
 done at that point?
 
 Regardless of this misunderstanding, the three of us had a great time
-that week, going everywhere together, with Claudia in the
-middle. Every day we would go to the beach in the morning, then have
-lunch at Acapulco, the fanciest restaurant in Eforie Nord, with a
-large terrace overlooking the Black Sea and great food (the restaurant
-is still there to this day, and it's still the best).
+that week, going everywhere together, with Claudia in the middle.
+Every day we would go to the beach in the morning, then have lunch at
+Acapulco, the fanciest restaurant in Eforie Nord, with a large terrace
+overlooking the Black Sea and great food (the restaurant is still
+there to this day, and it's still the best).
 
 ...
 

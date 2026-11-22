@@ -435,7 +435,7 @@ happy, in fact, that he said:
 
 "George, feel free to browse our showroom and pick any pair of boots
 for yourself and your wife. I can sell them to you at 50% off the
- retail price."
+retail price."
 
 So I did, and Ioana and I wore those nice Naturalizer boots for a long
 time. After I got back into my office at Ahearn & Soper in Markham,
