@@ -434,8 +434,8 @@ layout at the factory owner's request. This made him very happy. So
 happy, in fact, that he said:
 
 "George, feel free to browse our showroom and pick any pair of boots
- for yourself and your wife. I can sell them to you at 50% off the
- retail price."
+for yourself and your wife. I can sell them to you at 50% off the
+retail price."
 
 So I did, and Ioana and I wore those nice Naturalizer boots for a long
 time. After I got back into my office at Ahearn & Soper in Markham,
@@ -447,7 +447,7 @@ me feel I had an obligation to him, and I felt really bad, like hiding
 some terrible secret, but eventually he stopped. Thinking back, I was
 obviously paranoid, there was nothing illegal in accepting a factory
 discount when buying directly from the factory, but I was new to the
-country and didn't want to get caught into any shady scheme...
+country and didn't want to get caught up in any shady scheme...
 
 ...
 
