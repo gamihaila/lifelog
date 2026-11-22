@@ -185,11 +185,11 @@ long face at me and said all the rooms were doubles.
 for the two of us and one for our lady friend," I said, confidently.
 
 More blank stares from the receptionist, and then Claudia pulled me
-aside and told me she'll be sharing the room with her friend, that was
-the plan all along, before they invited me. I had not expected that, I
-had completely misread the situation, and I was hurt, but of course I
-pretended to not care and go along with it. What else could I have
-done at that point?
+aside and told me she would be sharing the room with her friend, that
+was the plan all along, before they invited me. I had not expected
+that, I had completely misread the situation, and I was hurt, but of
+course I pretended to not care and go along with it. What else could I
+have done at that point?
 
 Regardless of this misunderstanding, the three of us had a great time
 that week, going everywhere together, with Claudia in the middle.
