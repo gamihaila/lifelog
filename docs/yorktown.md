@@ -123,21 +123,20 @@ Aside from teaching and conferences, there was another escape from the
 monotony of my office job: after a few years of working at IBM, I
 received an invitation by e-mail to serve on a grant review panel for
 NSERC, the Canadian Natural Sciences and Engineering Research Council,
-the Canadian counterpart to the American National Science
-Foundation. While in graduate school, we were all encouraged to apply
-for all the available research grants from NSERC. I was fortunate
-enough to be granted a three-year award from NSERC, which not only
-exceeded the Graduate School stipend but also exempted me from TA
-duties so I could finish my thesis faster. So, naturally, when the
-invitation came, I saw it as an opportunity to do my part, especially
-since I always felt bad for emigrating from my adoptive country right
-after graduation. This was an unpaid volunteering position, with a
-three-year commitment to review about fifty research grant
-applications each year in my spare time, and attend a one-week review
-meeting in Ottawa each year, in February. Since I held a research
-position at IBM, it wasn't hard to get management approval to attend,
-as long as I did all the actual review work outside of my regular work
-hours.
+the Canadian counterpart to the American National Science Foundation.
+While in graduate school, we were all encouraged to apply for all the
+available research grants from NSERC. I was fortunate enough to be
+granted a three-year award from NSERC, which not only exceeded the
+Graduate School stipend but also exempted me from TA duties so I could
+finish my thesis faster. So, naturally, when the invitation came, I
+saw it as an opportunity to do my part, especially since I always felt
+bad for emigrating from my adoptive country right after graduation.
+This was an unpaid volunteering position, with a three-year commitment
+to review about fifty research grant applications each year in my
+spare time, and attend a one-week review meeting in Ottawa each year,
+in February. Since I held a research position at IBM, it wasn't hard
+to get management approval to attend, as long as I did all the actual
+review work outside of my regular work hours.
 
 So it was that for the next three years I drove to Ottawa for the
 February review meeting, without pay, but with all expenses covered by
