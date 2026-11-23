@@ -60,8 +60,8 @@ it didn't feel like an obligation, it was an honor. Prof. Holt was an
 amazing scholar and a passionate educator at the same time, which
 doesn't happen as often as people may think. For the Introduction to
 Programming lower-division classes all U of T students were learning
-to code in Turing, a full-fledged programming language he
-co-invented with James Cordy, complete with its own custom IDE and debugger.
+to code in Turing, a full-fledged programming language he co-invented
+with James Cordy, complete with its own custom IDE and debugger.
 
 I remember halfway through the semester, he invited Ioana and me to
 his office to discuss our workload and any adjustments we may need. He
