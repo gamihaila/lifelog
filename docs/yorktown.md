@@ -126,14 +126,14 @@ NSERC, the Canadian Natural Sciences and Engineering Research Council,
 the Canadian counterpart to the American National Science
 Foundation. While in graduate school, we were all encouraged to apply
 for all the available research grants from NSERC. I was fortunate
-enough to be grated a three-year award from NSERC, which not only
+enough to be granted a three-year award from NSERC, which not only
 exceeded the Graduate School stipend but also exempted me from TA
-duties so I can finish my thesis faster. So, naturally, when the
-invitation came, I saw it as opportunity to do my part, especially
+duties so I could finish my thesis faster. So, naturally, when the
+invitation came, I saw it as an opportunity to do my part, especially
 since I always felt bad for emigrating from my adoptive country right
 after graduation. This was an unpaid volunteering position, with a
 three-year commitment to review about fifty research grant
-applications each year on my spare time, and attend a one-week review
+applications each year in my spare time, and attend a one-week review
 meeting in Ottawa each year, in February. Since I held a research
 position at IBM, it wasn't hard to get management approval to attend,
 as long as I did all the actual review work outside of my regular work
@@ -142,10 +142,9 @@ hours.
 So it was that for the next three years I drove to Ottawa for the
 February review meeting, without pay, but with all expenses covered by
 NSERC. The review sessions were intense, though, with about ten
-application to rate each day, half of them in French. Hard as it was,
+applications to rate each day, half of them in French. Hard as it was,
 it was a welcome distraction from my day job, and an opportunity to
-learn about cutting edge research going on in Canadian universities.
-
+learn about cutting-edge research going on in Canadian universities.
 
 By 2010, though, after ten years of IBM Research, I got a call from a
 Google recruiter: "Hello, remember us, you rejected our offer back in
