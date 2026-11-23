@@ -63,15 +63,16 @@ Programming lower-division classes all U of T students were learning
 to code in Turing, a full-fledged programming language fully invented
 by him, complete with its own custom IDE and debugger.
 
-I remember half-way through the semester, he invited Ioana and I to
+I remember halfway through the semester, he invited Ioana and me to
 his office to discuss our workload and any adjustments we may need. He
 also mentioned to us that he worked with another graduate student from
-University of Bucharest a couple of years before, by the name Daniel
-Marcu, and he was very impressed with the quality of our education, so
-much so that he was puzzled why he saw so little in terms of research
-coming from Romanian universitites in international conferences.
+University of Bucharest a couple of years before, by the name of
+Daniel Marcu, and he was very impressed with the quality of our
+education, so much so that he was puzzled why he saw so little in
+terms of research coming from Romanian universities in international
+conferences.
 
-"Oh, there is a very simple explanation for that", Ioana and I said,
+"Oh, there is a very simple explanation for that," Ioana and I said,
 "our professors didn't have any contact with the West before 1989, and
 even now when they are allowed to travel, they don't have funding from
 their institutions; some of them pay out of pocket as much as they
@@ -84,11 +85,11 @@ outside his awareness, consumed as he was by his work.
 One time, he asked me if I would be available to substitute for him
 while he was attending a conference, and I told him:
 
-"Of course, professor! It will be and honor!"
+"Of course, professor! It will be an honor!"
 
-The next semester I enrolled in his Introduction to Compilers
-class. It was there where I learned about practical compiler
-algorithms like recursive descent, which came very handy when I built
-the WebSQL compiler for my Master's thesis.
+The next semester I enrolled in his Introduction to Compilers class.
+It was there that I learned about practical compiler algorithms like
+recursive descent, which came in very handy when I built the WebSQL
+compiler for my Master's thesis.
 
 For the next year, it felt like nothing could ever go wrong now.
