@@ -53,5 +53,38 @@ solutions to optimization problems that are impossible to solve
 efficiently (Ioana's problem is an NP-complete problem, by the way).
 
 We were both involved in genuinely fascinating topics, a far cry from
-our first jobs. For the next year, it felt like nothing could ever go
-wrong now.
+our first jobs. Additionally, we were both teaching assistants for
+Professor Rick Holt's Introduction to Compilers upper division
+undergraduate course. It was a requirement for our graduate
+scholarship, but to us it didn't feel like an obligation, it was an
+honor. Prof. Holt was an amazing scholar and a passionate educator at
+the same time, which doesn't happen as often as people may think. For
+the Introduction to Programming lower-division classes all U of T
+students were learning to code in Turing, a full-fledged programming
+language fully invented by him, complete with its own custom IDE and
+debugger.
+
+I remember half-way through the semester, he invited Ioana and I to
+his office to discuss our workload and any adjustments we may need. He
+also mentioned to us that he worked with another graduate student from
+University of Bucharest a couple of years before, by the name Daniel
+Marcu, and he was very impressed with the quality of our education, so
+much so that he was puzzled why he saw so little in terms of research
+coming from Romanian universitites in international conferences.
+
+"Oh, there is a very simple explanation for that", Ioana and I said,
+"our professors didn't have any contact with the West before 1989, and
+even now when they are allowed to travel, they don't have funding from
+their institutions; some of them pay out of pocket as much as they
+can, but that's very limited."
+
+It was strange for us at the time that something so obvious would
+never cross his mind, but looking back I can see that this fell well
+outside his awareness, consumed as he was by his work.
+
+One time, he asked me if I would be available to substitute for him
+while he was attending a conference, and I told him:
+
+"Of course, professor! It will be and honor!"
+
+For the next year, it felt like nothing could ever go wrong now.

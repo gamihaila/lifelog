@@ -1,7 +1,7 @@
 It was completely unexpected. I just approached a girl that looked
-like another at a Thanksgiving church dinner.
+like another at a Thanksgiving church dinner. 
 
-On our first date, in that mansion she was house-sitting for John, she
+On our first date, in that mansion she was house-sitting for John, Lara
 played Debussy's Clair de lune for me and I was overwhelmed by an
 intense happiness. I couldn't believe my luck.
 
