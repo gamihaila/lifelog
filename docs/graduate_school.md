@@ -54,15 +54,14 @@ efficiently (Ioana's problem is an NP-complete problem, by the way).
 
 We were both involved in genuinely fascinating topics, a far cry from
 our first jobs. Additionally, we were both teaching assistants for
-Professor Rick Holt's Introduction to Compilers upper division
-undergraduate course. It was a requirement for our graduate
-scholarship, but to us it didn't feel like an obligation, it was an
-honor. Prof. Holt was an amazing scholar and a passionate educator at
-the same time, which doesn't happen as often as people may think. For
-the Introduction to Programming lower-division classes all U of T
-students were learning to code in Turing, a full-fledged programming
-language fully invented by him, complete with its own custom IDE and
-debugger.
+Professor Rick Holt's Introduction to Programming undergraduate
+course. It was a requirement for our graduate scholarship, but to us
+it didn't feel like an obligation, it was an honor. Prof. Holt was an
+amazing scholar and a passionate educator at the same time, which
+doesn't happen as often as people may think. For the Introduction to
+Programming lower-division classes all U of T students were learning
+to code in Turing, a full-fledged programming language fully invented
+by him, complete with its own custom IDE and debugger.
 
 I remember half-way through the semester, he invited Ioana and I to
 his office to discuss our workload and any adjustments we may need. He
@@ -86,5 +85,10 @@ One time, he asked me if I would be available to substitute for him
 while he was attending a conference, and I told him:
 
 "Of course, professor! It will be and honor!"
+
+The next semester I enrolled in his Introduction to Compilers
+class. It was there where I learned about practical compiler
+algorithms like recursive descent, which came very handy when I built
+the WebSQL compiler for my Master's thesis.
 
 For the next year, it felt like nothing could ever go wrong now.
