@@ -141,6 +141,8 @@ into Romanian. I didn't understand why she was surprised, it was a
 very popular book, but I guess she thought that only Jews were
 interested.
 
+...
+
 In sixth grade we had classes in the afternoon, again. That meant I
 had the mornings to myself: parents were at work and my sister at
 school. What's a boy to do when his sister is not around? Why, go into
@@ -169,6 +171,57 @@ notebooks in triple plastic bags under the walnut tree in our
 grandparents' yard. Years later, she told me, she recovered them and
 placed them in a locked drawer in her apartment, where they still sit
 today.
+
+...
+
+Every summer I would spend ten days in a resort on the Black Sea coast
+with my sister and my parents. It was the most anticipated trip of the
+year. The summer of 1978 was no different: we took a train to
+Constanța, then a bus to Mamaia with all our bags, including a large
+metal beach umbrella, Soviet-made, that I had to carry. We found a
+terrace by the beach and sat down to have a glass of Pepsi Cola (a
+rarity in those days, only available in restaurants). My dad went to
+the Tourism Office, and asked to speak with the Chief of
+Protocol. What's that, you ask? It's the person in charge of
+coordinating hotel assignments for VIPs (usually party officials and
+other very important people). In the case of my dad, his name was
+placed on that list by a former doctoral student of his who was now a
+professor at the University of Constanța. He was our connection since
+his appointment, which removed the anxiety of hunting for hotel
+availability months in advance that regular citizens had to resign
+themselves to. Every year we just showed up unannounced, and, no
+matter how fully booked the hotels were, there were always rooms
+available for us. As a sixth-grader, I really felt special.
+
+So, after spending a few minutes in the Tourism Office, my dad emerged
+victorious with a large room reservation in the best hotel in Mamaia,
+usually reserved for foreign tourists. We were overjoyed! We walked to
+the hotel and checked in, and then my sister and I spent some time in
+the hotel luxurious hotel lobby. At the reception they had shelves on
+top of shelves chock full with Toblerone chocolate prisms, Tic Tacs of
+every imaginable flavor and color, and other Western candies, the
+likes of which we only saw in American movies and never in regular
+stores. I was entranced, like Charlie from the Willy Wonka movie.
+When I asked my sister to buy me some, though, I was suddenly brought
+back to reality: these items could only be purchased with hard
+currency, dollars, deutchmarks, or the like, not for our Romanian lei!
+Imagine, to have them right there, but to not be able to buy them. It
+was a slap in the face, a grim reminder that we were second-rate
+citizens in our own country. I was aware of this system of shops,
+named Comturist, from Bucharest, but at least there the access was
+restricted at the door, here the merchandise was in full display in
+the open, right under my nose.
+
+In the hotel's dining hall, we had an assigned time slot when we could
+have our meals, and an assigned table. We sat down for breakfast the
+next morning and watched the neighboring tables being served Nesquick
+hot chocolate while we had a choice of tea or plain milk. They were
+foreigners, we were not. Everybody around us was speaking another
+language, we were the only locals. Not a very good way to instill a
+love of our beloved leader, I'll tell you that much.
+
+...
+
 
 Life at Școala Generală Nr. 205 was in most respects like life
 anywhere else: homework, teachers, friendships, the usual problems of
