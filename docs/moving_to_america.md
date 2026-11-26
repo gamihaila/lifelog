@@ -74,7 +74,7 @@ would have been worth when Google finally went public.
 
 Soon after, I finished my PhD. My scholarship money ran out the moment
 I graduated, and so did something else: my apartment. I had been
-living in Graduate Family Housing on Charles Street with my fiancee,
+living in Graduate Family Housing on Charles Street with my fiancée,
 Grațiela, and graduation meant we had to be out by the end of
 September. We put our furniture into storage and went looking for
 somewhere to live while my US work visa, the one for IBM, was still
@@ -122,8 +122,8 @@ the travel expenses for my interviews. So I got on a plane and flew to
 Seattle, all expenses paid. First, I interviewed at Crossgain: they
 had me meet with several engineers and code on the whiteboard, then
 Adam invited me into his office to offer me a software engineer job. I
-told him I already have an offer for a research position from IBM but
-I took his written offer and told him I'll give him an answer soon.
+told him I already had an offer for a research position from IBM but I
+took his written offer and told him I would give him an answer soon.
 
 After the Crossgain interview I still had a day before the Nimble
 interview and I decided to drive to Vancouver for the day. Once there
@@ -185,7 +185,7 @@ technically a wedding gown, but it did the job.
 After New Year's Day, 2001, Grațiela was due back to Toronto, for her
 doctoral research and also to get a proper dependent visa. She only
 stayed a couple weeks there and came back, after arranging with her
-thesis advisor that she will continue working remotely and meet once
+thesis advisor that she would continue working remotely and meet once
 per quarter. So a few months passed uneventfully until one day
 Grațiela started feeling sick and we went to see a doctor at the local
 clinic. After he consulted her, he came looking for me in the waiting
@@ -257,7 +257,7 @@ former site of the World Trade Center became known.
 
 Just a few weeks before we had contacted a real estate agent to help
 us find a home in Westchester County. When she called us afterwards we
-told her we're canceling our search for now, we really didn't know
+told her we were canceling our search for now, we really didn't know
 what was going to happen to America. Nothing was the same after that,
 newspapers were full of hate for all Muslims, huge Wanted pictures of
 Osama bin Laden on their front pages, airport security became
