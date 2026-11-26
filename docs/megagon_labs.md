@@ -47,23 +47,7 @@ nice surprise for the both of us! After the conference, Alon convinced
 all of us to take a flight to Iguaçu, to see the famous Falls. "Come
 on", I remember him saying to us, "how many times in your life would
 you have a chance to see this? Let's all go together!" So we all went,
-including Maria, and had a great time. Our group got assigned a
-fantastic tour guide, a young Brazilian woman who spoke five
-languages, including Japanese, English and French. She took us to the
-best viewing spots and answered all our questions. Finally, we arrived
-at a boathouse where we were offered a ride very close to the
-falls. We were warned though that we will get drenched. Hearing that,
-I initially declined, not thrilled at the prospect of spending the
-rest of the day in wet clothes, especially on the flight back to Rio,
-but everyone else was going and I didn't want to stay behind by
-myself. It was then that a briliant idea came to me: I went to the
-gift shop inside the boathouse and I bought a pair of swim trunks; I
-then went into the changeroom, put them on, and locked all my clothes
-into a cabinet. I emerged in my swimsuit and joined the group. The
-boat went almost under the falls and we were all dripping wet on the
-way back to the boathouse. I got back to the changeroom, donned my
-dry clothes, and joined my drenched colleagues cheerfully. On the
-flight back to Rio I was the only one feeling comfortable.
+including Maria, and had a great time. Our group got assigned a fantastic tour guide, a young Brazilian woman who spoke five languages, including Japanese, English and French. She took us to the best viewing spots and answered all our questions. Finally, we arrived at a boathouse where we were offered a ride very close to the falls. We were warned though that we would get drenched. Hearing that, I initially declined, not thrilled at the prospect of spending the rest of the day in wet clothes, especially on the flight back to Rio, but everyone else was going and I didn't want to stay behind by myself. It was then that a brilliant idea came to me: I went to the gift shop inside the boathouse and I bought a pair of swim trunks; I then went into the changeroom, put them on, and locked all my clothes into a cabinet. I emerged in my swimsuit and joined the group. The boat went almost under the falls and we were all dripping wet on the way back to the boathouse. I got back to the changeroom, donned my dry clothes, and joined my drenched colleagues cheerfully. On the flight back to Rio I was the only one feeling comfortable.
 
 Pretty soon after we came back from Brazil I realized that one of the
 major initiatives was developing a chatbot aiming to apply positive
@@ -109,30 +93,7 @@ a coding bootcamp for iOS developers (his instructor recommended him
 to us). I had a very good feeling about him during the interview, and
 I wasn't wrong. John took the desk next to mine and we worked side by
 side: we agreed on a protocol for the communication with the backend
-and we refined it over time, testing every change in the app. John was
-really fun to work with: not only he implemented the entire frontend
-by himself, he was always eager to understand more about the entire
-stack; one day, as we were discussing the backend logic, John asked
-me:
-
-"George, why are these arrays called vectors? I thought vectors are
-supposed to express physical quantities with direction and magnitude,
-like force and velocity."
-
-"Well, they are, and in the ususal three dimensional space we live in,
-they are encoded as arrays of length three, where each cell holds one
-coordinate, and in programming languages they are called both arrays
-or vectors. In general, we can have vectors of any dimensionality in
-longer arrays.", I explained.
-
-"Wow, so they are really the same thing, nobody taught us that. So how
-come you guys are talking about the cosine similarity when you're
-really just computing the dot product of the vectors?", he puzzled.
-
-So I went to the whiteboard and proved to him that the cosine of the
-angle between two vectors is equal to the dot product. He was in
-awe. I never had a more rewarding teaching experience either before of
-after that.
+and we refined it over time, testing every change in the app. John was really fun to work with: not only did he implement the entire frontend by himself, he was always eager to understand more about the entire stack; one day, as we were discussing the backend logic, John asked me: "George, why are these arrays called vectors? I thought vectors are supposed to express physical quantities with direction and magnitude, like force and velocity." "Well, they are, and in the usual three-dimensional space we live in, they are encoded as arrays of length three, where each cell holds one coordinate, and in programming languages they are called both arrays or vectors. In general, we can have vectors of any dimensionality in longer arrays," I explained. "Wow, so they are really the same thing, nobody taught us that. So how come you guys are talking about the cosine similarity when you're really just computing the dot product of the vectors?" he asked, puzzled. So I went to the whiteboard and proved to him that the cosine of the angle between two unit vectors is equal to their dot product. He was in awe. I never had a more rewarding teaching experience either before or after that.
 
 A couple of months after I became the de facto architect of the new
 system, one early morning Alon turned around with his chair (his desk
