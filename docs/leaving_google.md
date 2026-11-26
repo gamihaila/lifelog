@@ -16,7 +16,8 @@ if I was available for a chat over lunch. We set a time and place for
 the following week, and we met. There, Alon told me all about the kind
 of work they were doing at the new lab, and how the Japanese parent
 company had given him complete freedom to grow the team over the next
-few years. "If you're interested, we'd love to invite you to meet the team." So I first went there for an informal chat with some of the
+few years. "If you're interested, we'd love to invite you to meet the
+team." So I first went there for an informal chat with some of the
 senior researchers who told me about the work they were doing pushing
 the boundaries of natural language understanding and building chatbot
 prototypes for various application domains (this was years before
@@ -62,7 +63,8 @@ catch up.
 
 So I called Alon and told him I'm in. Now I had the delicate task of
 announcing my resignation. I grabbed my manager, we went for a walk in
-the beautiful Google campus, and I explained my reasoning. He asked me if there was anything he could do to make me stay. There wasn't.
+the beautiful Google campus, and I explained my reasoning. He asked me
+if there was anything he could do to make me stay. There wasn't.
 
 So, with a heavy heart, I left Google, the place where I had matured
 as a professional software engineer.

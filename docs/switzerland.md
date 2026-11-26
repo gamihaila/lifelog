@@ -15,8 +15,10 @@ have to fly back immediately?
 So, the next time the manager of the Zurich team came to Mountain View
 I approached him and offered to come work with his people for a month,
 in the summer. This was back in 2016. The manager was initially
-suspicious of my request, but I quickly made it clear that I was going to cover all the travel and lodging expenses by myself as I was anyway
-going to Europe for vacation, and in any case I wasn't looking to transfer there. He didn't have any more objections after that, so I
+suspicious of my request, but I quickly made it clear that I was going
+to cover all the travel and lodging expenses by myself as I was anyway
+going to Europe for vacation, and in any case I wasn't looking to
+transfer there. He didn't have any more objections after that, so I
 started planning my trip.
 
 I remembered that back in 1999, during the SRC internship, I had
@@ -70,12 +72,12 @@ restaurants, which by now had really good food.
 
 In Switzerland, I was going to work during the week, and every weekend
 we were going to the mountains by train. The Google office was located
-on the northwest side of Lake Zurich and our apartment was on the
-East side. For the first few days I took the train, but then I found
-out that I could borrow one of the Google E-bikes from the office for
-my commute. That was a game changer. Every morning I would get a half
-an hour of pure joy cycling alongside the lake to the office and in
-the evening on the way back.
+on the northwest side of Lake Zurich and our apartment was on the East
+side. For the first few days I took the train, but then I found out
+that I could borrow one of the Google E-bikes from the office for my
+commute. That was a game changer. Every morning I would get a half an
+hour of pure joy cycling alongside the lake to the office and in the
+evening on the way back.
 
 One time we went to Fribourg to visit some family friends we met in
 the Saint Vladimir Seminary in Crestwood, New York: he was a Swiss man

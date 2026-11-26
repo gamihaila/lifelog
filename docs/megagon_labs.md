@@ -1,6 +1,7 @@
 After a couple of weeks of vacation after I left Google, it was time
 to start my new job. The research lab I joined was called Recruit
-Institute of Technology at the time, and only later did it change its name to Megagon Labs. The lab had an office in Tokyo and another one
+Institute of Technology at the time, and only later did it change its
+name to Megagon Labs. The lab had an office in Tokyo and another one
 in Mountain View.
 
 After Google, it was a bit of a shock to have to build software
@@ -183,7 +184,8 @@ business", I said.
 
 He wasn't convinced, but we ended the conversation there. I took Alon
 aside the next day and told him everything. I ended with "Are you sure
-Recruit will continue to fund this project?" Alon assured me that he had complete autonomy on the research direction of the lab and said
+Recruit will continue to fund this project?" Alon assured me that he
+had complete autonomy on the research direction of the lab and said
 that the Japanese senior engineer overstepped his authority.
 
 Not too long after this exchange, both Alon and I left Megagon Labs.
