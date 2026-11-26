@@ -1,7 +1,6 @@
 After a couple of weeks of vacation after I left Google, it was time
 to start my new job. The research lab I joined was called Recruit
-Institute of Technology at the time, and only later it changed its
-name to Megagon Labs. The lab had an office in Tokyo and another one
+Institute of Technology at the time, and only later did it change its name to Megagon Labs. The lab had an office in Tokyo and another one
 in Mountain View.
 
 After Google, it was a bit of a shock to have to build software
@@ -23,7 +22,7 @@ naming companies (yes, such companies exist!), they created a short
 list of candidate names, and they picked one: Megagon. What is a
 megagon? Glad you asked: it's a regular polygon with one million
 edges! Looks indistinguishable from a circle, like the red one in the
-Japanese flag which symbolizes the rising Sun. The symbolism here was
+Japanese flag which symbolizes the rising sun. The symbolism here was
 something like this: we are working on systems that are approximating
 human behavior so well as to be indistinguishable from real people. I
 remember Alon telling us to keep the name secret from everyone,
@@ -36,7 +35,7 @@ going to take place in Rio de Janeiro, Brazil. We had a couple of
 accepted papers at VLDB, including the one on the text extraction
 system I had worked on, so we all got to go! I even took Maria with me
 (I just had to pay for her plane ticket and student registration). Our
-flight had an eight hour stopover in Panama, so we also got to see the
+flight had an eight-hour stopover in Panama, so we also got to see the
 Panama Canal on our way!
 
 Once in Rio, Maria came with me to all the talks. At one of the
@@ -151,7 +150,7 @@ lab?", he followed.
 At that time, there were only a handful of full-time software
 engineers there plus a couple of contractors, including John. I had a
 reasonably good idea of the projects they were working on, so I
-agreed, on the condition that I can still spend enough time actually
+agreed, on the condition that I could still spend enough time actually
 writing software myself. I still had to build the database layer, and
 the API server and figure out how to deploy them on the AWS cloud
 using Kubernetes (so clunky, compared to Borg), but in a few months we
@@ -184,8 +183,7 @@ business", I said.
 
 He wasn't convinced, but we ended the conversation there. I took Alon
 aside the next day and told him everything. I ended with "Are you sure
-Recruit will continue to fund this project?" Alon assured me that he
-has complete autonomy on the research direction of the lab and said
+Recruit will continue to fund this project?" Alon assured me that he had complete autonomy on the research direction of the lab and said
 that the Japanese senior engineer overstepped his authority.
 
 Not too long after this exchange, both Alon and I left Megagon Labs.

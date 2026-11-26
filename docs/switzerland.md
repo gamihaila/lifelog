@@ -15,10 +15,8 @@ have to fly back immediately?
 So, the next time the manager of the Zurich team came to Mountain View
 I approached him and offered to come work with his people for a month,
 in the summer. This was back in 2016. The manager was initially
-suspicious of my request, but I quickly made it clear that I'm going
-to cover all the travel and lodging expenses by myself as I was anyway
-going to Europe for vacation, and in any case I'm not looking to
-transfer there. He didn't have any more objections after that, so I
+suspicious of my request, but I quickly made it clear that I was going to cover all the travel and lodging expenses by myself as I was anyway
+going to Europe for vacation, and in any case I wasn't looking to transfer there. He didn't have any more objections after that, so I
 started planning my trip.
 
 I remembered that back in 1999, during the SRC internship, I had
@@ -47,7 +45,7 @@ vacations throughout the year instead of an extended summer vacation).
 
 Oh well, the back-up option was Airbnb: after quite a bit of looking
 around on the site, I finally found a three-bedroom apartment in
-Küsnacht, a little town on the East shore of Lake Zurich, not too far
+Küsnacht, a little town on the east shore of Lake Zurich, not too far
 from the Google office. The owner was a retired American diplomat, who
 was spending his summer in the States, and he was offering his place
 at a very reasonable rate (I guess he was quite well-off to care about
@@ -72,7 +70,7 @@ restaurants, which by now had really good food.
 
 In Switzerland, I was going to work during the week, and every weekend
 we were going to the mountains by train. The Google office was located
-on the North West side of Lake Zurich and our apartment was on the
+on the northwest side of Lake Zurich and our apartment was on the
 East side. For the first few days I took the train, but then I found
 out that I could borrow one of the Google E-bikes from the office for
 my commute. That was a game changer. Every morning I would get a half

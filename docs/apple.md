@@ -10,7 +10,7 @@ me she got an offer from Apple, sometime around 2015. "That's
 exciting, you should take it!", I said. She did.
 
 We continued to have regular lunches after that, and in the fall of
-2018, when I told her I'm thinking of leaving Megagon, she immediately
+2018, when I told her I was thinking of leaving Megagon, she immediately
 suggested I should consider following her at Apple Maps.
 
 "Maps?", I remember asking, "what's so interesting about Maps, it's
@@ -32,8 +32,7 @@ At the same time I responded to multiple recruiters from other
 companies, and started interviewing in earnest. Within the span of a
 few weeks I had offers from LinkedIn, Open Storage, and Apple. For
 Apple I had interviewed in two different divisions: Maps and Siri. The
-Apple Siri recruiter told me they wanted to prepare an offer, but that
-I need to pick between them and Maps first. I picked Maps, in large
+Apple Siri recruiter told me they wanted to prepare an offer, but that I needed to pick between them and Maps first. I picked Maps, in large
 part because of Roxana.
 
 I joined Apple Maps in the spring of 2019. I started getting used to
@@ -97,7 +96,7 @@ in-person interactions we had taken for granted before.
 
 Initially all of us had to work from home, but after a few months we
 were allowed the option to come back to the office, if we wanted. I
-asked each engineer in my team if they want to come back, but none of
+asked each engineer in my team if they wanted to come back, but none of
 them was willing. At the time, my kids were also at home, doing their
 school work over Zoom meetings, and I was having trouble concentrating
 at home. So I went back to the office. I was the only one. The entire
@@ -110,8 +109,7 @@ time together, playing table tennis during the breaks, talking, and
 cycling to the other, larger Apple buildings that had their cafeterias
 open (ours was still closed for lack of customers). Slowly, very
 slowly, more engineers started showing up, and we would all go to
-lunch together. At some point, she told me in passing that she is
-planning to get her California driver license (she had a German one),
+lunch together. At some point, she told me in passing that she was planning to get her California driver's license (she had a German one),
 but she didn't have a car for the road test. As I had a Nissan Leaf in
 addition to our family car, I offered to lend it to her to practice
 and also to go with her to the DMV for the test. I have fond memories
@@ -139,8 +137,7 @@ look for someone else to manage the team. Do you have any
 suggestions?"
 
 "Actually, I do, and I think he would do a great job." I said, and
-nominated the best senior engineer in my team, who was the de-facto
-architect of the new system.
+nominated the best senior engineer in my team, who was the de facto architect of the new system.
 
 So it was, that after about three years of management, I went back to
 doing what I love! It wasn't easy, but it was the best decision. It
