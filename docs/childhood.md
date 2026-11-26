@@ -196,7 +196,7 @@ sixth-grader, I really felt special.
 So, after spending a few minutes in the Tourism Office, my dad emerged
 victorious with a reservation at Hotel Riviera, the best hotel in Mamaia,
 usually reserved for foreign tourists. We were overjoyed! We walked to
-the hotel and checked into a large room on the tenth floor overlooking the beach, and then my sister and I went downstairs to hang out fir a bit in
+the hotel and checked into a large room on the tenth floor overlooking the beach, and then my sister and I went downstairs to hang out for a bit in
 the luxurious hotel lobby. At the reception they had shelves on top of
 shelves chock-full of Toblerone chocolate prisms, Tic Tacs of every
 imaginable flavor and color, and other Western candies, the likes of
