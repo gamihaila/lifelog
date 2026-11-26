@@ -78,8 +78,8 @@ and stopped answering my phone calls, so that was that. I wasn't too
 upset about that, if anything I was kind of happy Lara still cared.
 This wasn't the first time Lara had marked her territory this way: a
 few months before I left Toronto, a Romanian friend of mine who was
-married to an Englishwoman had introduced me to one of his wife's girl
-friends, a nurse who was visiting from London. We made plans to go
+married to an Englishwoman had introduced me to one of his wife's
+girlfriends, a nurse who was visiting from London. We made plans to go
 together to the revolving restaurant on the top of Manulife Centre,
 just next to our university's graduate family housing where we were
 both staying. Lara and I were on one of our off periods at the time,
@@ -116,7 +116,7 @@ before their wedding. She said she would love to visit me in Toronto.
 "Oh-oh," I thought, "so basically she wants me to be her rebound guy."
 Well, okay, why not, I thought; it's not that my relationship with
 Lara was going anywhere. So I told her that I was in California for
-the summer and she was welcome to visit me if she wants. She agreed
+the summer and she was welcome to visit me if she wanted. She agreed
 enthusiastically and booked her flight for the following week.
 
 Happy about this turn of events I mentioned this to Lara on our next
@@ -194,7 +194,7 @@ Oh, well, eventually she calmed down and we resumed our daily
 routines, which involved me trying to split my time between the two of
 them and take turns appeasing each of them. That was exhausting.
 
-In my heart I knew me and Cristina had no future together, but I
+In my heart I knew Cristina and I had no future together, but I
 couldn't tell her that directly. But she understood. A few weeks later
 I drove her to the airport and she was gone forever[^1]. Lara left
 soon after, I guess she figured there wasn't any more reason for her
@@ -236,7 +236,7 @@ I don't like being set up, it's awkward."
 "Alright, I'll go", I reluctantly agreed.
 
 So I took the elevator up to Laura's place to meet Grațiela. I didn't
-fathom at that time that this will be the girl I was going to marry.
+fathom at that time that this would be the girl I was going to marry.
 Laura introduced us, but as expected, the conversation was awkward and
 I could tell she wasn't that interested either. So after a few
 pleasantries I went back to my apartment. Lara was eager to find out
@@ -247,7 +247,7 @@ how that meeting went.
 "Yeah", she said, "good! You don't want to marry a Romanian girl,
 you'll have ugly kids, no racial mixture."
 
-Well, she couldn't have been more wrong: me and Grațiela got married
+Well, she couldn't have been more wrong: Grațiela and I got married
 the following year and went on to have four beautiful daughters. All
 the result of a series of unforeseeable events: moving to Toronto in
 1993, divorcing in Spring 1996, meeting Jenny at the Welcome party at

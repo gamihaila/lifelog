@@ -14,7 +14,7 @@ professionals". The initial consultation was free, so I thought "why
 not, what do I have to lose?". I called the number on the card and
 made an appointment. On the agreed day I got on the subway and went to
 the furthest station North, somewhere close to Markham, I believe. The
-agency was located in an elegant, expensive looking office building. I
+agency was located in an elegant, expensive-looking office building. I
 checked in with their receptionist and, after a few minutes, an
 elegant woman invited me into her office for our meeting. Once there,
 she took a large piece of paper and started drawing:
@@ -125,7 +125,7 @@ in the past, during my college years.
 The next year continued in a similar way, with Lara coming and going,
 but I was getting used to the idea of not getting too attached to her.
 I started attending the gatherings of the Romanian Students Club at
-the university, with the not so secret agenda of perhaps meeting
+the university, with the not-so-secret agenda of perhaps meeting
 someone there. After one of these gatherings I invited all of them to
 my place to watch a videotape with a show featuring Divertis, the most
 prominent Romanian stand-up comedy group at that time. Everybody had a
@@ -139,13 +139,13 @@ friends of some friends of mine.
 At some point in December though, I got a phone call from one of the
 Romanian students called Luiza, asking me about my New Year party. I
 told her that everyone had declined so the party wasn't happening, but
-if she had no other plans she's welcome to come with me to my friends'
-party. I didn't mean anything by it, Luiza being barely twenty at that
-point, while I was thirty. Eager to escape another New Year's party
-with her parents at home, Luiza jumped at my invitation. I came to
-pick her up from her parents' home, we took the subway and we went to
-the party. We danced on ABBA the whole night and I asked her if she
-heard about them.
+if she had no other plans she was welcome to come with me to my
+friends' party. I didn't mean anything by it, Luiza being barely
+twenty at that point, while I was thirty. Eager to escape another New
+Year's party with her parents at home, Luiza jumped at my invitation.
+I came to pick her up from her parents' home, we took the subway and
+we went to the party. We danced on ABBA the whole night and I asked
+her if she heard about them.
 
 "Yes, I'm pretty sure my parents had already met when ABBA was
 popular", she joked.
@@ -162,7 +162,7 @@ anything, my distance seemed to intensify her fixation.
 
 I felt bad for her, and mad at myself for inadvertently leading her
 on. It was time to put things straight, so when she called me to ask
-when will we see each other again I said something along these lines:
+when we would see each other again I said something along these lines:
 
 "Look, Luiza, you're a wonderful girl, but I'm not in the right frame
 of mind for a relationship right now, I have a lot of problems to work
@@ -210,7 +210,7 @@ opportunity:
 "Oh, I don't know how to say it, and please don't take it the wrong
 way, but I do have a spare room in my apartment, and you're welcome to
 stay there until you find a place of your own". It was true, when
-Ioana left, I continued to rent our one bedroom apartment in the
+Ioana left, I continued to rent our one-bedroom apartment in the
 graduate students' family housing high rise on Charles Street, just
 minutes walking distance from campus (why would I give that up, just
 because I wasn't married anymore, it was a great deal!). In my mind I
@@ -235,7 +235,7 @@ any issue in us sharing a place. That put Laura at ease even more and
 she cheerfully described the arrangement in her email messages to her
 former dorm roommate in Bucharest, Grațiela:
 
-"I am living with a CS grad student George in his one bedroom
+"I am living with a CS grad student George in his one-bedroom
 apartment next to campus. On weekends we go cycling to the lake and we
 have picnics at the beach. Don't worry, he has a girlfriend, a native
 girl named Lara, although I'm not sure how serious that relationship
@@ -252,4 +252,4 @@ grocery store and in his spare time he was learning how to code on my
 laptop. He asked me to borrow textbooks on programming from the
 department and I happily obliged. Even though he had a humanities
 background he actually got really good at coding, and ended up landing
-an entry level job in IT not too long after.
+an entry-level job in IT not too long after.

@@ -143,8 +143,8 @@ official divorce papers (no-fault divorce with no communal property to
 divide), signed them, and was getting ready for my trip to Europe!
 
 It happened that Ioana was also going on vacation to Bucharest at the
-same time and we figured out that while we're both there we should set
-things straight with the Romanian authorities too. You see, even
+same time and we figured out that while we were both there we should
+set things straight with the Romanian authorities too. You see, even
 though we were already divorced in Canada, it turns out that in
 Romania we were still legally married. I suppose we could have applied
 to get our Canadian divorce papers translated and notarized in

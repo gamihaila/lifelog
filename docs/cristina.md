@@ -9,7 +9,7 @@ decisions. Speaking of different decisions, I thought suddenly, I
 should call Dana and make arrangements for my arrival.
 
 I found a payphone on the street and called Dana in Paris. She was
-home and picked up right away. She asked me what time I will be
+home and picked up right away. She asked me what time I would be
 arriving and instructed me to take the city shuttle from the Charles
 de Gaulle Airport all the way to the terminus point, Hotel Meridien,
 which was close to where she was staying. She was going to meet me in
@@ -51,8 +51,8 @@ was thinking "yeah, I wish she was". Dana welcomed me very warmly, and
 I spent the night in her apartment until the next day, when my dorm
 room at the Cité Universitaire was ready. During my visit she briefed
 me on the social hierarchies in the French scientific circles,
-starting with the top tier, the graduates of the Ecole Normale
-Superieure, which were guaranteed life-long employment in the State
+starting with the top tier, the graduates of the École Normale
+Supérieure, which were guaranteed life-long employment in the State
 institutions. I was ready to face my peers at the INRIA!
 
 The next day I went to the Résidence André Honnorat inside the Cité
@@ -168,7 +168,7 @@ say. At some point a waiter came and she ordered champagne. Not a big
 deal, I was thinking. Wrong! When the bill came that bottle was priced
 at $500. When I saw the bill I realized at once I'd been had. Seeing
 my face, the woman got out of character and admitted that this was
-just her job there. I told her I feel sorry for her, and left. For me,
+just her job there. I told her I felt sorry for her, and left. For me,
 the $500 was the price I had to pay to learn a lesson, but I couldn't
 imagine how she was able to live with herself doing this job, day in
 and day out.
@@ -200,7 +200,7 @@ her by now, but was happy to see her again.
 
 In the following weeks I met several American girls who were there on
 exchange programs for the summer, and I was more than happy to act as
-their chaperon on their visits to the Eiffel Tower, the Sacré-Cœur
+their chaperone on their visits to the Eiffel Tower, the Sacré-Cœur
 Basilica, the Latin Quarter, and even the Versailles castle and
 gardens. I had figured out an infallible system: whenever I would go
 for dinner at the Cité Universitaire cafeteria (which had great food
@@ -216,7 +216,7 @@ on the street. It was a win-win situation!
 
 At INRIA too, there were several pretty girls in our research group
 and they would always go on long walks around the woods surrounding
-the campus and invite me along, either one on one or in larger groups.
+the campus and invite me along, either one-on-one or in larger groups.
 Once a week we would all go to the municipal pool in Rocquencourt. One
 time, the whole group went on an official offsite at the Château de
 Chamerolles in the Loire Valley! After a morning full of research

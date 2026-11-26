@@ -12,7 +12,7 @@ private home no less.
 I don't even remember if I saw that in a movie before, maybe, but to
 be in it for the first time was something else. And holding a
 beautiful girl in my arms. Me. A freshly divorced man who lived most
-his life in Communist Romania and then struggled in tiny immigrant
+of his life in Communist Romania and then struggled in tiny immigrant
 apartments in Canada with a wife that no longer loved him.
 
 How could I *not* fall hopelessly for her? I had never dreamed someone
