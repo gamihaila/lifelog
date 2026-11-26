@@ -131,7 +131,8 @@ with about thirty employees), so we went. It was a sumptuous party,
 with a chef cooking naan bread in the backyard in a clay oven over an
 open fire, and an extensive array of hors d'oeuvres and drinks. John
 was a good natured, generous guy, and he was surprisingly friendly to
-me, under the circumstances. It was as if he wanted to make sure I would take good care of Lara, of whom he was obviously still very fond
+me, under the circumstances. It was as if he wanted to make sure I
+would take good care of Lara, of whom he was obviously still very fond
 of. I could tell by the way he was talking to her that they had a long
 history together, but John had since moved on, and was now engaged
 with another woman. At that party, I remember his employees were
@@ -193,9 +194,9 @@ they met each other in person at a friend's wedding we were both
 invited (actually it was me and Lara who introduced the groom, Ovidiu,
 to Lara's best friend Ottilie and they got married, imagine that!).
 Lara made an extra effort to gaze lovingly into my eyes while slow
-dancing making sure Ioana could see us on the dance floor. Then she went
-to her and thanked her again for the nightgowns and for the boyfriend
-(!). She was like that, never letting a funny situation go
+dancing making sure Ioana could see us on the dance floor. Then she
+went to her and thanked her again for the nightgowns and for the
+boyfriend (!). She was like that, never letting a funny situation go
 unexploited.
 
 We were together for three years. It wasn't a smooth ride though; she
@@ -238,7 +239,8 @@ Labs with Alon Halevy, and living with her husband in a townhouse in
 New Jersey. She was inviting us to spend the winter vacation at her
 house: "You can go to the city anytime by train, we're only half an
 hour away", she said. When I told Lara, she was initially excited to
-go visit New York, but then she started worrying if she would be able to handle being together for that long, given her attacks. Up until we
+go visit New York, but then she started worrying if she would be able
+to handle being together for that long, given her attacks. Up until we
 got into the train she was going back and forth, not sure whether she
 could go. Luckily the train pulled off just as she was about to get up
 and leave, so she stayed, but her face was breaking off. Too late to
@@ -255,12 +257,13 @@ around and filming with my brand new camcorder. I recorded our
 conversations where she was telling me that just half a pill of
 Rivotril was all it takes for her to love me. She was serious. We went
 to Central Park and sat on a bench and talked. She told me she would
-not be able to marry me, but that she was happy to hang out for as long
-as I wanted, until I found someone to marry. "Even after", she said,
-"I would move across the street from you and your wife and you can
-come and see me whenever you want".
+not be able to marry me, but that she was happy to hang out for as
+long as I wanted, until I found someone to marry. "Even after", she
+said, "I would move across the street from you and your wife and you
+can come and see me whenever you want".
 
-For the New Year's party, we all went to New York, thinking we would see the ball drop in Times Square. Little did we know that people were
+For the New Year's party, we all went to New York, thinking we would
+see the ball drop in Times Square. Little did we know that people were
 camping there since the morning and the police had cordoned off the
 entire area. It was also bitter cold and Lara was wearing a black
 velvet dress, elegant, but not very warm. So cold that Lara and I
@@ -303,7 +306,8 @@ working as a teacher's assistant. Lara, proud of her Native American
 heritage, chose an elementary school in Deseronto, Ontario, where most
 students were from the adjacent Tyendinaga Mohawk Territory. I
 remember how happy I was for her, even though that meant she would
-have to move there temporarily (Deseronto is about two hours east of Toronto, on Highway 401, just before reaching Kingston). This meant
+have to move there temporarily (Deseronto is about two hours east of
+Toronto, on Highway 401, just before reaching Kingston). This meant
 she was getting closer to graduating and becoming a teacher.
 
 She found a house for rent in Deseronto, together with another girl in

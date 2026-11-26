@@ -11,10 +11,10 @@ When the time came to pick a research area, I remembered my first job
 and my conversation with Dana, and I chose Databases. As a result, I
 was assigned a thesis supervisor, prof. Alberto Mendelzon and invited
 for a first meeting in his office. I remembered our discussion that
-day: he asked me what I was interested in and I said I had some exposure
-to databases in my previous jobs but that lately I had been fascinated
-by the potential of the World Wide Web, which was still relatively
-small at the time but growing rapidly.
+day: he asked me what I was interested in and I said I had some
+exposure to databases in my previous jobs but that lately I had been
+fascinated by the potential of the World Wide Web, which was still
+relatively small at the time but growing rapidly.
 
 "Well, I don't normally give students research topics, but I think I
 have something you might like", he said. "I've started thinking about
@@ -37,7 +37,8 @@ Master's thesis.
 
 Meanwhile, Ioana was working with prof. Allan Borodin on a Simulated
 Annealing algorithm for graph coloring, distantly related to Ramsey
-theory. The way she explained it to me was this: suppose you were a middle school teacher for an all-girls school preparing a field trip,
+theory. The way she explained it to me was this: suppose you were a
+middle school teacher for an all-girls school preparing a field trip,
 and you needed to arrange the girls in rows so that no two girls in a
 row know each other, to avoid drama. Interestingly, this has many
 applications in experiment designs, where instead of girls the

@@ -78,7 +78,8 @@ and stopped answering my phone calls, so that was that. I wasn't too
 upset about that, if anything I was kind of happy Lara still cared.
 This wasn't the first time Lara had marked her territory this way: a
 few months before I left Toronto, a Romanian friend of mine who was
-married to an Englishwoman had introduced me to one of his wife's girlfriends, a nurse who was visiting from London. We made plans to go
+married to an Englishwoman had introduced me to one of his wife's
+girlfriends, a nurse who was visiting from London. We made plans to go
 together to the revolving restaurant on the top of Manulife Centre,
 just next to our university's graduate family housing where we were
 both staying. Lara and I were on one of our off periods at the time,
@@ -246,7 +247,8 @@ how that meeting went.
 "Yeah", she said, "good! You don't want to marry a Romanian girl,
 you'll have ugly kids, no racial mixture."
 
-Well, she couldn't have been more wrong: Grațiela and I got married the following year and went on to have four beautiful daughters. All
+Well, she couldn't have been more wrong: Grațiela and I got married
+the following year and went on to have four beautiful daughters. All
 the result of a series of unforeseeable events: moving to Toronto in
 1993, divorcing in Spring 1996, meeting Jenny at the Welcome party at
 the International Student Center in the Fall that same year, which

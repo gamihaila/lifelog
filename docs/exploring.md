@@ -139,13 +139,13 @@ friends of some friends of mine.
 At some point in December though, I got a phone call from one of the
 Romanian students called Luiza, asking me about my New Year party. I
 told her that everyone had declined so the party wasn't happening, but
-if she had no other plans she was welcome to come with me to my friends'
-party. I didn't mean anything by it, Luiza being barely twenty at that
-point, while I was thirty. Eager to escape another New Year's party
-with her parents at home, Luiza jumped at my invitation. I came to
-pick her up from her parents' home, we took the subway and we went to
-the party. We danced on ABBA the whole night and I asked her if she
-heard about them.
+if she had no other plans she was welcome to come with me to my
+friends' party. I didn't mean anything by it, Luiza being barely
+twenty at that point, while I was thirty. Eager to escape another New
+Year's party with her parents at home, Luiza jumped at my invitation.
+I came to pick her up from her parents' home, we took the subway and
+we went to the party. We danced on ABBA the whole night and I asked
+her if she heard about them.
 
 "Yes, I'm pretty sure my parents had already met when ABBA was
 popular", she joked.
@@ -161,7 +161,8 @@ which I thought would discourage her, she had become obsessed. If
 anything, my distance seemed to intensify her fixation.
 
 I felt bad for her, and mad at myself for inadvertently leading her
-on. It was time to put things straight, so when she called me to ask when we would see each other again I said something along these lines:
+on. It was time to put things straight, so when she called me to ask
+when we would see each other again I said something along these lines:
 
 "Look, Luiza, you're a wonderful girl, but I'm not in the right frame
 of mind for a relationship right now, I have a lot of problems to work
@@ -234,7 +235,8 @@ any issue in us sharing a place. That put Laura at ease even more and
 she cheerfully described the arrangement in her email messages to her
 former dorm roommate in Bucharest, Grațiela:
 
-"I am living with a CS grad student George in his one-bedroom apartment next to campus. On weekends we go cycling to the lake and we
+"I am living with a CS grad student George in his one-bedroom
+apartment next to campus. On weekends we go cycling to the lake and we
 have picnics at the beach. Don't worry, he has a girlfriend, a native
 girl named Lara, although I'm not sure how serious that relationship
 really is."
@@ -249,4 +251,5 @@ wasn't a native speaker. He got a job right away at the neighborhood
 grocery store and in his spare time he was learning how to code on my
 laptop. He asked me to borrow textbooks on programming from the
 department and I happily obliged. Even though he had a humanities
-background he actually got really good at coding, and ended up landing an entry-level job in IT not too long after.
+background he actually got really good at coding, and ended up landing
+an entry-level job in IT not too long after.

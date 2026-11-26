@@ -9,7 +9,8 @@ decisions. Speaking of different decisions, I thought suddenly, I
 should call Dana and make arrangements for my arrival.
 
 I found a payphone on the street and called Dana in Paris. She was
-home and picked up right away. She asked me what time I would be arriving and instructed me to take the city shuttle from the Charles
+home and picked up right away. She asked me what time I would be
+arriving and instructed me to take the city shuttle from the Charles
 de Gaulle Airport all the way to the terminus point, Hotel Meridien,
 which was close to where she was staying. She was going to meet me in
 front of the hotel. I thanked her and told her how excited I was to
@@ -50,7 +51,8 @@ was thinking "yeah, I wish she was". Dana welcomed me very warmly, and
 I spent the night in her apartment until the next day, when my dorm
 room at the Cité Universitaire was ready. During my visit she briefed
 me on the social hierarchies in the French scientific circles,
-starting with the top tier, the graduates of the École Normale Supérieure, which were guaranteed life-long employment in the State
+starting with the top tier, the graduates of the École Normale
+Supérieure, which were guaranteed life-long employment in the State
 institutions. I was ready to face my peers at the INRIA!
 
 The next day I went to the Résidence André Honnorat inside the Cité
@@ -197,7 +199,8 @@ he has a private plane and was flying her all over France. I was over
 her by now, but was happy to see her again.
 
 In the following weeks I met several American girls who were there on
-exchange programs for the summer, and I was more than happy to act as their chaperone on their visits to the Eiffel Tower, the Sacré-Cœur
+exchange programs for the summer, and I was more than happy to act as
+their chaperone on their visits to the Eiffel Tower, the Sacré-Cœur
 Basilica, the Latin Quarter, and even the Versailles castle and
 gardens. I had figured out an infallible system: whenever I would go
 for dinner at the Cité Universitaire cafeteria (which had great food
