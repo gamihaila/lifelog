@@ -39,8 +39,8 @@ was going, and he told me: "Go get them! You'll do great!". I arrived
 in Vienna the next day, in the afternoon and, as I had a few hours to
 spare until my connection, checked my luggage at the station and went
 out for a stroll, on the boulevard next to the station. First contact
-with the West! It was everything I imagined and more: expensive
-looking cars, elegant store windows, even a fancy McDonald's
+with the West! It was everything I imagined and more:
+expensive-looking cars, elegant store windows, even a fancy McDonald's
 restaurant. I was hungry and also curious, so I walked in and ordered
 a Big Mac meal, my first! An old lady, figuring that I was new in
 town, pointed me to the ketchup and straws. It was great! Afterwards,

@@ -236,7 +236,7 @@ very nice, it was a university-owned place for visiting researchers,
 and had access to a closed-circuit grocery store, just like the
 Communist leaders had in Romania. I quickly discovered a new favorite
 drink, Orange Schweppes. On the streets, though, try as I might, I
-never saw any good looking Bulgarian girl, none as pretty as my
+never saw any good-looking Bulgarian girl, none as pretty as my
 compatriots.
 
 In the apartment I found a copy of Goethe's "Sorrows of Young
