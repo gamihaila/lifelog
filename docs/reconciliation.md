@@ -22,7 +22,8 @@ ruined my life, and give him a piece of her mind."
 
 I got into a cab and twenty minutes later I was sitting with the two
 of them, drinking what Mihaela liked to call "melancholic beverages."
-Whatever awkwardness I had braced for melted away almost immediately; Mihaela scolded me thoroughly over a few beers, and Grațiela was
+Whatever awkwardness I had braced for melted away almost immediately;
+Mihaela scolded me thoroughly over a few beers, and Grațiela was
 laughing again, relaxed in a way I hadn't seen in weeks. We were back
 together before the night was over. In fact, we never went to sleep at
 all. We visited a friend in a nearby dormitory and stayed up until the

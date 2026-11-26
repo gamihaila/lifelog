@@ -74,7 +74,8 @@ would have been worth when Google finally went public.
 
 Soon after, I finished my PhD. My scholarship money ran out the moment
 I graduated, and so did something else: my apartment. I had been
-living in Graduate Family Housing on Charles Street with my fiancée, Grațiela, and graduation meant we had to be out by the end of
+living in Graduate Family Housing on Charles Street with my fiancée,
+Grațiela, and graduation meant we had to be out by the end of
 September. We put our furniture into storage and went looking for
 somewhere to live while my US work visa, the one for IBM, was still
 being processed with no end in sight. After a lot of searching we
@@ -121,8 +122,8 @@ the travel expenses for my interviews. So I got on a plane and flew to
 Seattle, all expenses paid. First, I interviewed at Crossgain: they
 had me meet with several engineers and code on the whiteboard, then
 Adam invited me into his office to offer me a software engineer job. I
-told him I already had an offer for a research position from IBM but
-I took his written offer and told him I would give him an answer soon.
+told him I already had an offer for a research position from IBM but I
+took his written offer and told him I would give him an answer soon.
 
 After the Crossgain interview I still had a day before the Nimble
 interview and I decided to drive to Vancouver for the day. Once there
@@ -255,7 +256,8 @@ Thankfully, they were all living far enough from Ground Zero, as the
 former site of the World Trade Center became known.
 
 Just a few weeks before we had contacted a real estate agent to help
-us find a home in Westchester County. When she called us afterwards we told her we were canceling our search for now, we really didn't know
+us find a home in Westchester County. When she called us afterwards we
+told her we were canceling our search for now, we really didn't know
 what was going to happen to America. Nothing was the same after that,
 newspapers were full of hate for all Muslims, huge Wanted pictures of
 Osama bin Laden on their front pages, airport security became
