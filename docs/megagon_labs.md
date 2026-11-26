@@ -46,7 +46,9 @@ she saw my name there; I didn't expect it either, so it really was a
 nice surprise for the both of us! After the conference, Alon convinced
 all of us to take a flight to Iguaçu, to see the famous Falls. "Come
 on", I remember him saying to us, "how many times in your life would
-you have a chance to see this? Let's all go together!" So we all went,
+you have a chance to see this? Let's all go together!" 
+
+So we all went,
 including Maria, and had a great time. Our group got assigned a fantastic tour guide, a young Brazilian woman
 who spoke five languages, including Japanese, English and French. She
 took us to the best viewing spots and answered all our questions.
@@ -111,20 +113,28 @@ side: we agreed on a protocol for the communication with the backend
 and we refined it over time, testing every change in the app. John was really fun to work with: not only did he implement the entire
 frontend by himself, he was always eager to understand more about the
 entire stack; one day, as we were discussing the backend logic, John
-asked me: "George, why are these arrays called vectors? I thought
-vectors are supposed to express physical quantities with direction and
-magnitude, like force and velocity." "Well, they are, and in the usual
-three-dimensional space we live in, they are encoded as arrays of
-length three, where each cell holds one coordinate, and in programming
-languages they are called both arrays or vectors. In general, we can
-have vectors of any dimensionality in longer arrays," I explained.
+asked me:
+
+"George, why are these arrays called vectors? I thought vectors are
+supposed to express physical quantities with direction and magnitude,
+like force and velocity."
+
+"Well, they are, and in the usual three-dimensional space we live in,
+they are encoded as arrays of length three, where each cell holds one
+coordinate, and in programming languages they are called both arrays
+or vectors. In general, we can have vectors of any dimensionality in
+longer arrays," I explained.
+
 "Wow, so they are really the same thing, nobody taught us that. So how
 come you guys are talking about the cosine similarity when you're
 really just computing the dot product of the vectors?" he asked,
-puzzled. So I went to the whiteboard and proved to him that the cosine
-of the angle between two unit vectors is equal to their dot product.
-He was in awe. I never had a more rewarding teaching experience either
-before or after that.
+puzzled.
+
+So I went to the whiteboard and proved to him that the cosine of the
+angle between two unit vectors is equal to their dot product. He was
+in awe. I never had a more rewarding teaching experience either before
+or after that.
+
 
 A couple of months after I became the de facto architect of the new
 system, one early morning Alon turned around with his chair (his desk
