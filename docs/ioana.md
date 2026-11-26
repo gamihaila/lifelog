@@ -681,17 +681,18 @@ bad she was already married. I didn't find the story amusing.
 
 After all the summer trips were over, we took turns living with our
 parents, one week staying in my old bedroom, the next in her old
-bedroom, waiting for the renovations to be done for a small one-bedroom apartment Ioana's parents had bought years before and had been
-renting out to a young Roma family with two small children until we
-got married. Fall came and the renovations were still not done, so we
-continued our nomadic life well into the first semester of our senior
-year at the University. My father was continuing his habit of waking
-me up, now waking both of us and getting us ready to go to school.
-Ioana would sometimes sleep in and skip the first class, despite my
-father's disapproving admonitions (he was still a professor in that
-very same university and hated it when his own students were absent).
-Not a great way to start a marriage, I'll tell you that much. Looking
-back, we should have postponed that wedding at least until the
+bedroom, waiting for the renovations to be done for a small
+one-bedroom apartment Ioana's parents had bought years before and had
+been renting out to a young Roma family with two small children until
+we got married. Fall came and the renovations were still not done, so
+we continued our nomadic life well into the first semester of our
+senior year at the University. My father was continuing his habit of
+waking me up, now waking both of us and getting us ready to go to
+school. Ioana would sometimes sleep in and skip the first class,
+despite my father's disapproving admonitions (he was still a professor
+in that very same university and hated it when his own students were
+absent). Not a great way to start a marriage, I'll tell you that much.
+Looking back, we should have postponed that wedding at least until the
 apartment was ready, but we were impatient to be officially married
 and not have to sneak behind her parents' back, with the neighbors
 watching us from behind their curtains.
