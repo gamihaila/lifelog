@@ -13,7 +13,7 @@ Sofia, Bulgaria, following my dad who was sent there for research by
 the university), I had to pack and get ready to join the Army. That
 meant a wood suitcase, with a lock, packed with essentials, but not
 clothes. My father went with me by train to Focșani, a small town
-three hours North-East of home, where I was scheduled to report for
+three hours northeast of home, where I was scheduled to report for
 duty.
 
 Once at the unit, I said goodbye to him, and joined my fellow

@@ -681,8 +681,7 @@ bad she was already married. I didn't find the story amusing.
 
 After all the summer trips were over, we took turns living with our
 parents, one week staying in my old bedroom, the next in her old
-bedroom, waiting for the renovations to be done for a small one
-bedroom apartment Ioana's parents had bought years before and had been
+bedroom, waiting for the renovations to be done for a small one-bedroom apartment Ioana's parents had bought years before and had been
 renting out to a young Roma family with two small children until we
 got married. Fall came and the renovations were still not done, so we
 continued our nomadic life well into the first semester of our senior
