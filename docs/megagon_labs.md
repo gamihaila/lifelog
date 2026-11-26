@@ -46,7 +46,9 @@ she saw my name there; I didn't expect it either, so it really was a
 nice surprise for the both of us! After the conference, Alon convinced
 all of us to take a flight to Iguaçu, to see the famous Falls. "Come
 on", I remember him saying to us, "how many times in your life would
-you have a chance to see this? Let's all go together!" So we all went,
+you have a chance to see this? Let's all go together!" 
+
+So we all went,
 including Maria, and had a great time. Our group got assigned a fantastic tour guide, a young Brazilian woman
 who spoke five languages, including Japanese, English and French. She
 took us to the best viewing spots and answered all our questions.
