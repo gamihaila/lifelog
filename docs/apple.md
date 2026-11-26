@@ -10,8 +10,8 @@ me she got an offer from Apple, sometime around 2015. "That's
 exciting, you should take it!", I said. She did.
 
 We continued to have regular lunches after that, and in the fall of
-2018, when I told her I'm thinking of leaving Megagon, she immediately
-suggested I should consider following her at Apple Maps.
+2018, when I told her I was thinking of leaving Megagon, she
+immediately suggested I should consider following her at Apple Maps.
 
 "Maps?", I remember asking, "what's so interesting about Maps, it's
 just an app..."
@@ -33,7 +33,7 @@ companies, and started interviewing in earnest. Within the span of a
 few weeks I had offers from LinkedIn, Open Storage, and Apple. For
 Apple I had interviewed in two different divisions: Maps and Siri. The
 Apple Siri recruiter told me they wanted to prepare an offer, but that
-I need to pick between them and Maps first. I picked Maps, in large
+I needed to pick between them and Maps first. I picked Maps, in large
 part because of Roxana.
 
 I joined Apple Maps in the spring of 2019. I started getting used to
@@ -97,28 +97,29 @@ in-person interactions we had taken for granted before.
 
 Initially all of us had to work from home, but after a few months we
 were allowed the option to come back to the office, if we wanted. I
-asked each engineer in my team if they want to come back, but none of
-them was willing. At the time, my kids were also at home, doing their
-school work over Zoom meetings, and I was having trouble concentrating
-at home. So I went back to the office. I was the only one. The entire
-campus was completely empty. I really felt like that lone guy in the
-Passengers movie, before waking up Aurora from her hibernation pod. A
-few more months passed, and one day another engineer showed up in the
-office. Her name was Franziska, she was a new hire in another team,
-and she had just moved from Germany. Naturally, we started spending
-time together, playing table tennis during the breaks, talking, and
-cycling to the other, larger Apple buildings that had their cafeterias
-open (ours was still closed for lack of customers). Slowly, very
-slowly, more engineers started showing up, and we would all go to
-lunch together. At some point, she told me in passing that she is
-planning to get her California driver license (she had a German one),
-but she didn't have a car for the road test. As I had a Nissan Leaf in
-addition to our family car, I offered to lend it to her to practice
-and also to go with her to the DMV for the test. I have fond memories
-of our long conversations from that time, she was helping me through
-some difficult interactions with my daughters, providing some
-perspective from her own college years. Even after she eventually
-moved to Southern California, we still kept in touch as friends.
+asked each engineer in my team if they wanted to come back, but none
+of them was willing. At the time, my kids were also at home, doing
+their school work over Zoom meetings, and I was having trouble
+concentrating at home. So I went back to the office. I was the only
+one. The entire campus was completely empty. I really felt like that
+lone guy in the Passengers movie, before waking up Aurora from her
+hibernation pod. A few more months passed, and one day another
+engineer showed up in the office. Her name was Franziska, she was a
+new hire in another team, and she had just moved from Germany.
+Naturally, we started spending time together, playing table tennis
+during the breaks, talking, and cycling to the other, larger Apple
+buildings that had their cafeterias open (ours was still closed for
+lack of customers). Slowly, very slowly, more engineers started
+showing up, and we would all go to lunch together. At some point, she
+told me in passing that she was planning to get her California
+driver's license (she had a German one), but she didn't have a car for
+the road test. As I had a Nissan Leaf in addition to our family car, I
+offered to lend it to her to practice and also to go with her to the
+DMV for the test. I have fond memories of our long conversations from
+that time, she was helping me through some difficult interactions with
+my daughters, providing some perspective from her own college years.
+Even after she eventually moved to Southern California, we still kept
+in touch as friends.
 
 At work, I was spending more and more time in (virtual) meetings, and
 less and less time doing what I love, designing and building software.
@@ -139,7 +140,7 @@ look for someone else to manage the team. Do you have any
 suggestions?"
 
 "Actually, I do, and I think he would do a great job." I said, and
-nominated the best senior engineer in my team, who was the de-facto
+nominated the best senior engineer in my team, who was the de facto
 architect of the new system.
 
 So it was, that after about three years of management, I went back to
