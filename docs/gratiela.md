@@ -46,8 +46,7 @@ the marrying kind, and that I should look for someone else". "OK",
 Grațiela said, "I understand that's how she feels, but how do you
 feel?" I didn't quite know what to say to that, my feelings were
 complicated: I was still feeling affection for Lara, but I was ready
-to move on. It was honestly strange: me and Lara had not officially
-broken up, we didn't have a fight, and we had not been unfaithful to
+to move on. It was honestly strange: Lara and I had not officially broken up, we didn't have a fight, and we had not been unfaithful to
 one another. It was just a slowly dying relationship. So I tried my
 best to explain the situation to Grațiela, who was surprisingly
 understanding and didn't run away hearing about all this, like all the
@@ -102,7 +101,7 @@ met Grațiela in the waiting area by the gate, and she was keeping her
 composure, determined to avoid me. Luckily, Lara had listened to
 reason and didn't show up, after all. She was impulsive, but not
 stupid: what was she going to do in Bucharest by herself if she wasn't
-my girlfriend anymore? So me and Grațiela boarded the plane together
+my girlfriend anymore? So Grațiela and I boarded the plane together
 but didn't talk much. We stopped over in Amsterdam. We decided it was
 silly to keep avoiding each other, so we had breakfast together at
 Schiphol Airport at a place whimsically called "Sandwich Island". Once

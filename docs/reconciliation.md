@@ -22,8 +22,7 @@ ruined my life, and give him a piece of her mind."
 
 I got into a cab and twenty minutes later I was sitting with the two
 of them, drinking what Mihaela liked to call "melancholic beverages."
-Whatever awkwardness I had braced for melted away almost immediately,
-Mihaela scolded me thoroughly over a few beers, and Grațiela was
+Whatever awkwardness I had braced for melted away almost immediately; Mihaela scolded me thoroughly over a few beers, and Grațiela was
 laughing again, relaxed in a way I hadn't seen in weeks. We were back
 together before the night was over. In fact, we never went to sleep at
 all. We visited a friend in a nearby dormitory and stayed up until the
@@ -34,7 +33,7 @@ The next day I brought her to meet my parents properly. My mother
 threw together a feast, my sister came too, and it was wonderful. The
 day after that, Grațiela and I went to a resort on the Black Sea and
 spent a few lovely days there. One afternoon, strolling along the
-beach, we noticed an Internet cafe and ducked in to check our email.
+beach, we noticed an internet cafe and ducked in to check our email.
 The timing turned out to matter more than I expected: in my University
 of Toronto inbox was a message from the graduate coordinator asking me
 to submit my dissertation abstract by the end of the week. Thanks to

@@ -2,7 +2,7 @@ Grațiela's mom stayed with us and helped with the baby for the first
 six months but then had to go back home as her visa was expiring. Once
 her mom left, Grațiela got so overwhelmed with everything that she was
 seriously considering dropping out of her PhD program. I encouraged
-her to take a year leave of absence instead, and she did.
+her to take a one-year leave of absence instead, and she did.
 
 At the office I was busy with trying to add XML query capabilities to
 IBM's DB2 database engine, working with another fresh PhD graduate,
@@ -115,7 +115,7 @@ over the years I presented my papers in places like Hong Kong,
 Bangalore, Honolulu, Santa Barbara, and other large cities. For most
 of those I had Grațiela come with me, sometimes with the kids too.
 This was the best part of the job, almost justifying the dreariness of
-all the years spent working in that window-less, fluorescent-lit,
+all the years spent working in that windowless, fluorescent-lit,
 depressing office, craving a real-world impact that just didn't seem
 to materialize. Almost worth it, but not really, at least not for me.
 
