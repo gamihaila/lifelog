@@ -181,36 +181,36 @@ Constanța, then a bus to Mamaia with all our bags, including a large
 metal beach umbrella, Soviet-made, that I had to carry. We found a
 terrace by the beach and sat down to have a glass of Pepsi-Cola (a
 rarity in those days, only available in restaurants). My dad went to
-the Tourism Office, and asked to speak with the Chief of
-Protocol. What's that, you ask? It's the person in charge of
-coordinating hotel assignments for VIPs (usually party officials and
-other very important people). In the case of my dad, his name was
-placed on that list by a former doctoral student of his who was now a
-professor at the University of Constanța. He was our connection since
-his appointment, which removed the anxiety of hunting for hotel
-availability months in advance that regular citizens had to resign
-themselves to. Every year we just showed up unannounced, and, no
-matter how fully booked the hotels were, there were always rooms
-available for us. As a sixth-grader, I really felt special.
+the Tourism Office, and asked to speak with the Chief of Protocol.
+What's that, you ask? It's the person in charge of coordinating hotel
+assignments for VIPs (usually party officials and other very important
+people). In the case of my dad, his name was placed on that list by a
+former doctoral student of his who was now a professor at the
+University of Constanța. He was our connection since his appointment,
+which removed the anxiety of hunting for hotel availability months in
+advance that regular citizens had to resign themselves to. Every year
+we just showed up unannounced, and, no matter how fully booked the
+hotels were, there were always rooms available for us. As a
+sixth-grader, I really felt special.
 
 So, after spending a few minutes in the Tourism Office, my dad emerged
 victorious with a large room reservation in the best hotel in Mamaia,
 usually reserved for foreign tourists. We were overjoyed! We walked to
 the hotel and checked in, and then my sister and I spent some time in
-the luxurious hotel lobby. At the reception they had shelves on
-top of shelves chock-full of Toblerone chocolate prisms, Tic Tacs of
-every imaginable flavor and color, and other Western candies, the
-likes of which we only saw in American movies and never in regular
-stores. I was entranced, like Charlie from the Willy Wonka movie.
-When I asked my sister to buy me some, though, I was suddenly brought
-back to reality: these items could only be purchased with hard
-currency, dollars, deutschmarks, or the like, not for our Romanian lei!
-Imagine, to have them right there, but to not be able to buy them. It
-was a slap in the face, a grim reminder that we were second-rate
-citizens in our own country. I was aware of this system of shops,
-named Comturist, from Bucharest, but at least there the access was
-restricted at the door, here the merchandise was on full display in
-the open, right under my nose.
+the luxurious hotel lobby. At the reception they had shelves on top of
+shelves chock-full of Toblerone chocolate prisms, Tic Tacs of every
+imaginable flavor and color, and other Western candies, the likes of
+which we only saw in American movies and never in regular stores. I
+was entranced, like Charlie from the Willy Wonka movie. When I asked
+my sister to buy me some, though, I was suddenly brought back to
+reality: these items could only be purchased with hard currency,
+dollars, deutschmarks, or the like, not for our Romanian lei! Imagine,
+to have them right there, but to not be able to buy them. It was a
+slap in the face, a grim reminder that we were second-rate citizens in
+our own country. I was aware of this system of shops, named Comturist,
+from Bucharest, but at least there the access was restricted at the
+door, here the merchandise was on full display in the open, right
+under my nose.
 
 In the hotel's dining hall, we had an assigned time slot when we could
 have our meals, and an assigned table. We sat down for breakfast the
@@ -221,6 +221,7 @@ language, we were the only locals. Not a very good way to instill a
 love of our beloved leader, I'll tell you that much.
 
 ...
+
 
 Life at Școala Generală Nr. 205 was in most respects like life
 anywhere else: homework, teachers, friendships, the usual problems of
