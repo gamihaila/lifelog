@@ -3,9 +3,20 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+(function () {
+  try {
+    var p = JSON.parse(localStorage.getItem("lifelog-prefs") || "{}");
+    var d = document.documentElement;
+    ["theme", "font", "size", "width", "leading", "align"].forEach(function (k) {
+      if (p[k]) d.setAttribute("data-" + k, p[k]);
+    });
+  } catch (e) {}
+})();
+</script>
 <meta name="author" content="George A. Mihaila">
 <meta name="dcterms.date" content="June 18, 2026">
-<meta name="dcterms.modified" content="November 26, 2026">
+<meta name="dcterms.modified" content="November 28, 2026">
 <meta name="copyright" content="George Andrei Mihaila">
 <title>First Jobs &mdash; From Bucharest to California</title>
 <style>
@@ -16,27 +27,62 @@
     --muted: #9c8f74;
     --accent: #7c5c3b;
     --rule: #e8dfc4;
+    --font: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+    --size: 22px;
+    --width: 720px;
+    --leading: 1.5;
   }
+  /* Reader display options. The defaults above are the original design;
+     a small script (see PREFS_SCRIPT / SETTINGS below) sets these
+     data-* attributes on <html> from the reader's saved choices. */
+  html[data-theme="paper"] {
+    --bg: #fdfdf8; --paper: #fdfdf8; --ink: #2e2c26;
+    --muted: #8a8574; --accent: #7c5c3b; --rule: #e4dfcd;
+  }
+  html[data-theme="sepia"] {
+    --bg: #eee1c6; --paper: #eee1c6; --ink: #46351d;
+    --muted: #a1895e; --accent: #8a5a2b; --rule: #dcc99e;
+  }
+  html[data-theme="dark"] {
+    --bg: #201d18; --paper: #201d18; --ink: #e7ddc8;
+    --muted: #9c917b; --accent: #d2a95e; --rule: #3b372e;
+    color-scheme: dark;
+  }
+  html[data-font="palatino"] {
+    --font: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+  }
+  html[data-font="sans"] {
+    --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+      "Helvetica Neue", Arial, sans-serif;
+  }
+  html[data-size="s"] { --size: 19px; }
+  html[data-size="l"] { --size: 25px; }
+  html[data-size="xl"] { --size: 28px; }
+  html[data-width="narrow"] { --width: 620px; }
+  html[data-width="wide"] { --width: 880px; }
+  html[data-leading="compact"] { --leading: 1.4; }
+  html[data-leading="relaxed"] { --leading: 1.75; }
+  html[data-align="left"] .chapter p { text-align: left; hyphens: none; }
   * { box-sizing: border-box; }
   body {
     margin: 0;
     background: var(--bg);
     color: var(--ink);
-    font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
-    line-height: 1.5;
-    font-size: 22px;
+    font-family: var(--font);
+    line-height: var(--leading);
+    font-size: var(--size);
   }
   a { color: var(--accent); text-decoration: none; }
   a:hover { text-decoration: underline; }
 
   .page {
-    max-width: 720px;
+    max-width: var(--width);
     margin: 0 auto;
     padding: 4vh 28px 6vh;
   }
 
   header.title-page {
-    max-width: 720px;
+    max-width: var(--width);
     margin: 0 auto;
     padding: 12vh 32px 8vh;
     text-align: center;
@@ -69,7 +115,7 @@
   }
 
   section.dedication {
-    max-width: 720px;
+    max-width: var(--width);
     margin: 0 auto;
     padding: 4vh 32px 8vh;
     text-align: center;
@@ -152,10 +198,52 @@
   footer .revision { margin-top: .4em; }
 
   @media (max-width: 600px) {
-    body { font-size: 21px; }
+    :root { --size: 21px; }
+    html[data-size="s"] { --size: 18px; }
+    html[data-size="l"] { --size: 24px; }
+    html[data-size="xl"] { --size: 27px; }
     header.title-page h1 { font-size: 2rem; }
     .page { padding-left: 22px; padding-right: 22px; }
     .chapter h1 { font-size: 1.8rem; }
+  }
+
+  /* Reading-settings control (see SETTINGS below). */
+  .reader-settings {
+    position: fixed; right: 18px; bottom: 18px; z-index: 50;
+    font-size: 15px; line-height: 1.35;
+  }
+  .rs-toggle {
+    width: 46px; height: 46px; border-radius: 50%;
+    border: 1px solid var(--rule); background: var(--bg);
+    color: var(--accent); font-family: var(--font); font-size: 17px;
+    cursor: pointer; box-shadow: 0 4px 18px rgba(0,0,0,.18);
+  }
+  .rs-panel {
+    position: absolute; right: 0; bottom: 56px; width: 248px;
+    background: var(--bg); color: var(--ink);
+    border: 1px solid var(--rule); border-radius: 10px;
+    box-shadow: 0 12px 40px rgba(0,0,0,.25); padding: 14px 16px;
+  }
+  .rs-panel h2 {
+    font-size: .78rem; letter-spacing: 2px; text-transform: uppercase;
+    color: var(--muted); margin: 0 0 10px; font-weight: 600;
+  }
+  .rs-group { margin-bottom: 12px; }
+  .rs-group .rs-label { display: block; color: var(--muted);
+    font-size: .8rem; margin-bottom: 5px; }
+  .rs-opts { display: flex; flex-wrap: wrap; gap: 6px; }
+  .rs-opts button {
+    border: 1px solid var(--rule); background: transparent;
+    color: var(--ink); border-radius: 999px; padding: 4px 11px;
+    font: inherit; font-size: .85rem; cursor: pointer;
+  }
+  .rs-opts button[aria-pressed="true"] {
+    background: var(--accent); border-color: var(--accent); color: var(--bg);
+  }
+  .rs-reset {
+    border: none; background: none; color: var(--accent);
+    font: inherit; font-size: .85rem; cursor: pointer; padding: 0;
+    text-decoration: underline;
   }
 
 </style>
@@ -468,7 +556,104 @@ the license. She had a point!</p>
 </div>
 <footer>
   <p>&copy; George Andrei Mihaila</p>
-  <p class="revision">Published June 18, 2026 &middot; Revised November 26, 2026</p>
+  <p class="revision">Published June 18, 2026 &middot; Revised November 28, 2026</p>
 </footer>
+<div class="reader-settings">
+  <div class="rs-panel" id="rs-panel" hidden>
+    <h2>Reading settings</h2>
+    <div class="rs-group"><span class="rs-label">Background</span>
+      <div class="rs-opts">
+        <button type="button" data-key="theme" data-value="cream">Cream</button>
+        <button type="button" data-key="theme" data-value="paper">Paper</button>
+        <button type="button" data-key="theme" data-value="sepia">Sepia</button>
+        <button type="button" data-key="theme" data-value="dark">Dark</button>
+      </div></div>
+    <div class="rs-group"><span class="rs-label">Font</span>
+      <div class="rs-opts">
+        <button type="button" data-key="font" data-value="serif">Serif</button>
+        <button type="button" data-key="font" data-value="palatino">Palatino</button>
+        <button type="button" data-key="font" data-value="sans">Sans</button>
+      </div></div>
+    <div class="rs-group"><span class="rs-label">Text size</span>
+      <div class="rs-opts">
+        <button type="button" data-key="size" data-value="s">Small</button>
+        <button type="button" data-key="size" data-value="m">Medium</button>
+        <button type="button" data-key="size" data-value="l">Large</button>
+        <button type="button" data-key="size" data-value="xl">Extra large</button>
+      </div></div>
+    <div class="rs-group"><span class="rs-label">Column</span>
+      <div class="rs-opts">
+        <button type="button" data-key="width" data-value="narrow">Narrow</button>
+        <button type="button" data-key="width" data-value="normal">Normal</button>
+        <button type="button" data-key="width" data-value="wide">Wide</button>
+      </div></div>
+    <div class="rs-group"><span class="rs-label">Spacing</span>
+      <div class="rs-opts">
+        <button type="button" data-key="leading" data-value="compact">Compact</button>
+        <button type="button" data-key="leading" data-value="normal">Normal</button>
+        <button type="button" data-key="leading" data-value="relaxed">Relaxed</button>
+      </div></div>
+    <div class="rs-group"><span class="rs-label">Paragraphs</span>
+      <div class="rs-opts">
+        <button type="button" data-key="align" data-value="justify">Justified</button>
+        <button type="button" data-key="align" data-value="left">Left-aligned</button>
+      </div></div>
+    <button type="button" class="rs-reset" id="rs-reset">Reset to defaults</button>
+  </div>
+  <button type="button" class="rs-toggle" id="rs-toggle" aria-haspopup="true" aria-expanded="false" title="Reading settings">Aa</button>
+</div>
+<script>
+(function () {
+  var KEY = "lifelog-prefs";
+  var DEFAULTS = { theme: "cream", font: "serif", size: "m",
+                   width: "normal", leading: "normal", align: "justify" };
+  function load() {
+    try { return JSON.parse(localStorage.getItem(KEY) || "{}"); }
+    catch (e) { return {}; }
+  }
+  function save(p) {
+    try { localStorage.setItem(KEY, JSON.stringify(p)); } catch (e) {}
+  }
+  function apply(p) {
+    var d = document.documentElement;
+    Object.keys(DEFAULTS).forEach(function (k) {
+      if (p[k] && p[k] !== DEFAULTS[k]) d.setAttribute("data-" + k, p[k]);
+      else d.removeAttribute("data-" + k);
+    });
+  }
+  var prefs = load();
+  var panel = document.getElementById("rs-panel");
+  var toggle = document.getElementById("rs-toggle");
+  function syncButtons() {
+    document.querySelectorAll(".rs-opts button").forEach(function (b) {
+      var k = b.getAttribute("data-key");
+      var cur = prefs[k] || DEFAULTS[k];
+      b.setAttribute("aria-pressed",
+                     b.getAttribute("data-value") === cur ? "true" : "false");
+    });
+  }
+  document.querySelectorAll(".rs-opts button").forEach(function (b) {
+    b.addEventListener("click", function () {
+      prefs[b.getAttribute("data-key")] = b.getAttribute("data-value");
+      save(prefs); apply(prefs); syncButtons();
+    });
+  });
+  function setOpen(open) {
+    panel.hidden = !open;
+    toggle.setAttribute("aria-expanded", open ? "true" : "false");
+  }
+  toggle.addEventListener("click", function () { setOpen(panel.hidden); });
+  document.addEventListener("click", function (e) {
+    if (!panel.hidden && !e.target.closest(".reader-settings")) setOpen(false);
+  });
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape") setOpen(false);
+  });
+  document.getElementById("rs-reset").addEventListener("click", function () {
+    prefs = {}; save(prefs); apply(prefs); syncButtons();
+  });
+  syncButtons();
+})();
+</script>
 </body>
 </html>
